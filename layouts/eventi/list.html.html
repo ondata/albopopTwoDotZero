@@ -1,0 +1,9 @@
+{{ partial "header.html" . }}
+<h1>Questa è la sezione eventi</h1>
+<h2>{{ .Title }}</h2>
+{{ range $index, $page := (.Paginate (where .Data.Pages "Type" "eventi")).Pages }}
+{{ if ne $index 0 }}
+{{ end }}
+{{ .Render "li" }}
+{{ end }}
+{{ partial "footer.html" . }}

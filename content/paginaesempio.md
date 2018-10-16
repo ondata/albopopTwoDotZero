@@ -1,5 +1,5 @@
 ---
-title: "Questa è una pagina di esempio"
+title: "Pagina di esempio"
 menu: "main"
 draft: false
 layout: "demolayout"

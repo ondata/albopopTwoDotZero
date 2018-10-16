@@ -49,13 +49,13 @@
   </url>
   
   <url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2018-10-01T09:00:00-04:00</lastmod>
-    <priority>0</priority>
+    <loc>https://example.com/paginaesempio/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/paginaesempio/</loc>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2018-10-01T09:00:00-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
