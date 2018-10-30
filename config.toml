@@ -1,0 +1,26 @@
+baseURL = "http://albopop.it"
+languageCode = "it-IT"
+title = "Albopop 2.0"
+theme = "albopop"
+
+[menu]
+    [[menu.main]]
+        identifier = "comuni"
+        name = "Comuni e altre PA"
+        url = "#"
+        weight = -140
+    [[menu.main]]
+        identifier = "chi-siamo"
+        name = "Chi siamo"
+        url = "#"
+        weight = -130
+    [[menu.main]]
+        identifier = "partecipa"
+        name = "Partecipa"
+        url = "#"
+        weight = -120        
+    [[menu.main]]
+        identifier = "blog"
+        name = "Blog"
+        url = "#"
+        weight = -110

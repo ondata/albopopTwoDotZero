@@ -1,0 +1,3 @@
+[submodule "themes/albopop"]
+	path = themes/albopop
+	url = git@github.com:ondata/albopopTwoDotZero-theme.git
