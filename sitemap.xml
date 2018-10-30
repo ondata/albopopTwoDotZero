@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://albopop.it/</loc>
+    <loc>https://ondata.github.io/albopopTwoDotZero/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://albopop.it/categories/</loc>
+    <loc>https://ondata.github.io/albopopTwoDotZero/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://albopop.it/tags/</loc>
+    <loc>https://ondata.github.io/albopopTwoDotZero/tags/</loc>
     <priority>0</priority>
   </url>
   
