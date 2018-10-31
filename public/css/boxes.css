@@ -30,6 +30,10 @@
     width: auto;
 }
 
+.card-box .card-img-cover img {
+    width: 100%;
+}
+
 .card-box .card h1 {
     font-size: 24px;
     font-weight: bold;

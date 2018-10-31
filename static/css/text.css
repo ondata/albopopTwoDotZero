@@ -22,3 +22,7 @@ a:visited {
 p {
     margin-bottom: 2rem;
 }
+
+.em-text {
+    font-style: italic;
+}

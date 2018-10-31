@@ -38,9 +38,9 @@
         </section>
 
         <section class="row em-section">
-            <div class="col-10">
-                <div class="row">
-                    <div class="col-6 text-box hl-box">
+            <div class="col-12">
+                <div class="row r-section">
+                    <div class="col-5 text-box hl-box">
                         <h1>In Pratica</h1>
                         <p>AlboPOP permette di trasformare ogni Albo Pretorio in un Account Twitter, un Feed RSS ed un Canale di Telegram, sui quali verrà pubblicato ogni nuova pubblicazione effettuata in Albo.</p>
                         <p>AlboPOP è un progetto aperto al quale chiunque può contribuire, anche senza essere uno sviluppatore, e fare in modo che il proprio Comune, o Ente Pubblico, possa aderire.</p>
@@ -48,9 +48,21 @@
                         <h2>Vuoi inserire il tuo Comune?</h2>
                         <p><button class="btn btn-primary btn-lg call-to-action hl-button">Leggi tutte le domande</button></p>
                     </div>
-                    <div class="col-2 image-card">Twitter</div>
-                    <div class="col-2 image-card">Telegram</div>
-                    <div class="col-2 image-card">RSS</div>
+                    <div class="col-3 d-flex flex-column justify-content-center card-box">
+                        <a class="card position-relative" href="#" style="left:0px">
+                            <div class="card-img-cover"><img src="{{ .Site.BaseURL }}images/twitter.svg" alt="Twitter"></div>
+                        </a>
+                    </div>
+                    <div class="col-1 d-flex flex-column justify-content-center card-box">
+                        <a class="card position-relative" href="#" style="left:0px">
+                            <div class="card-img-cover"><img src="{{ .Site.BaseURL }}images/telegram.svg" alt="Telegram" style="width:200%"></div>
+                        </a>
+                    </div>
+                    <div class="col-2 d-flex flex-column justify-content-center card-box">
+                        <a class="card position-relative" href="#" style="left:50px">
+                            <div class="card-img-cover"><img src="{{ .Site.BaseURL }}images/rss.svg" alt="RSS"></div>
+                        </a>
+                    </div>
                 </div>
             </div>
         </section>
@@ -69,7 +81,7 @@
                     </div>
                     <div class="col-4 card-box">
                         <a class="card" href="#">
-                            <div class="card-img-top"><img src="{{ .Site.BaseURL }}images/aderisci.png" alt="Card image cap"></div>
+                            <div class="card-img-top"><img src="{{ .Site.BaseURL }}images/aderisci.png" alt="Aderisci"></div>
                             <div class="card-body">
                                 <h1 class="card-title">Aderisci ufficialmente</h1>
                                 <p class="card-text">Basta una determina per diventare più trasparente e offrire un servizio migliore e gratuito ai cittadini.</p>
@@ -78,7 +90,7 @@
                     </div>
                     <div class="col-4 card-box">
                         <a class="card" href="#">
-                            <div class="card-img-top"><img src="{{ .Site.BaseURL }}images/forum.png" alt="Card image cap"></div>
+                            <div class="card-img-top"><img src="{{ .Site.BaseURL }}images/forum.png" alt="Forum"></div>
                             <div class="card-body">
                                 <h1 class="card-title">Forum</h1>
                                 <p class="card-text">Chiedi, impara e insegna. Ognuno può portare la propria conoscenza. Partecipa alle discussioni sul Forum.</p>

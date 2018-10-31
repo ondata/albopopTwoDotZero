@@ -3,6 +3,10 @@ main > section {
     padding-top: 5em;
 }
 
+.r-section {
+    justify-content: flex-end;
+}
+
 .top-section {
     padding-top: 5em;
     padding-bottom: 5em;
