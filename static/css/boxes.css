@@ -1,0 +1,45 @@
+.text-box,
+.card-box {
+    margin-bottom: 5em;
+}
+
+.text-box h1,
+.text-box h2,
+.text-box h3 {
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+.hl-box h1 {
+    color: red;
+}
+
+.card {
+    border-radius: 8px;
+    box-shadow: 0 7px 30px -10px rgba(0, 0, 0, .3);
+    color: #000;
+    border: none;
+}
+
+.card-box .card-img-top {
+    text-align: center;
+}
+
+.card-box .card-img-top img {
+    height: 100px;
+    width: auto;
+}
+
+.card-box .card h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+a.card,
+a.card:hover,
+a.card:active,
+a.card:focus,
+a.card:visited {
+    color: initial;
+    text-decoration: initial;
+}

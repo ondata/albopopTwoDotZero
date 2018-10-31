@@ -1,0 +1,46 @@
+.btn {
+    font-family: Montserrat, sans-serif;
+}
+
+.btn,
+.btn:hover,
+.btn:active,
+.btn:focus,
+.btn:visited {
+    font-weight: bold !important;
+    box-shadow: 0 7px 30px -10px rgba(0, 0, 0, .3) !important;
+    color: initial !important;
+}
+
+.btn-info,
+.btn-info:hover,
+.btn-info:active,
+.btn-info:focus,
+.btn-info:visited {
+    background-color: #cae5f8 !important;
+    border-color: #cae5f8 !important;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:visited {
+    background-color: red !important;
+    border-color: red !important;
+    color: white !important;
+}
+
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:active,
+.btn-secondary:focus,
+.btn-secondary:visited {
+    background-color: white !important;
+    border-color: white !important;
+    color: red !important;
+}
+
+.btn-info:hover {
+    color: red !important;
+}

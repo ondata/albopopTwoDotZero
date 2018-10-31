@@ -1,33 +1,5 @@
-body > .container {
-    font-family: Georgia, Times, 'Times New Roman', serif;
-    padding-top: 3em;
-    margin-bottom: 2em;
-}
-
-main > section {
-    justify-content: center;
-}
-
-.hl-text {
-    font-weight: bold;
-    color: red;
-    font-size: 20px;
-    line-height: 30px;
-}
-
-.top-section {
-    padding-top: 5em;
-    padding-bottom: 5em;
-}
-
-.hl-section {
-    background-color: #cae5f8;
-}
-
-.em-section {
-    background-color: #f9f9f9;
-}
-
-.hl-box h1 {
-    color: red;
-}
+@import url("./body.css");
+@import url("./sections.css");
+@import url("./boxes.css");
+@import url("./buttons.css");
+@import url("./text.css");
