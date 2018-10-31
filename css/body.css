@@ -1,0 +1,16 @@
+body {
+    font-family: Montserrat, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #021b44;
+}
+
+body p {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+body > .container {
+    padding-top: 3em;
+    margin-bottom: 2em;
+}
