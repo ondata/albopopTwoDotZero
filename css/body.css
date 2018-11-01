@@ -4,6 +4,8 @@ body {
     line-height: 30px;
     font-weight: 400;
     color: #021b44;
+    overflow-x: hidden;
+    width: 100%;
 }
 
 body p {

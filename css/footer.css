@@ -1,0 +1,23 @@
+.blog-footer {
+    background-color: #021b44;
+    color: white;
+    padding-bottom: 2em;
+}
+
+.blog-footer .navbar .nav-link {
+    padding: 5px 20px !important;
+}
+
+.blog-footer .navbar .nav-link,
+.blog-footer .navbar .nav-link:hover,
+.blog-footer .navbar .nav-link:active,
+.blog-footer .navbar .nav-link:focus,
+.blog-footer .navbar .nav-link:visited {
+    text-decoration: underline;
+    color: white !important;
+}
+
+.blog-footer .navbar .navbar-nav .nav-link {
+    color: white;
+    padding: 20px;
+}
