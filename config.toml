@@ -25,3 +25,13 @@ copyright = "CC-BY 4.0 Ondata"
         name = "Blog"
         url = "#"
         weight = -110
+    [[menu.secondary]]
+        identifier = "faq"
+        name = "FAQ"
+        url = "#"
+        weight = -140        
+    [[menu.secondary]]
+        identifier = "creative-commons"
+        name = "Creative Commons"
+        url = "#"
+        weight = -130

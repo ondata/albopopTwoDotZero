@@ -1,6 +1,55 @@
 <footer class="blog-footer w-100">
-    <nav class="navbar navbar-light">
-        <p class="w-100 text-center">{{ .Site.Copyright }}</p>
-        <p class="w-100 text-center"><a href="#">{{ i18n "backToTop" }}</a></p>
-    </nav>
+    <section class="row">
+        <div class="col-sm-10">
+            <div class="row">
+                <div class="col-sm-5 align-self-center">
+                    <h1><img class="logo" src="{{ .Site.BaseURL }}images/lettering_white.png" alt="Albopop"></h1>
+                </div>
+                <div class="col-sm-3">
+                    <nav class="navbar">
+                        <div class="justify-content-between">
+                            <ul class="ml-auto navbar-nav">
+                                {{ $url := .URL | relLangURL }}
+                                {{ range .Site.Menus.main }}
+                                <li class="nav-item {{ if eq $url (.URL | relLangURL) }}active{{end}}">
+                                    {{ if eq (hasPrefix .URL "mailto:") true }}
+                                        <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+                                    {{ else }}
+                                        <a class="nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+                                    {{ end }}
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+                <div class="col-sm-3">
+                    <nav class="navbar">
+                        <div class="justify-content-between">
+                            <ul class="ml-auto navbar-nav">
+                                {{ $url := .URL | relLangURL }}
+                                {{ range .Site.Menus.secondary }}
+                                <li class="nav-item {{ if eq $url (.URL | relLangURL) }}active{{end}}">
+                                    {{ if eq (hasPrefix .URL "mailto:") true }}
+                                        <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+                                    {{ else }}
+                                        <a class="nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+                                    {{ end }}
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+                <div class="col-sm-3">
+                    <nav class="navbar">
+                        <div class="justify-content-between">
+                            <ul class="ml-auto navbar-nav">
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </section>
 </footer>

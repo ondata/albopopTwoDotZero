@@ -14,24 +14,49 @@
     color: red;
 }
 
-.card {
+.card-box .card {
     border-radius: 8px;
     box-shadow: 0 7px 30px -10px rgba(0, 0, 0, .3);
     color: #000;
     border: none;
+    border-radius: 15px;
+    overflow: hidden;
 }
 
-.card-box .card-img-top {
+.overflow-content {
+    overflow: visible !important;
+}
+
+.card-box .card-img {
     text-align: center;
 }
 
-.card-box .card-img-top img {
+.card-box .card-img img {
     height: 100px;
     width: auto;
 }
 
-.card-box .card-img-cover img {
+.card-box .card-icon img {
     width: 100%;
+}
+
+.card-box .card-cover {
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 50%;
+}
+
+.card-box .card-cover.cover-red {
+    box-shadow: inset 0 0 0 2000px rgba(255,0,0,.33);
+}
+
+.card-box .card-cover.cover-blue {
+    box-shadow: inset 0 0 0 2000px rgba(0,0,255,.33);
+}
+
+.card-box .card-cover.cover-green {
+    box-shadow: inset 0 0 0 2000px rgba(0,255,0,.33);
 }
 
 .card-box .card h1 {

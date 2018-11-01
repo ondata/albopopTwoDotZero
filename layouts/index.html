@@ -50,17 +50,17 @@
                     </div>
                     <div class="col-6 col-sm-3 d-flex flex-column justify-content-center card-box">
                         <a class="card position-relative" href="#" style="left:0px">
-                            <div class="card-img-cover"><img src="{{ .Site.BaseURL }}images/twitter.svg" alt="Twitter"></div>
+                            <div class="card-icon"><img src="{{ .Site.BaseURL }}images/twitter.svg" alt="Twitter"></div>
                         </a>
                     </div>
                     <div class="col-2 col-sm-1 d-flex flex-column justify-content-center card-box">
-                        <a class="card position-relative" href="#" style="left:0px">
-                            <div class="card-img-cover"><img src="{{ .Site.BaseURL }}images/telegram.svg" alt="Telegram" style="width:200%"></div>
+                        <a class="card position-relative overflow-content" href="#" style="left:0px">
+                            <div class="card-icon"><img src="{{ .Site.BaseURL }}images/telegram.svg" alt="Telegram" style="width:200%"></div>
                         </a>
                     </div>
                     <div class="col-4 col-sm-2 d-flex flex-column justify-content-center card-box">
                         <a class="card position-relative" href="#" style="left:50px">
-                            <div class="card-img-cover"><img src="{{ .Site.BaseURL }}images/rss.svg" alt="RSS"></div>
+                            <div class="card-icon"><img src="{{ .Site.BaseURL }}images/rss.svg" alt="RSS"></div>
                         </a>
                     </div>
                 </div>
@@ -81,7 +81,7 @@
                     </div>
                     <div class="col-sm-4 card-box">
                         <a class="card" href="#">
-                            <div class="card-img-top"><img src="{{ .Site.BaseURL }}images/aderisci.png" alt="Aderisci"></div>
+                            <div class="card-img"><img src="{{ .Site.BaseURL }}images/aderisci.png" alt="Aderisci"></div>
                             <div class="card-body">
                                 <h1 class="card-title">Aderisci ufficialmente</h1>
                                 <p class="card-text">Basta una determina per diventare più trasparente e offrire un servizio migliore e gratuito ai cittadini.</p>
@@ -90,7 +90,7 @@
                     </div>
                     <div class="col-sm-4 card-box">
                         <a class="card" href="#">
-                            <div class="card-img-top"><img src="{{ .Site.BaseURL }}images/forum.png" alt="Forum"></div>
+                            <div class="card-img"><img src="{{ .Site.BaseURL }}images/forum.png" alt="Forum"></div>
                             <div class="card-body">
                                 <h1 class="card-title">Forum</h1>
                                 <p class="card-text">Chiedi, impara e insegna. Ognuno può portare la propria conoscenza. Partecipa alle discussioni sul Forum.</p>
@@ -156,8 +156,41 @@
                                 Vestibulum id ligula porta felis euismod semper.
                         </p>
                     </div>
-                    <div class="col-12 text-box">
+                    <div class="col-12 text-box text-center">
                         <p><button class="btn btn-secondary btn-lg call-to-action">Leggi tutte le domande</button></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="row">
+            <div class="col-sm-10">
+                <div class="row justify-content-between">
+                    <div class="col-12 text-box">
+                        <h1>Leggere gli albi pretori, in che modo dovrebbe aiutare la gente comune?</h1>
+                        <p>
+                            Maecenas faucibus mollis interdum. Vestibulum id ligula porta felis euismod semper.
+                            Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+                            Nullam quis risus eget urna mollis ornare vel eu leo.
+                        </p>
+                    </div>
+                    <div class="col-sm-5 card-box">
+                        <a class="card" href="#">
+                            <div class="card-cover cover-red" style="background-image:url('{{ .Site.BaseURL }}images/bondeno.jpg')"></div>
+                            <div class="card-body">
+                                <h1 class="card-title">Perché ho fatto l'AlboPOP di Bondeno.</h1>
+                                <!--<p class="card-text"></p>-->
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-sm-5 card-box">
+                        <a class="card" href="#">
+                            <div class="card-cover cover-blue" style="background-image:url('{{ .Site.BaseURL }}images/terremoto.jpg')"></div>
+                            <div class="card-body">
+                                <h1 class="card-title">Come AlboPOP può aiutare i cittadini colpiti dal terremoto.</h1>
+                                <!--<p class="card-text"></p>-->
+                            </div>
+                        </a>
                     </div>
                 </div>
             </div>

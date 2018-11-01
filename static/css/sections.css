@@ -1,4 +1,4 @@
-main > section {
+section {
     justify-content: center;
     padding-top: 5em;
 }
@@ -18,4 +18,8 @@ main > section {
 
 .em-section {
     background-color: #f9f9f9;
+}
+
+footer > section {
+    padding-top: 2em;
 }
