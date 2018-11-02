@@ -3,17 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ondata.github.io/albopopTwoDotZero/blog/primo-post/</loc>
+    <lastmod>2018-11-02T17:26:20+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ondata.github.io/albopopTwoDotZero/chi-siamo/</loc>
     <lastmod>2018-11-02T17:21:37+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://ondata.github.io/albopopTwoDotZero/blog/</loc>
+    <lastmod>2018-11-02T17:26:20+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://ondata.github.io/albopopTwoDotZero/</loc>
-    <lastmod>2018-11-02T17:21:37+01:00</lastmod>
+    <lastmod>2018-11-02T17:26:20+01:00</lastmod>
     <priority>0</priority>
   </url>
   
