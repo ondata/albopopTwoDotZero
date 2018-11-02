@@ -1,8 +1,9 @@
 baseURL = "https://ondata.github.io/albopopTwoDotZero/"
-languageCode = "it-IT"
 title = "Albopop 2.0"
 theme = "albopop"
 copyright = "CC-BY 4.0 Ondata"
+languageCode = "it"
+defaultContentLanguage = "it"
 
 [menu]
     [[menu.main]]
@@ -13,7 +14,7 @@ copyright = "CC-BY 4.0 Ondata"
     [[menu.main]]
         identifier = "chi-siamo"
         name = "Chi siamo"
-        url = "#"
+        url = "chi-siamo"
         weight = -130
     [[menu.main]]
         identifier = "partecipa"
