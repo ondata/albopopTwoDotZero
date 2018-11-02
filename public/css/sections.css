@@ -23,3 +23,8 @@ section {
 footer > section {
     padding-top: 2em;
 }
+
+.blog-sidebar  section {
+    justify-content: center;
+    padding-top: 0em;
+}
