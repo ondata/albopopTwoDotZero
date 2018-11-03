@@ -2,6 +2,7 @@
 title: "Chi Siamo"
 date: 2018-11-02T17:21:37+01:00
 draft: false
+type: "static"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat magna eget interdum semper. Morbi dolor metus, tempus ac fringilla quis, semper ut sapien. Aliquam mollis, nulla in vulputate porttitor, orci odio molestie odio, sit amet ultricies velit risus sit amet metus. Integer eget lobortis lorem. Fusce vestibulum egestas tortor, eu iaculis nulla euismod eget. Fusce sit amet pretium quam, ut semper quam. Suspendisse non gravida sem, eget porttitor lorem. In at ornare lacus. Nullam elit mauris, laoreet a consectetur maximus, pharetra id velit. Etiam maximus commodo lobortis. Suspendisse ut neque iaculis, efficitur tortor id, **placerat** metus. Morbi quis nulla iaculis, sagittis metus vitae, iaculis elit.
