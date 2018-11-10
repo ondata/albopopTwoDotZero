@@ -1,4 +1,5 @@
 ---
+title: "Altre PA"
 menu:
     main:
         #parent: "comuni-pa"

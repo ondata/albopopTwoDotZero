@@ -1,11 +1,17 @@
 {{ define "main" }}
     <main aria-role="main">
-
         <section class="row top-section">
             <div class="col-sm-10">
-                {{ .Content }}
+                <div class="row">
+                    <div class="col-12 col-lg-8">
+                        <header>
+                            <h1 class="blog-post-title">{{ .Title }}</h1>
+                            <hr>
+                        </header>    
+                        {{ .Content }}
+                    </div>
+                </div>
             </div>
         </section>
-
     </main>
 {{ end }}

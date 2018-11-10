@@ -174,24 +174,17 @@
                             Nullam quis risus eget urna mollis ornare vel eu leo.
                         </p>
                     </div>
-                    <div class="col-sm-5 card-box">
-                        <a class="card" href="#">
-                            <div class="card-cover cover-red" style="background-image:url('{{ .Site.BaseURL }}images/bondeno.jpg')"></div>
+                    {{ range first 4 ( where .Site.RegularPages "Type" "blog" ) }}
+                    <div class="col-12 col-md-5 card-box">
+                        <a class="card" href="{{ .RelPermalink }}">
+                            <div class="card-cover cover-{{ .Params.coverColor }}" style="background-image:url('{{ .Site.BaseURL }}images/{{ .Params.coverImage }}')"></div>
                             <div class="card-body">
-                                <h1 class="card-title">Perché ho fatto l'AlboPOP di Bondeno.</h1>
+                                <h1 class="card-title">{{ .Title }}.</h1>
                                 <!--<p class="card-text"></p>-->
                             </div>
                         </a>
                     </div>
-                    <div class="col-sm-5 card-box">
-                        <a class="card" href="#">
-                            <div class="card-cover cover-blue" style="background-image:url('{{ .Site.BaseURL }}images/terremoto.jpg')"></div>
-                            <div class="card-body">
-                                <h1 class="card-title">Come AlboPOP può aiutare i cittadini colpiti dal terremoto.</h1>
-                                <!--<p class="card-text"></p>-->
-                            </div>
-                        </a>
-                    </div>
+                    {{ end }}
                 </div>
             </div>
         </section>

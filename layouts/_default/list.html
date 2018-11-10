@@ -2,22 +2,31 @@
 
     {{ $truncate := default true .Site.Params.truncate }}
     <main aria-role="main">
-
         <section class="row top-section">
             <div class="col-sm-10">
-                {{ $paginator := .Paginate (where .Pages "Type" .Page.Type) }}
-                {{ range $paginator.Pages }}
-                
-                    {{ if $truncate }}
-                        {{ .Render "summary" }}
-                    {{ else }}
-                        {{ .Render "content" }}
-                    {{ end }}
-                
-                {{ end }}
-                
-                {{ partial "paginator" . }}                    
+                <div class="row">
+                    <div class="col-12 col-lg-8">
+                        <header>
+                            <h1 class="blog-post-title">{{ .Title }}</h1>
+                            <hr>
+                        </header>    
+        
+                        {{ $paginator := .Paginate (where .Pages "Type" .Page.Type) }}
+                        {{ range $paginator.Pages }}
+                        
+                            {{ if $truncate }}
+                                {{ .Render "summary" }}
+                            {{ else }}
+                                {{ .Render "content" }}
+                            {{ end }}
+                        
+                        {{ end }}
+                        
+                        {{ partial "paginator" . }}
+                    </div>
+                </div>
             </div>
         </section>
+    </main>
 
 {{ end }}

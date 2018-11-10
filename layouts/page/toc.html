@@ -1,24 +1,28 @@
 {{ define "main" }}
-
     <main aria-role="main">
-
         <section class="row top-section">
             <div class="col-sm-10">
-                <h1>Comune</h1>
-                {{ range where .Site.Pages "Type" "comune" }}
-                <p><a href="{{ .RelPermalink }}">{{ .Name }}</a></p>
-                {{ end }}
+                <div class="row">
+                    <div class="col-12 col-lg-8">
+
+                        <header>
+                            <h1 class="blog-post-title">{{ .Title | markdownify }}</h1>
+                            <hr>
+                        </header>
+        
+                        <h2>Comune</h2>
+                        {{ range where .Site.RegularPages "Type" "comune" }}
+                        <p><a href="{{ .RelPermalink }}">{{ .Name }}</a></p>
+                        {{ end }}
+
+                        <h2>Altre PA</h2>
+                        {{ range where .Site.RegularPages "Type" "altre-pa" }}
+                        <p><a href="{{ .RelPermalink }}">{{ .Name }}</a></p>
+                        {{ end }}
+
+                    </div>
+                </div>
             </div>
         </section>
-
-        <section class="row top-section">
-            <div class="col-sm-10">
-                <h1>Altre PA</h1>
-                {{ range where .Site.Pages "Type" "altre-pa" }}
-                <p><a href="{{ .RelPermalink }}">{{ .Name }}</a></p>
-                {{ end }}
-            </div>
-        </section>
-
     </main>
 {{ end }}

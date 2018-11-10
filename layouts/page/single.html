@@ -1,22 +1,17 @@
 {{ define "main" }}
-<article class="static">
-    <section class="row top-section">
-        <div class="col-sm-10">
-            <header>
-                <h2 class="blog-post-title">
-                    <a class="text-dark" href="{{ .RelPermalink }}">{{ .Title | markdownify }} | statica</a>
-                </h2>
-                <!--{{ partial "post-date" . }}
-                    {{ partial "post-tags" . }}
-                    {{ partial "post-categories" . }}-->
-                <hr>
-            </header>
-            <div class="row">
-                <div class="col-12 col-lg-8">
-                    {{ .Content }}
+    <article class="static">
+        <section class="row top-section">
+            <div class="col-sm-10">
+                <div class="row">
+                    <div class="col-12 col-lg-8">
+                        <header>
+                            <h1 class="blog-post-title">{{ .Title | markdownify }}</h1>
+                            <hr>
+                        </header>
+                        {{ .Content }}
+                    </div>
                 </div>
             </div>
-        </div>
-    </section>
-</article>
+        </section>
+    </article>
 {{ end }}
