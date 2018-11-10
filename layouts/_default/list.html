@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+    {{ $truncate := default true .Site.Params.truncate }}
+    <main aria-role="main">
+
+        <section class="row top-section">
+            <div class="col-sm-10">
+                {{ $paginator := .Paginate (where .Pages "Type" .Page.Type) }}
+                {{ range $paginator.Pages }}
+                
+                    {{ if $truncate }}
+                        {{ .Render "summary" }}
+                    {{ else }}
+                        {{ .Render "content" }}
+                    {{ end }}
+                
+                {{ end }}
+                
+                {{ partial "paginator" . }}                    
+            </div>
+        </section>
+
+{{ end }}

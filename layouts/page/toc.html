@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+    <main aria-role="main">
+
+        <section class="row top-section">
+            <div class="col-sm-10">
+                <h1>Comune</h1>
+                {{ range where .Site.Pages "Type" "comune" }}
+                <p><a href="{{ .RelPermalink }}">{{ .Name }}</a></p>
+                {{ end }}
+            </div>
+        </section>
+
+        <section class="row top-section">
+            <div class="col-sm-10">
+                <h1>Altre PA</h1>
+                {{ range where .Site.Pages "Type" "altre-pa" }}
+                <p><a href="{{ .RelPermalink }}">{{ .Name }}</a></p>
+                {{ end }}
+            </div>
+        </section>
+
+    </main>
+{{ end }}

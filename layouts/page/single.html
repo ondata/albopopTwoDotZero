@@ -1,5 +1,4 @@
 {{ define "main" }}
-
 <article class="static">
     <section class="row top-section">
         <div class="col-sm-10">
@@ -10,20 +9,14 @@
                 <!--{{ partial "post-date" . }}
                     {{ partial "post-tags" . }}
                     {{ partial "post-categories" . }}-->
-                    <hr>
-                </header>
-                <div class="row">
-                    <div class="col-12 col-lg-8">
-                        {{ .Content }}
-                    </div>
-                    {{ partial "apsidebar.html" . }}
+                <hr>
+            </header>
+            <div class="row">
+                <div class="col-12 col-lg-8">
+                    {{ .Content }}
                 </div>
             </div>
-        </section>
-    </article>
-    
-    {{ end }}
-    
-    
-    
-    
+        </div>
+    </section>
+</article>
+{{ end }}

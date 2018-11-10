@@ -1,38 +1,8 @@
-baseURL = "https://ondata.github.io/albopopTwoDotZero/"
+baseURL = "https://ondata.github.io/"
+#baseURL = "https://ondata.github.io/albopopTwoDotZero/"
 title = "Albopop 2.0"
 theme = "albopop"
 copyright = "CC-BY 4.0 Ondata"
 languageCode = "it"
 defaultContentLanguage = "it"
-
-[menu]
-    [[menu.main]]
-        identifier = "comuni"
-        name = "Comuni e altre PA"
-        url = "#"
-        weight = -140
-    [[menu.main]]
-        identifier = "chi-siamo"
-        name = "Chi siamo"
-        url = "chi-siamo"
-        weight = -130
-    [[menu.main]]
-        identifier = "partecipa"
-        name = "Partecipa"
-        url = "#"
-        weight = -120        
-    [[menu.main]]
-        identifier = "blog"
-        name = "Blog"
-        url = "#"
-        weight = -110
-    [[menu.secondary]]
-        identifier = "faq"
-        name = "FAQ"
-        url = "#"
-        weight = -140        
-    [[menu.secondary]]
-        identifier = "creative-commons"
-        name = "Creative Commons"
-        url = "#"
-        weight = -130
+mainSections = ["blog"]
