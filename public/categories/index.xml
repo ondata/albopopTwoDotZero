@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Albopop 2.0</title>
-    <link>https://ondata.github.io/categories/</link>
+    <link>https://ondata.github.io/albopopTwoDotZero/categories/</link>
     <description>Recent content in Categories on Albopop 2.0</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>CC-BY 4.0 Ondata</copyright>
     
-	<atom:link href="https://ondata.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ondata.github.io/albopopTwoDotZero/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
