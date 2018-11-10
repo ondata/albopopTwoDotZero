@@ -3,8 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ondata.github.io/albopopTwoDotZero/blog/prova/</loc>
+    <loc>https://ondata.github.io/albopopTwoDotZero/blog/come-albopop-puo-aiutare-i-cittadini-colpiti-dal-terremoto/</loc>
+    <lastmod>2018-11-03T17:26:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ondata.github.io/albopopTwoDotZero/blog/perche-ho-fatto-l-albopop-di-bondeno/</loc>
     <lastmod>2018-11-02T17:26:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ondata.github.io/albopopTwoDotZero/</loc>
+    <lastmod>2018-11-03T17:26:20+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -13,15 +24,11 @@
   
   <url>
     <loc>https://ondata.github.io/albopopTwoDotZero/blog/</loc>
-    <lastmod>2018-11-02T17:26:20+01:00</lastmod>
+    <lastmod>2018-11-03T17:26:20+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ondata.github.io/albopopTwoDotZero/comune/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ondata.github.io/albopopTwoDotZero/</loc>
+    <loc>https://ondata.github.io/albopopTwoDotZero/tags/bondeno/</loc>
     <lastmod>2018-11-02T17:26:20+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -37,6 +44,10 @@
   
   <url>
     <loc>https://ondata.github.io/albopopTwoDotZero/comune/prova/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ondata.github.io/albopopTwoDotZero/comune/</loc>
   </url>
   
   <url>
@@ -61,13 +72,19 @@
   
   <url>
     <loc>https://ondata.github.io/albopopTwoDotZero/tags/prova/</loc>
-    <lastmod>2018-11-02T17:26:20+01:00</lastmod>
+    <lastmod>2018-11-03T17:26:20+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ondata.github.io/albopopTwoDotZero/tags/</loc>
     <lastmod>2018-11-02T17:26:20+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ondata.github.io/albopopTwoDotZero/tags/terremoto/</loc>
+    <lastmod>2018-11-03T17:26:20+01:00</lastmod>
     <priority>0</priority>
   </url>
   
