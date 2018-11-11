@@ -23,16 +23,20 @@
     overflow: hidden;
 }
 
+.card-box .card
+
 .overflow-content {
     overflow: visible !important;
 }
 
 .card-box .card-img {
     text-align: center;
+    padding: 1.25rem;
+    flex: 0 1 0%;
 }
 
 .card-box .card-img img {
-    height: 100px;
+    height: 50px;
     width: auto;
 }
 
@@ -59,16 +63,16 @@
     box-shadow: inset 0 0 0 2000px rgba(0,255,0,.33);
 }
 
-.card-box .card h1 {
+.card-box h1 {
     font-size: 24px;
     font-weight: bold;
 }
 
-a.card,
-a.card:hover,
-a.card:active,
-a.card:focus,
-a.card:visited {
+.card-box a,
+.card-box a:hover,
+.card-box a:active,
+.card-box a:focus,
+.card-box a:visited {
     color: initial;
     text-decoration: initial;
 }

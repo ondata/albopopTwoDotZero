@@ -7,5 +7,3 @@ menu:
     main:
         weight: -120
 ---
-
-Pagina del "partecipa"...
