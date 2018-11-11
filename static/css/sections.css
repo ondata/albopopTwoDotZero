@@ -23,3 +23,7 @@ section {
 footer > section {
     padding-top: 2em;
 }
+
+aside > section {
+    padding-top: 0;
+}
