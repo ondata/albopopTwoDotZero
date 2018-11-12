@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bondeno on Albopop 2.0</title>
-    <link>https://ondata.github.io/albopopTwoDotZero/tags/bondeno/</link>
+    <link>http://dev.albopop.it/tags/bondeno/</link>
     <description>Recent content in Bondeno on Albopop 2.0</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>CC-BY 4.0 Ondata</copyright>
     <lastBuildDate>Fri, 02 Nov 2018 17:26:20 +0100</lastBuildDate>
     
-	<atom:link href="https://ondata.github.io/albopopTwoDotZero/tags/bondeno/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dev.albopop.it/tags/bondeno/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Perché ho fatto l&#39;AlboPOP di Bondeno</title>
-      <link>https://ondata.github.io/albopopTwoDotZero/blog/perche-ho-fatto-l-albopop-di-bondeno/</link>
+      <link>http://dev.albopop.it/blog/perche-ho-fatto-l-albopop-di-bondeno/</link>
       <pubDate>Fri, 02 Nov 2018 17:26:20 +0100</pubDate>
       
-      <guid>https://ondata.github.io/albopopTwoDotZero/blog/perche-ho-fatto-l-albopop-di-bondeno/</guid>
+      <guid>http://dev.albopop.it/blog/perche-ho-fatto-l-albopop-di-bondeno/</guid>
       <description>Post di Prova</description>
     </item>
     

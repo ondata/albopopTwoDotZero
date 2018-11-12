@@ -1,5 +1,4 @@
-#baseURL = "https://ondata.github.io/"
-baseURL = "https://ondata.github.io/albopopTwoDotZero/"
+baseURL = "http://dev.albopop.it/"
 title = "Albopop 2.0"
 theme = "albopop"
 copyright = "CC-BY 4.0 Ondata"

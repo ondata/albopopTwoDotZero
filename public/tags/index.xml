@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Albopop 2.0</title>
-    <link>https://ondata.github.io/albopopTwoDotZero/tags/</link>
+    <link>http://dev.albopop.it/tags/</link>
     <description>Recent content in Tags on Albopop 2.0</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>CC-BY 4.0 Ondata</copyright>
     <lastBuildDate>Fri, 02 Nov 2018 17:26:20 +0100</lastBuildDate>
     
-	<atom:link href="https://ondata.github.io/albopopTwoDotZero/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dev.albopop.it/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bondeno</title>
-      <link>https://ondata.github.io/albopopTwoDotZero/tags/bondeno/</link>
+      <link>http://dev.albopop.it/tags/bondeno/</link>
       <pubDate>Fri, 02 Nov 2018 17:26:20 +0100</pubDate>
       
-      <guid>https://ondata.github.io/albopopTwoDotZero/tags/bondeno/</guid>
+      <guid>http://dev.albopop.it/tags/bondeno/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prova</title>
-      <link>https://ondata.github.io/albopopTwoDotZero/tags/prova/</link>
+      <link>http://dev.albopop.it/tags/prova/</link>
       <pubDate>Sat, 03 Nov 2018 17:26:20 +0100</pubDate>
       
-      <guid>https://ondata.github.io/albopopTwoDotZero/tags/prova/</guid>
+      <guid>http://dev.albopop.it/tags/prova/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Terremoto</title>
-      <link>https://ondata.github.io/albopopTwoDotZero/tags/terremoto/</link>
+      <link>http://dev.albopop.it/tags/terremoto/</link>
       <pubDate>Sat, 03 Nov 2018 17:26:20 +0100</pubDate>
       
-      <guid>https://ondata.github.io/albopopTwoDotZero/tags/terremoto/</guid>
+      <guid>http://dev.albopop.it/tags/terremoto/</guid>
       <description></description>
     </item>
     
