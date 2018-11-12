@@ -1,6 +1,6 @@
 # AlboPOP 2.0 (develop)
 
-Sito statico basato sul generatore [Hugo](https://gohugo.io/). Anteprima: https://ondata.github.io/albopopTwoDotZero/. Vecchia versione on-line: http://albopop.it/.
+Sito statico basato sul generatore [Hugo](https://gohugo.io/). Anteprima: http://dev.albopop.it/. Vecchia versione on-line: http://albopop.it/.
 
 ## Contribuisci
 
@@ -12,7 +12,7 @@ Questo repository contiene i sorgenti del sito e include il [repository del tema
 
 * Lancia il server di sviluppo: `hugo server -D`.
 
-* Apri la versione live del sito all'indirizzo `http://localhost:1313/albopopTwoDotZero/` (verifica l'indirizzo esatto nei log in console), la pagina si ricarica per ogni modifica dei file sorgente.
+* Apri la versione live del sito all'indirizzo `http://localhost:1313/` (verifica l'indirizzo esatto nei log in console), la pagina si ricarica per ogni modifica dei file sorgente.
 
 * Per generare i file statici del sito (nella cartella `public/`): `hugo`.
 
