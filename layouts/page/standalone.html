@@ -134,32 +134,11 @@
         </div>
     </section>
 
-    <section class="row">
+    <section class="row em-section">
         <div class="container">
-            <div class="row justify-content-between">
-                <div class="col-12 text-box">
-                    <h1>Leggi le storie delle PA che hanno aderito ufficialmente ad AlboPOP</h1>
-                    <p>
-                        Maecenas faucibus mollis interdum. Vestibulum id ligula porta felis euismod semper.
-                        Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa
-                        justo sit amet risus. Nullam quis risus eget urna mollis ornare vel eu leo.
-                    </p>
-                </div>
-                {{ range first 4 ( where .Site.RegularPages "Type" "blog" ) }}
-                <div class="col-12 col-md-5 card-box">
-                    <a class="card" href="{{ .RelPermalink }}">
-                        <div class="card-cover cover-{{ .Params.coverColor }}" style="background-image:url('{{ .Site.BaseURL }}images/{{ .Params.coverImage }}')"></div>
-                        <div class="card-body">
-                            <h1 class="card-title">{{ .Title }}.</h1>
-                            <!--<p class="card-text"></p>-->
-                        </div>
-                    </a>
-                </div>
-                {{ end }}
-            </div>
+            {{ partial "bottom" . }}
         </div>
     </section>
-
 
 </main>
 {{ end }}

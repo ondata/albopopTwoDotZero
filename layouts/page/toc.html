@@ -1,29 +1,118 @@
 {{ define "main" }}
-    <main aria-role="main">
-        <section class="row top-section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 col-lg-9">
+<main aria-role="main">
 
-                        <header>
-                            <h1 class="blog-post-title">{{ .Title | markdownify }}</h1>
-                            <hr>
-                        </header>
-        
-                        <h2>Comune</h2>
-                        {{ range where .Site.RegularPages "Type" "comune" }}
-                        <p><a href="{{ .RelPermalink }}">{{ .Name }}</a></p>
-                        {{ end }}
-
-                        <h2>Altre PA</h2>
-                        {{ range where .Site.RegularPages "Type" "altre-pa" }}
-                        <p><a href="{{ .RelPermalink }}">{{ .Name }}</a></p>
-                        {{ end }}
-
-                    </div>
-                    {{ partial "sidebar" . }}
+    <section class="row top-section">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <h1><img class="logo" src="{{ .Site.BaseURL }}images/lettering-comuni-altre-pa.png" alt="Albopop"></h1>
+                    <p class="bx-text">
+                        Alcuni Enti Pubblici hanno deciso di aderire in maniera ufficiale ad AlboPOP,
+                        altri li hanno inseriti persone come te per aiutare la collettività.
+                        Qui trovi la lista completa e consultabile.
+                    </p>
                 </div>
             </div>
-        </section>
-    </main>
+            <div class="row">
+                <div class="col-sm-5 card-box">
+                    <a href="#">
+                        <div class="card d-flex flex-row align-items-center">
+                            <div class="card-img">{{ len (where .Site.RegularPages "Section" "==" "ufficiale") }}</div>
+                            <div class="card-body">
+                                <h1 class="card-title">I comuni ufficialmente POP</h1>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-5 card-box">
+                    <a href="#">
+                        <div class="card d-flex flex-row align-items-center">
+                            <div class="card-img">{{ len (where .Site.RegularPages "Section" "==" "comune") }}</div>
+                            <div class="card-body">
+                                <h1 class="card-title">I comuni inseriti dalla community</h1>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-sm-5 card-box">
+                    <a href="#">
+                        <div class="card d-flex flex-row align-items-center">
+                            <div class="card-img">{{ len (where .Site.RegularPages "Section" "==" "altrepa") }}</div>
+                            <div class="card-body">
+                                <h1 class="card-title">Altre Pubbliche Amministrazioni POP</h1>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="row em-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+
+                    <h2>I Comuni Ufficialmente POP</h2>
+                    <p class="bx-text">
+                        Qualche comune ha deciso di aderire in maniera ufficiale ad AlboPOP dando un forte segnale di
+                        trasparenza e innovazione ai cittadini.
+                    </p>
+                    {{ range where .Site.RegularPages "Type" "ufficiale" }}
+                    <p><a href="{{ .RelPermalink }}">{{ .Name }}</a></p>
+                    {{ end }}
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="row">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+
+                    <h2>I Comuni inseriti dalla Community</h2>
+                    <p class="bx-text">
+                        Qualche comune ha deciso di aderire in maniera ufficiale ad AlboPOP dando un forte segnale di
+                        trasparenza e innovazione ai cittadini.
+                    </p>
+                    {{ range where .Site.RegularPages "Type" "comune" }}
+                    <p><a href="{{ .RelPermalink }}">{{ .Name }}</a></p>
+                    {{ end }}
+
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section class="row">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+
+                    <h2>Altre Pubbliche Amministrazioni POP</h2>
+                    <p class="bx-text">
+                        Non soltanto i comuni hanno l'obbligo di pubblicare l'Albo Pretorio, ma tutti gli Enti
+                        Pubblici!
+                        Le informazioni di questi enti possono essere davvero preziose da conoscere.
+                    </p>
+                    {{ range where .Site.RegularPages "Type" "altrepa" }}
+                    <p><a href="{{ .RelPermalink }}">{{ .Name }}</a></p>
+                    {{ end }}
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="row em-section">
+        <div class="container">
+            {{ partial "bottom" . }}
+        </div>
+    </section>
+    
+</main>
 {{ end }}

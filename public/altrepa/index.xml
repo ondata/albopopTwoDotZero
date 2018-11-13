@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Altre PA on Albopop 2.0</title>
+    <link>http://dev.albopop.it/altrepa/</link>
+    <description>Recent content in Altre PA on Albopop 2.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>CC-BY 4.0 Ondata</copyright>
+    
+	<atom:link href="http://dev.albopop.it/altrepa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Città Metropolitana di Catania (Sicilia)</title>
+      <link>http://dev.albopop.it/altrepa/cataniametropolitana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.albopop.it/altrepa/cataniametropolitana/</guid>
+      <description>La pagina dell&amp;rsquo;albo pretorio della Città Metropolitana di Catania è questa: http://trasparenza.cittametropolitana.ct.it/web/citta-metropolitana-di-catania/albo-pretorio
+Adesso puoi seguire le nuove pubblicazioni in albo e condividerle sui social
+ iscrivendoti al feed RSS: http://dev.opendatasicilia.it/albopop/cittametropolitanacatania/albofeed.php.  Autore: Cristiano Longo
+Note: Questo Albo POP è stato realizzato nell&amp;rsquo;ambito del progetto opendatahacklab di Hackspace Catania grazie al sostegno di Rosario Maria Romeo.</description>
+    </item>
+    
+    <item>
+      <title>Città Metropolitana di Palermo (Sicilia)</title>
+      <link>http://dev.albopop.it/altrepa/palermometropolitana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.albopop.it/altrepa/palermometropolitana/</guid>
+      <description>La pagina dell&amp;rsquo;albo pretorio della Città Metropolitana di Palermo è questa: http://www.provincia.palermo.it/pls/provpalermo/v3_s2ew_CONSULTAZIONE.mostra_pagina?id_pagina=6753
+Adesso puoi seguire le nuove pubblicazioni in albo e condividerle sui social
+ iscrivendoti al feed RSS: http://feeds.feedburner.com/AlbopopCittMetropolitanaDiPalermo.  Autore: Andrea Borruso</description>
+    </item>
+    
+    <item>
+      <title>Città Metropolitana di Torino (Piemonte)</title>
+      <link>http://dev.albopop.it/altrepa/torinometropolitana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.albopop.it/altrepa/torinometropolitana/</guid>
+      <description>La pagina dell&amp;rsquo;albo pretorio della Città Metropolitana di Torino è questa: http://www.provincia.torino.gov.it/cgi-bin/attiweb/albo_pretorio.pl
+Adesso puoi seguire le nuove pubblicazioni in albo e condividerle sui social
+ iscrivendoti al feed RSS: http://dev.opendatasicilia.it/albopop/cittametropolitanatorino/albofeed.php.  Vedi anche il Gruppo Facebook AlboPop Torino - Comune e Universita&amp;rsquo;.
+Autori: Michele Maresca, Cristiano Longo
+Note: Questo Albo POP è stato realizzato nell&amp;rsquo;ambito del progetto opendatahacklab di Hackspace Catania grazie al sostegno di Riccardo Grosso.</description>
+    </item>
+    
+    <item>
+      <title>Istituto d&#39;Istruzione Superiore G.B. Vaccarini Catania (Sicilia)</title>
+      <link>http://dev.albopop.it/altrepa/scuolagbvaccarinict/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.albopop.it/altrepa/scuolagbvaccarinict/</guid>
+      <description>La pagina dell&amp;rsquo;albo pretorio dell&amp;rsquo;Istituto d&amp;rsquo;Istruzione Superiore G.B. Vaccarini Catania è questa: https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=CTII0016&amp;amp;referer=http://www.vaccarinict.gov.it/wp/
+Adesso puoi seguire le nuove pubblicazioni in albo
+ iscrivendoti al feed RSS: http://dev.opendatasicilia.it/albopop/scuolagbvaccarinict/albofeed.php.  Autore: Cristiano Longo
+Note: Questo Albo POP è stato realizzato nell&amp;rsquo;ambito del progetto opendatahacklab di Hackspace Catania.</description>
+    </item>
+    
+    <item>
+      <title>Università di Catania (Sicilia)</title>
+      <link>http://dev.albopop.it/altrepa/unict/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.albopop.it/altrepa/unict/</guid>
+      <description>La pagina dell&amp;rsquo;albo pretorio del Università di Catania è questa: http://ws1.unict.it/albo/
+Adesso puoi seguire le nuove pubblicazioni in albo in tre modi dedicati:
+ su un canale Telegram https://telegram.me/albounict; iscrivendoti a un feed RSS http://dev.opendatasicilia.it/albopop/unict/unict2RSS.php (albo social); sul canale IRC #dmi sul server irc.azzurra.org.  Autore: Cristiano Longo
+Note: Questo Albo POP è stato realizzato nell&amp;rsquo;ambito del progetto opendatahacklab di Hackspace Catania</description>
+    </item>
+    
+    <item>
+      <title>Università di Palermo (Sicilia)</title>
+      <link>http://dev.albopop.it/altrepa/unipa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.albopop.it/altrepa/unipa/</guid>
+      <description>La pagina dell&amp;rsquo;albo pretorio dell&amp;rsquo;Università di Palermo è questa: https://www.unipa.it/albo.html
+Adesso puoi seguire le nuove pubblicazioni in alboup iscrivendoti a un feed RSS http://feeds.feedburner.com/AlboPretorioUnipa.
+Autori: Matteò Scirè e Andrea Borruso.</description>
+    </item>
+    
+    <item>
+      <title>Università di Torino (Piemonte)</title>
+      <link>http://dev.albopop.it/altrepa/unito/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.albopop.it/altrepa/unito/</guid>
+      <description>La pagina dell&amp;rsquo;albo pretorio del Università di Torino è https://www.serviziweb.unito.it/albo_ateneo/
+Adesso puoi seguire le nuove pubblicazioni in albo iscrivendoti al un feed RSS http://dev.opendatasicilia.it/albopop/unito/albofeed.php;
+Vedi anche il Gruppo Facebook AlboPop Torino - Comune e Universita&amp;rsquo;.
+Autore: Cristiano Longo
+Note: Questo Albo POP è stato realizzato nell&amp;rsquo;ambito del progetto opendatahacklab di Hackspace Catania grazie al sostegno di David Montenegro.</description>
+    </item>
+    
+  </channel>
+</rss>

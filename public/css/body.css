@@ -1,5 +1,5 @@
 body {
-    font-family: Montserrat, sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 20px;
     line-height: 30px;
     font-weight: 400;
@@ -9,7 +9,7 @@ body {
 }
 
 body p {
-    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Georgia', 'Times', 'Times New Roman', serif;
 }
 
 body > .container {
