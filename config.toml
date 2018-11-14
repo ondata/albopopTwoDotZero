@@ -4,5 +4,5 @@ theme = "albopop"
 copyright = "CC-BY 4.0 Ondata"
 languageCode = "it"
 defaultContentLanguage = "it"
-mainSections = ["post"]
-truncate = false
+[params]
+    mainSections = ["post"]

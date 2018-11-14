@@ -4,7 +4,7 @@ title: La giornata tipica dell'attivista Albo POP
 
 *di Cristiano Longo*
 
-[Fonte](https://cristianolongo.wordpress.com/2017/02/10/la-giornata-tipica-dellattivista-albo-pop/ "Permalink to La giornata tipica dell’attivista Albo POP")
+[Fonte](https://cristianolongo.wordpress.com/2017/02/10/la-giornata-tipica-dellattivista-albo-pop/ "Permalink to La giornata tipica dell'attivista Albo POP")
 
 
 Il primo passo per poter agire è conoscere. Chi vuole agire per migliorare una Pubblica Amministrazione, e il territorio e le risorse che gestisce e coordina, deve capire innanzitutto come funziona e cosa fa giorno per giorno e lo può fare leggendo gli avvisi sul suo _Albo Pretorio_. Albo POP è un progetto di software libero al quale collaborano vari sviluppatori da tutta Italia, e al quale abbiamo collaborato anche noi di opendatahacklab realizzando alcuni albi pop (vedi [Contributions to Albo POP][1]). La realizzazione di un albo pop consiste nella realizzazione di un feed RSS a partire dalla pagina dell'Albo Pretorio di una pubblica amministrazione. Questo consente di: essere avvisati ogni volta che un nuovo avviso viene pubblicato; tenere uno storico degli avvisi sul proprio computer, avvisi che dopo il periodo di pubblicazione vengono invece rimossi dall'albo pretorio; effettuare ricerche su parole chiave.
