@@ -23,8 +23,6 @@
     overflow: hidden;
 }
 
-.card-box .card
-
 .overflow-content {
     overflow: visible !important;
 }
@@ -33,6 +31,8 @@
     text-align: center;
     padding: 1.25rem;
     flex: 0 1 0%;
+    font-size: 96px;
+    font-weight: bold;
 }
 
 .card-box .card-img img {
