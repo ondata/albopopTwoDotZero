@@ -842,6 +842,15 @@ Adesso puoi seguire le nuove pubblicazioni tramite:
     </item>
     
     <item>
+      <title>Mappa degli Albi POP</title>
+      <link>http://dev.albopop.it/mappa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.albopop.it/mappa/</guid>
+      <description>Visualizza a schermo intero</description>
+    </item>
+    
+    <item>
       <title>Massafra (Puglia)</title>
       <link>http://dev.albopop.it/comune/massafra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1312,6 +1321,17 @@ Adesso puoi seguire le nuove pubblicazioni in albo iscrivendoti al feed RSS
       <description>La pagina dell&amp;rsquo;albo pretorio del Comune di Sava è questa: http://dgegovpa.it/Sava/Albo/Albo.aspx
 Puoi seguire le nuove pubblicazioni tramite:
  tramite feed RSS http://feeds.feedburner.com/AlbopopSava; su un canale Telegram https://t.me/albopopsava.  Autori: @Vic39 e e Soc. Coop. Sociale L&amp;rsquo;Aquilone in collaborazione con l&amp;rsquo;Ass.ne FarezeroMakers Fablab e la Cooperativa Sociale Lacanosa.</description>
+    </item>
+    
+    <item>
+      <title>Specifiche dei feed RSS per AlboPOP</title>
+      <link>http://dev.albopop.it/specs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.albopop.it/specs/</guid>
+      <description>Gli scraper di AlboPOP producono un feed RSS il cui formato standard segue delle specifiche precise. Quelle che seguono sono le regole condivise per produrre feed dal formato omogeneo, valido per tutti gli albi pretori di origine.
+I tag e gli attributi elencati qui sono sono suddivisi in tre tipologie:
+ obbligatori: devono essere sempre presenti e valorizzati come indicato; raccomandati: se l&amp;rsquo;informazione esiste alla fonte, dovrebbe essere opportunamente estratta e presente anche nel feed; facoltativi: altre informazioni che caratterizzano gli albi e potrebbero essere presenti nel feed.</description>
     </item>
     
     <item>
