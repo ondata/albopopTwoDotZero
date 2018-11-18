@@ -9,6 +9,9 @@ $black: {{ .Site.Params.Colors.black }};
 $white: {{ .Site.Params.Colors.white }};
 $lwhite: {{ .Site.Params.Colors.lwhite }};
 $grey: {{ .Site.Params.Colors.grey }};
+$twitter: {{ .Site.Params.Colors.twitter }};
+$telegram: {{ .Site.Params.Colors.telegram }};
+$rss: {{ .Site.Params.Colors.rss }};
 
 $pfont: {{ .Site.Params.Fonts.paragraph }};
 $sfont: {{ .Site.Params.Fonts.title }};

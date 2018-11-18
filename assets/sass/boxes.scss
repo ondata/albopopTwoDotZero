@@ -41,7 +41,7 @@
             font-size: 6rem;
             font-weight: bold;
 
-            img {
+            img, svg {
                 height: 100px;
                 width: auto;
             }
@@ -74,8 +74,29 @@
 
         .card-icon {
             
-            img {
+            img, svg {
                 width: 100%;
+            }
+
+            &.c-twitter {
+                background-color: $white;
+                path {
+                    fill: $twitter;
+                }
+            }
+
+            &.c-telegram {
+                background-color: $telegram;
+                path {
+                    fill: $white;
+                }
+            }
+
+            &.c-rss {
+                background-color: $rss;
+                path {
+                    fill: $white;
+                }
             }
 
         }

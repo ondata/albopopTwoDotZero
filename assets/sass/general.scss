@@ -23,6 +23,18 @@ h1 {
     letter-spacing: -1px;
     line-height: 4.1rem;
 
+    &.lettering {
+
+        font-size: 5.2rem;
+
+        img, svg {
+            position: relative;
+            top: -.75em;
+            left: -.5em;
+        }
+        
+    }
+
 }
 
 h2 {
