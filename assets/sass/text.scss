@@ -1,0 +1,33 @@
+.sh-text,
+.hl-text {
+    font-family: $sfont;
+    font-weight: bold;
+    font-size: 1.2rem;
+    letter-spacing: -0.5px;
+    line-height: 1.8rem;
+}
+
+.hl-text {
+    color: $red;
+}
+
+.em-text {
+    font-style: italic;
+}
+
+.text-green {
+    color: $green;
+}
+
+.text-blue {
+    color: $blue;
+}
+
+.text-red {
+    color: $red;
+}
+
+.jumbotron {
+    padding: 2rem;
+    background-color: $lwhite;
+}

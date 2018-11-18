@@ -6,3 +6,19 @@ languageCode = "it"
 defaultContentLanguage = "it"
 [params]
     mainSections = ["post"]
+    [params.colors]
+        red = "#ff0000"
+        lred = "#ffb8b8"
+        blue = "#266ff0"
+        lblue = "#cae5f8"
+        orange = "#fe9705"
+        green = "#3ac430"
+        yellow = "#0569ff"
+        black = "#021b44"
+        white = "#ffffff"
+        lwhite = "#f9f9f9"
+        grey = "#ededed"
+    [params.fonts]
+        title = "'Montserrat', sans-serif"
+        paragraph = "'Georgia', serif"
+        

@@ -1,0 +1,45 @@
+section {
+
+    justify-content: center;
+    padding-top: 5em;
+    padding-bottom: 5em;
+
+    &.r-section {
+        justify-content: flex-end;
+    }
+
+    &.top-section {
+        padding-bottom: 5em;
+    }
+
+    &.hl-section {
+        background-color: $lblue;
+    }
+
+    &.em-section {
+        background-color: $lwhite;
+    }
+
+    &.ab-section {
+        background: url("/images/aborruso.png"), $wbgradient;
+        background-repeat: no-repeat;
+        background-position: bottom right;
+    }
+
+}
+
+footer > section {
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
+}
+
+aside > section {
+
+    padding-top: 0;
+
+    li {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    
+}

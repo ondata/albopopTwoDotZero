@@ -1,0 +1,95 @@
+.list-item {
+
+    h1, h2, h3, p {
+        margin: 0 !important; 
+    }
+
+    .item-image {
+
+        text-align: center;
+        width: 100px;
+        overflow: hidden;
+        position: relative;
+
+        .item-logo {
+            height: 75px;
+            width: auto;
+        }
+    
+        .item-medal {
+            position: absolute;
+            top: 0;
+            right: 10%;
+            height: 25px;
+        }
+    
+    }
+
+    .item-title {
+
+        .item-type {
+            font-variant: small-caps;
+        }
+
+    }
+
+    .item-location {
+        margin-left: 15px;
+        position: relative;
+        bottom: 5px;
+    }
+
+    .item-icon {
+        margin-right: 15px;
+    }
+
+    .item-features,
+    .item-tags {
+
+        .badge {
+
+            font-family: $sfont;
+            font-weight: normal;
+
+            &.badge-light {
+                color: $black;
+                background-color: $grey;
+            }
+
+        }
+
+    }
+
+    .item-features {
+
+        white-space: nowrap;
+
+        .badge {
+
+            img, svg {
+                position: relative;
+                bottom: 2px;
+            }
+
+            &.item-accessible {
+                color: $red;
+            }
+
+        }
+
+    }
+
+    .item-tags {
+
+        .badge {
+
+            &.badge-primary {
+                color: $black;
+                background-color: $lblue;
+            }
+
+        }
+
+    }
+
+}

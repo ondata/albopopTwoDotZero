@@ -1,0 +1,47 @@
+.blog-header {
+
+    width: 100%;
+    z-index: 1000;
+    background-color: $white;
+    top: 0;
+
+    .navbar {
+
+        font-family: $sfont;
+        box-shadow: $bshadow;
+
+        .navbar-nav {
+
+            .nav-item {
+
+                a,
+                a:hover,
+                a:active,
+                a:focus,
+                a:visited {
+                    text-decoration: none;
+                }
+
+            }
+
+            .nav-link {
+
+                padding: 5px 20px !important;
+
+                color: inherit;
+
+                &:hover {
+                    color: $red !important;
+                }
+                
+            }
+            
+        }
+
+        .navbar-brand img {
+            width: 143px;
+        }
+
+    }
+
+}

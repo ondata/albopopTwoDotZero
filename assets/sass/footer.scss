@@ -1,0 +1,25 @@
+.blog-footer {
+
+    font-family: $sfont;
+    
+    background-color: $black;
+    color: $white;
+
+    .navbar {
+        
+        .nav-link {
+
+            &,
+            &:hover,
+            &:active,
+            &:focus,
+            &:visited {
+                text-decoration: underline;
+                color: $white;
+            }
+
+        }
+
+    }
+    
+}

@@ -1,0 +1,30 @@
+$red: {{ .Site.Params.Colors.red }};
+$lred: {{ .Site.Params.Colors.lred }};
+$blue: {{ .Site.Params.Colors.blue }};
+$lblue: {{ .Site.Params.Colors.lblue }};
+$orange: {{ .Site.Params.Colors.orange }};
+$green: {{ .Site.Params.Colors.green }};
+$yellow: {{ .Site.Params.Colors.yellow }};
+$black: {{ .Site.Params.Colors.black }};
+$white: {{ .Site.Params.Colors.white }};
+$lwhite: {{ .Site.Params.Colors.lwhite }};
+$grey: {{ .Site.Params.Colors.grey }};
+
+$pfont: {{ .Site.Params.Fonts.paragraph }};
+$sfont: {{ .Site.Params.Fonts.title }};
+
+$bshadow: 0 2px 10px 0 rgba($black, .1);
+$ashadow: 0 5px 30px -5px rgba($black, .3);
+
+$rygradient: linear-gradient(to top right, rgba($red, .41) 0%, rgba($yellow, .76) 100%);
+$bggradient: linear-gradient(to top right, rgba($blue, .49) 0%, rgba($green, .77) 100%);
+$wbgradient: linear-gradient(90deg, $white 66%, $blue 33%);
+
+@import './general.scss';
+@import './header.scss';
+@import './sections.scss';
+@import './boxes.scss';
+@import './items.scss';
+@import './buttons.scss';
+@import './text.scss';
+@import './footer.scss';

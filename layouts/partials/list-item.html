@@ -1,32 +1,38 @@
 <div class="list-item mb-4 mt-4 pb-4 border-bottom">
     <a href="{{ .RelPermalink }}">
         <div class="d-flex flex-column flex-sm-row align-items-center text-center text-sm-left">
+            {{ if isset .Params "image" }}
             <div class="item-image">
                 <img class="item-logo" src="{{ .Site.BaseURL }}images/arms/{{ .Params.Image }}">
                 {{ if or (.Param "official") ( eq .Type "ufficiale" ) }}<img class="item-medal" src="{{ .Site.BaseURL }}images/medal.svg">{{ end }}
             </div>
+            {{ end }}
             <div class="item-title">
                 <p class="item-type">{{ or (.Param "institution") .Type }}</p>
-                <h1 class="item-name">{{ .Title }}</h1>
+                <h2 class="item-name">{{ .Title }}</h2>
             </div>
+            {{ if and (isset .Params "provincia") (isset .Params "regione") }}
             <div class="item-location flex-shrink-1 align-self-sm-end mr-sm-auto">{{ .Param "provincia" }}, {{ .Param "regione" }}</div>
+            {{ end }}
             <div class="item-icon d-none d-sm-block">
                 <!--<img src="{{ .Site.BaseURL }}images/icon-tag.svg">-->
                 {{ readFile "static/images/icon-tag.svg" | safeHTML }}
             </div>
             <div class="item-labels">
+                {{ if or (isset .Params "accessibile") (isset .Params "standard") }}
                 <p class="item-features">
-                    <span class="badge badge-light item-accessible {{ if not (.Param "accessible") }}invisible{{ end }}">
+                    <span class="badge badge-light item-accessible {{ if not (.Params.accessible) }}invisible{{ end }}">
                         <!--<img src="{{ .Site.BaseURL }}images/tag-accessibile.svg">-->
                         {{ readFile "static/images/tag-accessibile.svg" | safeHTML }}
                         Accessibile
                     </span>
-                    <span class="badge badge-light item-standard {{ if not (.Param "standard") }}invisible{{ end }}">
+                    <span class="badge badge-light item-standard {{ if not (.Params.standard) }}invisible{{ end }}">
                         <!--<img src="{{ .Site.BaseURL }}images/tag-standard.svg">-->
                         {{ readFile "static/images/tag-standard.svg" | safeHTML }}
                         AlboPOP standard
                     </span>
                 </p>
+                {{ end }}
                 <p class="item-tags">
                     {{ range .Param "tags" }}
                     <span class="badge badge-primary item-tag">{{ . }}</span>

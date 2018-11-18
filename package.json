@@ -1,0 +1,29 @@
+{
+  "name": "albopoptwodotzero",
+  "version": "1.0.0",
+  "description": "AlboPOP website powered by Hugo (with pipes)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ondata/albopopTwoDotZero.git"
+  },
+  "keywords": [
+    "albopop",
+    "hugo",
+    "sass",
+    "bootstrap"
+  ],
+  "author": "Alessio Cimarelli <alessio.cimarelli@ondata.it> (http://ondata.it)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ondata/albopopTwoDotZero/issues"
+  },
+  "homepage": "https://github.com/ondata/albopopTwoDotZero#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.3.1",
+    "postcss-cli": "^6.0.1"
+  }
+}

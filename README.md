@@ -6,6 +6,9 @@ Sito statico basato sul generatore [Hugo](https://gohugo.io/). Anteprima: http:/
 
 Questo repository contiene i sorgenti del sito e include il [repository del tema](https://github.com/ondata/albopopTwoDotZero-theme/) come *submodule* nella cartella `themes/albopop`.
 
+Attenzione! Devi aver installata la [versione extended di Hugo](https://github.com/gohugoio/hugo/releases)
+con il supporto per [Hugo Pipes](https://gohugo.io/hugo-pipes/).
+
 * Clona il repository in locale: `git clone --recursive git@github.com:ondata/albopopTwoDotZero.git`.
 
 * Entra nella cartella di progetto: `cd albopopTwoDotZero/` (verifica di essere sulla branch *develop* con `git branch`).
