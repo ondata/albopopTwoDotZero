@@ -2,13 +2,14 @@
     <a href="{{ .RelPermalink }}">
         <div class="d-flex flex-column flex-sm-row align-items-center text-center text-sm-left">
             <div class="item-image">
-                <img src="{{ .Site.BaseURL }}images/arms/{{ .Params.Image }}">
+                <img class="item-logo" src="{{ .Site.BaseURL }}images/arms/{{ .Params.Image }}">
+                {{ if or (.Param "official") ( eq .Type "ufficiale" ) }}<img class="item-medal" src="{{ .Site.BaseURL }}images/medal.svg">{{ end }}
             </div>
             <div class="item-title">
-                <p class="item-type">{{ or (.Param "type") .Type }}</p>
+                <p class="item-type">{{ or (.Param "institution") .Type }}</p>
                 <h1 class="item-name">{{ .Title }}</h1>
             </div>
-            <div class="item-location flex-shrink-1 align-self-sm-end mr-sm-auto">{{ .Param "regione" }}, {{ .Param "provincia" }}</div>
+            <div class="item-location flex-shrink-1 align-self-sm-end mr-sm-auto">{{ .Param "provincia" }}, {{ .Param "regione" }}</div>
             <div class="item-icon d-none d-sm-block">
                 <!--<img src="{{ .Site.BaseURL }}images/icon-tag.svg">-->
                 {{ readFile "static/images/icon-tag.svg" | safeHTML }}

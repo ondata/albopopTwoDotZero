@@ -1,6 +1,15 @@
 ---
-title: Bitonto (Puglia)
-official: 1
+title: Bitonto
+tags: []
+institution: comune
+regione: Puglia
+provincia: Bari
+istat: 072011
+ipa: c_a893
+image: c_a893.png
+accessible: true
+standard: false
+official: true
 ---
 
 La pagina dell'albo pretorio del **Comune di Bitonto** è questa: [http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio](http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio)

@@ -1,5 +1,6 @@
 ---
 title: Città Metropolitana di Palermo (Sicilia)
+institution: città metropolitana
 rss: http://feeds.feedburner.com/AlbopopCittMetropolitanaDiPalermo
 ---
 

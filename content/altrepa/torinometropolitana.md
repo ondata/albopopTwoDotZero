@@ -1,5 +1,6 @@
 ---
 title: Città Metropolitana di Torino (Piemonte)
+institution: città metropolitana
 rss: http://dev.opendatasicilia.it/albopop/cittametropolitanatorino/albofeed.php
 ---
 

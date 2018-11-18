@@ -1,11 +1,11 @@
 {{ define "main" }}
 
-    {{ $truncate := default true .Site.Params.truncate }}
     <main aria-role="main">
         <section class="row top-section">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-lg-9">
+                    <!--<div class="col-12 col-lg-9">-->
+                    <div class="col-12">
                         <header>
                             <h1 class="blog-post-title">{{ .Title }}</h1>
                             <hr>
@@ -13,18 +13,14 @@
         
                         {{ $paginator := .Paginate (where .Pages "Type" .Page.Type) }}
                         {{ range $paginator.Pages }}
-                        
-                            {{ if $truncate }}
-                                {{ .Render "summary" }}
-                            {{ else }}
-                                {{ .Render "content" }}
-                            {{ end }}
+
+                        {{ partial "list-item" . }}                        
                         
                         {{ end }}
                         
                         {{ partial "paginator" . }}
                     </div>
-                    {{ partial "sidebar" . }}
+                    <!--{{ partial "sidebar" . }}-->
                 </div>
             </div>
         </section>

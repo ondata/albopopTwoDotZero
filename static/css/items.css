@@ -16,11 +16,19 @@
     text-align: center;
     width: 100px;
     overflow: hidden;
+    position: relative;
 }
 
-.list-item .item-image img {
+.list-item .item-logo {
     height: 75px;
     width: auto;
+}
+
+.list-item .item-medal {
+    position: absolute;
+    top: 0;
+    right: 10%;
+    height: 25px;
 }
 
 .list-item .item-type {

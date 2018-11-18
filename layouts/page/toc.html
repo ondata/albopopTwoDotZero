@@ -3,6 +3,7 @@
 
     <section class="row top-section">
         <div class="container">
+
             <div class="row">
                 <div class="col">
                     <h1><img class="logo" src="{{ .Site.BaseURL }}images/lettering-comuni-altre-pa.png" alt="Albopop"></h1>
@@ -13,11 +14,12 @@
                     </p>
                 </div>
             </div>
+
             <div class="row">
-                <div class="col-sm-5 card-box">
+                <div class="col-sm-6 card-box">
                     <a href="{{ .Site.BaseURL }}ufficiale/">
                         <div class="card d-flex flex-row align-items-center">
-                            <div class="card-img">{{ len (where .Site.RegularPages "Section" "==" "ufficiale") }}</div>
+                            <div class="card-img text-blue">{{ len (where .Site.RegularPages "Section" "eq" "ufficiale") }}</div>
                             <div class="card-body">
                                 <h1 class="card-title">I comuni ufficialmente POP</h1>
                             </div>
@@ -25,21 +27,22 @@
                     </a>
                 </div>
             </div>
+
             <div class="row">
-                <div class="col-sm-5 card-box">
+                <div class="col-sm-6 card-box">
                     <a href="{{ .Site.BaseURL }}comune/">
                         <div class="card d-flex flex-row align-items-center">
-                            <div class="card-img">{{ len (where .Site.RegularPages "Section" "==" "comune") }}</div>
+                            <div class="card-img text-green">{{ len (where .Site.RegularPages "Section" "eq" "comune") }}</div>
                             <div class="card-body">
                                 <h1 class="card-title">I comuni inseriti dalla community</h1>
                             </div>
                         </div>
                     </a>
                 </div>
-                <div class="col-sm-5 card-box">
+                <div class="col-sm-6 card-box">
                     <a href="{{ .Site.BaseURL }}altrepa/">
                         <div class="card d-flex flex-row align-items-center">
-                            <div class="card-img">{{ len (where .Site.RegularPages "Section" "==" "altrepa") }}</div>
+                            <div class="card-img text-red">{{ len (where .Site.RegularPages "Section" "eq" "altrepa") }}</div>
                             <div class="card-body">
                                 <h1 class="card-title">Altre Pubbliche Amministrazioni POP</h1>
                             </div>
@@ -47,6 +50,7 @@
                     </a>
                 </div>
             </div>
+
         </div>
     </section>
 

@@ -1,6 +1,15 @@
 ---
-layout: comune
-title: Messina (Sicilia)
+title: Messina
+tags: []
+institution: comune
+regione: Sicilia
+provincia: Messina
+istat: 083048
+ipa: c_f158
+image: c_f158.png
+accessible: true
+standard: false
+official: true
 ---
 
 La pagina dell'albo pretorio del **Comune di Messina** è questa: 

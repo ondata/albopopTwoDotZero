@@ -1,5 +1,6 @@
 ---
 title: Università di Palermo (Sicilia)
+institution: università
 rss: http://feeds.feedburner.com/AlboPretorioUnipa
 ---
 

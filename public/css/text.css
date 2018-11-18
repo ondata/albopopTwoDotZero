@@ -33,3 +33,15 @@ p {
 .em-text {
     font-style: italic;
 }
+
+.text-green {
+    color: #3ac430;
+}
+
+.text-blue {
+    color: #266ff0;
+}
+
+.text-red {
+    color: #ff0000;
+}

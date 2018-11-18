@@ -1,5 +1,6 @@
 ---
 title: Università di Catania (Sicilia)
+institution: università
 rss: http://dev.opendatasicilia.it/albopop/unict/unict2RSS.php
 ---
 

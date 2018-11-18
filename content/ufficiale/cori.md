@@ -1,7 +1,15 @@
 ---
-layout: comune
-title: Cori (Lazio)
-official: 0
+title: Cori
+tags: []
+institution: comune
+regione: Lazio
+provincia: Latina
+istat: 059006
+ipa: c_d003
+image: c_d003.png
+accessible: true
+standard: false
+official: true
 ---
 
 La pagina dell'albo pretorio del **Comune di Cori** è questa: [https://albopretorio.datamanagementitalia.it/AlboPretorioWeb/?ente=ComuneDiCori&tipoSubmit=ricerca](https://albopretorio.datamanagementitalia.it/AlboPretorioWeb/?ente=ComuneDiCori&tipoSubmit=ricerca)

@@ -1,6 +1,15 @@
 ---
-layout: comune
-title: San Giuseppe Jato (Sicilia)
+title: San Giuseppe Jato
+tags: []
+institution: comune
+regione: Sicilia
+provincia: Palermo
+istat: 082064
+ipa: c_h933
+image: c_h933.png
+accessible: true
+standard: false
+official: true
 ---
 
 La pagina dell'albo pretorio del **Comune di San Giuseppe Jato** è questa: [http://156.54.128.62/sgjato](http://156.54.128.62/sgjato)

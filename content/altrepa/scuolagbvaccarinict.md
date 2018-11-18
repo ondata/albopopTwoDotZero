@@ -1,5 +1,6 @@
 ---
 title: Istituto d'Istruzione Superiore G.B. Vaccarini Catania (Sicilia)
+institution: città metropolitana
 rss: http://dev.opendatasicilia.it/albopop/scuolagbvaccarinict/albofeed.php
 ---
 

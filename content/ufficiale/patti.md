@@ -1,6 +1,15 @@
 ---
-layout: comune
-title: Patti (Sicilia)
+title: Patti
+tags: []
+institution: comune
+regione: Sicilia
+provincia: Messina
+istat: 083066
+ipa: c_g377
+image: c_g377.png
+accessible: true
+standard: false
+official: true
 ---
 
 La pagina dell'albo pretorio del **Comune di Patti** è questa: [http://www.comune.patti.me.it/index.php?option=com_jumi&fileid=75&Itemid=0](http://www.comune.patti.me.it/index.php?option=com_jumi&fileid=75&Itemid=0)

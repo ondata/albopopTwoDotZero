@@ -216,10 +216,6 @@
   </url>
   
   <url>
-    <loc>http://dev.albopop.it/comune/</loc>
-  </url>
-  
-  <url>
     <loc>http://dev.albopop.it/comuni-pa/</loc>
   </url>
   
@@ -269,6 +265,14 @@
   
   <url>
     <loc>http://dev.albopop.it/comune/gravinadicatania/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/ufficiale/</loc>
   </url>
   
   <url>
@@ -564,10 +568,6 @@
   
   <url>
     <loc>http://dev.albopop.it/comune/troina/</loc>
-  </url>
-  
-  <url>
-    <loc>http://dev.albopop.it/ufficiale/</loc>
   </url>
   
   <url>

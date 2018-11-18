@@ -1,5 +1,6 @@
 ---
 title: Università di Torino (Piemonte)
+institution: università
 rss: http://dev.opendatasicilia.it/albopop/unito/albofeed.php
 ---
 

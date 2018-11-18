@@ -1,5 +1,6 @@
 ---
 title: Unione dei Comuni della Bassa Romagna
+institution: unine dei comuni
 ---
 
 L'albo POP della Bassa Romagna, esiste da diversi anni e da prima che fosse stato coniato il nome "Albo POP". E' una grande idea di **Franco Morelli** realizzata per gli albi dei seguenti comuni: 

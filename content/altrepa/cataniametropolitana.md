@@ -1,5 +1,6 @@
 ---
 title: Città Metropolitana di Catania (Sicilia)
+institution: città metropolitana
 rss: http://dev.opendatasicilia.it/albopop/cittametropolitanacatania/albofeed.php
 ---
 
