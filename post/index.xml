@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Albopop 2.0</title>
+    <title>Blog on AlboPOP</title>
     <link>http://dev.albopop.it/post/</link>
-    <description>Recent content in Blog on Albopop 2.0</description>
+    <description>Recent content in Blog on AlboPOP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>CC-BY 4.0 Ondata</copyright>
