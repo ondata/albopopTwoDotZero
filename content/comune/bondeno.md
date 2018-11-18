@@ -1,5 +1,14 @@
 ---
-title: Bondeno (Emilia-Romagna)
+title: Bondeno
+tags: []
+regione: Emilia-Romagna
+provincia: Ferrara
+istat: 038003
+ipa: c_a965
+image: c_a965.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Bondeno** è questa: [http://sac2.halleysac.it/c038003/mc/mc_p_ricerca.php?](http://sac2.halleysac.it/c038003/mc/mc_p_ricerca.php?)

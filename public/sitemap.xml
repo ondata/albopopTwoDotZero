@@ -110,15 +110,11 @@
   </url>
   
   <url>
-    <loc>http://dev.albopop.it/comune/bassaromagna/</loc>
-  </url>
-  
-  <url>
     <loc>http://dev.albopop.it/comune/belpasso/</loc>
   </url>
   
   <url>
-    <loc>http://dev.albopop.it/comune/bitonto/</loc>
+    <loc>http://dev.albopop.it/ufficiale/bitonto/</loc>
   </url>
   
   <url>
@@ -580,6 +576,10 @@
   
   <url>
     <loc>http://dev.albopop.it/post/2016-01-06-come_pubblicare_post_su_albopop/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/altrepa/unionecomunibassaromagna/</loc>
   </url>
   
   <url>

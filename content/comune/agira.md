@@ -1,5 +1,14 @@
 ---
-title: Agira (Sicilia)
+title: Agira
+tags: []
+regione: Sicilia
+provincia: Enna
+istat: 086001
+ipa: c_a070
+image: c_a070.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Agira** è questa: [http://www.comuneagira.gov.it/it-it/amministrazione/atti-pubblicazioni/albo-pretorio](http://www.comuneagira.gov.it/it-it/amministrazione/atti-pubblicazioni/albo-pretorio)

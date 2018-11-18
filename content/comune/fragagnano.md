@@ -1,6 +1,14 @@
 ---
-title: Fragagnano (Puglia)
-official: 0
+title: Fragagnano
+tags: []
+regione: Puglia
+provincia: Taranto
+istat: 073006
+ipa: c_d754
+image: c_d754.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Fragagnano** è questa: [http://dgegovpa.it/Fragagnano/Albo/Albo.aspx](http://dgegovpa.it/Fragagnano/Albo/Albo.aspx)

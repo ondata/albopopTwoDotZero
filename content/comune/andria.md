@@ -1,5 +1,14 @@
 ---
-title: Andria (Puglia)
+title: Andria
+tags: []
+regione: Puglia
+provincia: Barletta-Andria-Trani
+istat: 110001
+ipa: c_a285
+image: c_a285.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Andria** è questa: [http://www.albo.comune.andria.bt.it/web/trasparenza/albo-pretorio](http://www.albo.comune.andria.bt.it/web/trasparenza/albo-pretorio)

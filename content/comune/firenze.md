@@ -1,5 +1,14 @@
 ---
-title: Firenze (Toscana)
+title: Firenze
+tags: []
+regione: Toscana
+provincia: Firenze
+istat: 048017
+ipa: c_d612
+image: c_d612.svg
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Firenze** è [questa:] (https://accessoconcertificato.comune.fi.it/AOL/Albo/ComuneFi)

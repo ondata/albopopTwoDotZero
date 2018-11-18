@@ -1,5 +1,14 @@
 ---
- title: Bari (Puglia)
+title: Bari
+tags: []
+regione: Puglia
+provincia: Bari
+istat: 072006
+ipa: c_a662
+image: c_a662.svg
+accessible: true
+standard: false
+official: false
 ---
  La pagina dell'albo pretorio del **Comune di Bari** è [questa] (http://albo.comune.bari.it/)
 

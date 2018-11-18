@@ -1,5 +1,14 @@
 ---
 title: Brindisi (Puglia)
+tags: []
+regione: Puglia
+provincia: Brindisi
+istat: 074001
+ipa: c_b180
+image: c_b180.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Brindisi** è [questa:] (http://www.comune.brindisi.it/web/albo.html)

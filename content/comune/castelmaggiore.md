@@ -1,5 +1,14 @@
 ---
-title: Castel Maggiore (Emilia-Romagna)
+title: Castel Maggiore
+tags: []
+regione: Emilia-Romagna
+provincia: Bologna
+istat: 037019
+ipa: c_c204
+image: c_c204.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Castel Maggiore** è questa: [http://atticm.renogalliera.it/Albo/Albo.aspx?AspxAutoDetectCookieSupport=1](http://atticm.renogalliera.it/Albo/Albo.aspx?AspxAutoDetectCookieSupport=1)

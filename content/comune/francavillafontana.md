@@ -1,5 +1,14 @@
 ---
-title: Francavilla Fontana (Brindisi - Puglia)
+title: Francavilla Fontana
+tags: []
+regione: Puglia
+provincia: Brindisi
+istat: 074008
+ipa: c_d761
+image: c_d761.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Francavilla Fontana** è questa: [http://93.57.73.72/intranet/albo_pretorio.php](http://93.57.73.72/intranet/albo_pretorio.php)

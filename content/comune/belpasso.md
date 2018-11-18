@@ -1,5 +1,14 @@
 ---
-title: Belpasso (Sicilia)
+title: Belpasso
+tags: []
+regione: Sicilia
+provincia: Catania
+istat: 087007
+ipa: c_a766
+image: c_a766.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Belpasso** è questa: [http://belpasso.trasparenza-valutazione-merito.it/albo-pretorio](http://belpasso.trasparenza-valutazione-merito.it/albo-pretorio)

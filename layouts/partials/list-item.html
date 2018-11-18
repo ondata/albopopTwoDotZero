@@ -1,0 +1,37 @@
+<div class="list-item mb-4 mt-4 pb-4 border-bottom">
+    <a href="{{ .RelPermalink }}">
+        <div class="d-flex flex-column flex-sm-row align-items-center text-center text-sm-left">
+            <div class="item-image">
+                <img src="{{ .Site.BaseURL }}images/arms/{{ .Params.Image }}">
+            </div>
+            <div class="item-title">
+                <p class="item-type">{{ or (.Param "type") .Type }}</p>
+                <h1 class="item-name">{{ .Title }}</h1>
+            </div>
+            <div class="item-location flex-shrink-1 align-self-sm-end mr-sm-auto">{{ .Param "regione" }}, {{ .Param "provincia" }}</div>
+            <div class="item-icon d-none d-sm-block">
+                <!--<img src="{{ .Site.BaseURL }}images/icon-tag.svg">-->
+                {{ readFile "static/images/icon-tag.svg" | safeHTML }}
+            </div>
+            <div class="item-labels">
+                <p class="item-features">
+                    <span class="badge badge-light item-accessible {{ if not (.Param "accessible") }}invisible{{ end }}">
+                        <!--<img src="{{ .Site.BaseURL }}images/tag-accessibile.svg">-->
+                        {{ readFile "static/images/tag-accessibile.svg" | safeHTML }}
+                        Accessibile
+                    </span>
+                    <span class="badge badge-light item-standard {{ if not (.Param "standard") }}invisible{{ end }}">
+                        <!--<img src="{{ .Site.BaseURL }}images/tag-standard.svg">-->
+                        {{ readFile "static/images/tag-standard.svg" | safeHTML }}
+                        AlboPOP standard
+                    </span>
+                </p>
+                <p class="item-tags">
+                    {{ range .Param "tags" }}
+                    <span class="badge badge-primary item-tag">{{ . }}</span>
+                    {{ end }}
+                </p>
+            </div>
+        </div>
+    </a>
+</div>

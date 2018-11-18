@@ -1,5 +1,14 @@
 ---
-title: Campobello di Licata (Sicilia)
+title: Campobello di Licata
+tags: []
+regione: Sicilia
+provincia: Agrigento
+istat: 084010
+ipa: c_b520
+image: c_b520.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Campobello di Licata** è questa: [http://www.comune.campobellodilicata.ag.it/albo-pretorio](http://www.comune.campobellodilicata.ag.it/albo-pretorio)

@@ -1,5 +1,14 @@
 ---
-title: Alghero (Sardegna)
+title: Alghero
+tags: []
+regione: Sardegna
+provincia: Sassari
+istat: 090003
+ipa: c_a192
+image: c_a192.svg
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina ufficiale dell'albo pretorio del **Comune di Alghero** è questa: [http://94.95.21.38/web/trasparenzaj/papca-ap/-/papca/igrid/381](http://94.95.21.38/web/trasparenzaj/papca-ap/-/papca/igrid/381)

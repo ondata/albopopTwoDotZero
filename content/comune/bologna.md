@@ -1,5 +1,14 @@
 ---
-title: Bologna (Emilia Romagna)
+title: Bologna
+tags: []
+regione: Emilia-Romagna
+provincia: Bologna
+istat: 037006
+ipa: c_a944
+image: c_a944.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Bologna** è questa: [http://alboonline.comune.bologna.it/albopretorio/albo.nsf](http://alboonline.comune.bologna.it/albopretorio/albo.nsf)

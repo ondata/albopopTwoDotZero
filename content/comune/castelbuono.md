@@ -1,5 +1,14 @@
 ---
-title: Castelbuono (Sicilia)
+title: Castelbuono
+tags: []
+regione: Sicilia
+provincia: Palermo
+istat: 082022
+ipa: c_c067
+image: c_c067.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Castelbuono** è questa: [https://www.comuneweb.it/egov/Castelbuono/Albo-Pretorio/elencoAlbo.html?pagina=1](https://www.comuneweb.it/egov/Castelbuono/Albo-Pretorio/elencoAlbo.html?pagina=1).

@@ -1,5 +1,14 @@
 ---
-title: Gagliano Castelferrato (Sicilia)
+title: Gagliano Castelferrato
+tags: []
+regione: Sicilia
+provincia: Enna
+istat: 086010
+ipa: c_d849
+image: c_d849.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina ufficiale dell'albo pretorio del **Comune di Gagliano Castelferrato** è questa: [http://www.comunegaglianocastelferrato.gov.it/albo-pretorio](http://www.comunegaglianocastelferrato.gov.it/albo-pretorio)

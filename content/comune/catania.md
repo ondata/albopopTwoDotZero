@@ -1,5 +1,14 @@
 ---
-title: Catania (Sicilia)
+title: Catania
+tags: []
+regione: Sicilia
+provincia: Catania
+istat: 087015
+ipa: c_c351
+image: c_c351.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Catania** è questa: 

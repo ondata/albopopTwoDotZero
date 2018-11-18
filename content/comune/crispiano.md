@@ -1,6 +1,14 @@
 ---
-title: Crispiano (Puglia)
-official: 0
+title: Crispiano
+tags: []
+regione: Puglia
+provincia: Taranto
+istat: 073004
+ipa: c_d171
+image: c_d171.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Crispiano** è questa: [http://www.albo.tinnservice.com:8080/?ente=80008910731](http://www.albo.tinnservice.com:8080/?ente=80008910731)

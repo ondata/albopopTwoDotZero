@@ -1,5 +1,14 @@
 ---
-title: Caprarica di Lecce (Puglia)
+title: Caprarica di Lecce
+tags: []
+regione: Puglia
+provincia: Lecce
+istat: 075013
+ipa: c_b690
+image: c_b690.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del comune di **Caprarica di Lecce** è questa: [http://www.svichosting.com/caprarica/mc/mc_gridev_messi.php?x=&servizio=&bck=http%3A%2F%2Fwww.comune.caprarica.le.it%2F](http://www.svichosting.com/caprarica/mc/mc_gridev_messi.php?x=&servizio=&bck=http%3A%2F%2Fwww.comune.caprarica.le.it%2F).

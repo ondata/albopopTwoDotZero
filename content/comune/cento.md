@@ -1,5 +1,14 @@
 ---
-title: Cento (Emilia Romagna)
+title: Cento
+tags: []
+regione: Emilia-Romagna
+provincia: Ferrara
+istat: 038004
+ipa: c_c469
+image: c_c469.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina ufficiale dell'albo pretorio del **Comune di Cento** è questa: [http://goo.gl/4o3lvG](http://goo.gl/4o3lvG)

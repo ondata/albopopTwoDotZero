@@ -1,5 +1,14 @@
 ---
-title: Capannori (Toscana)
+title: Capannori
+tags: []
+regione: Toscana
+provincia: Lucca
+istat: 046007
+ipa: c_b648
+image: c_b648.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Capannori** è questa: [http://publishing.comune.capannori.lu.it/publishing/AP/index.do](http://publishing.comune.capannori.lu.it/publishing/AP/index.do)

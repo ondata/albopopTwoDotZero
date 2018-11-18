@@ -1,6 +1,14 @@
 ---
-title: Cittareale (Lazio)
+title: Cittareale
 tags: ["tci"]
+regione: Lazio
+provincia: Rieti
+istat: 057017
+ipa: c_c749
+image: c_c749.png
+accessible: true
+standard: true
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Cittareale** è questa: [http://halleyweb.com/c057017/mc/mc_p_ricerca.php?x=&](http://halleyweb.com/c057017/mc/mc_p_ricerca.php?x=&)

@@ -1,5 +1,14 @@
 ---
-title: Barletta (Puglia)
+title: Barletta
+tags: []
+regione: Puglia
+provincia: Barletta-Andria-Trani
+istat: 110002
+ipa: c_a669
+image: c_a669.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Barletta** è questa: [http://albopretorio.comune.barletta.bt.it/hypersicportale/portale/albopretorio/albopretorioconsultazione.aspx?CATEGORIA_ID=6&EVENTO_ID=2](http://albopretorio.comune.barletta.bt.it/hypersicportale/portale/albopretorio/albopretorioconsultazione.aspx?CATEGORIA_ID=6&EVENTO_ID=2)

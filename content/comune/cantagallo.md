@@ -1,5 +1,14 @@
 ---
-title: Cantagallo (Toscana)
+title: Cantagallo
+tags: []
+regione: Toscana
+provincia: Prato
+istat: 100001
+ipa: c_b626
+image: c_b626.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Cantagallo** è questa: [http://194.243.23.67:8080/albopretorio/albocantagallo.php](http://194.243.23.67:8080/albopretorio/albocantagallo.php)

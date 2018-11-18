@@ -1,6 +1,14 @@
 ---
-title: Capaci (Sicilia)
-official: 0
+title: Capaci
+tags: []
+regione: Sicilia
+provincia: Palermo
+istat: 082020
+ipa: c_b645
+image: c_b645.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Capaci** è questa: [http://hosting.soluzionipa.it/capaci/albo/albo_pretorio.php](http://hosting.soluzionipa.it/capaci/albo/albo_pretorio.php)

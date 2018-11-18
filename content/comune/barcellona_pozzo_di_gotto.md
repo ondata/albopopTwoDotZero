@@ -1,5 +1,14 @@
 ---
-title: Barcellona Pozzo di Gotto (Sicilia)
+title: Barcellona Pozzo di Gotto
+tags: []
+regione: Sicilia
+provincia: Messina
+istat: 083005
+ipa: c_a638
+image: c_a638.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del comune di **Barcellona Pozzo di Gotto** è questa: [http://88.41.51.242/gesdelidet/dadabik_4.2/program_files/index.php?table_name=atti&function=search&where_clause=&page=0&order=datapu&order_type=DESC](http://88.41.51.242/gesdelidet/dadabik_4.2/program_files/index.php?table_name=atti&function=search&where_clause=&page=0&order=datapu&order_type=DESC)

@@ -1,5 +1,14 @@
 ---
-title: Bagheria (Sicilia)
+title: Bagheria
+tags: []
+regione: Sicilia
+provincia: Palermo
+istat: 082006
+ipa: c_a546
+image: c_a546.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Bagheria** è questa: [http://comune.bagheria.pa.it/albo-pretorio/albo-pretorio-online/](http://comune.bagheria.pa.it/albo-pretorio/albo-pretorio-online/)
