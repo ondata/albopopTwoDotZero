@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+    <main aria-role="main">
+        <section class="row top-section">
+            <div class="container">
+                <div class="row">
+                    <!--<div class="col-12 col-lg-9">-->
+                    <div class="col-12">
+
+                        <header>
+                            <h1 class="blog-post-title">{{ .Title }}</h1>
+                            <hr>
+                        </header>    
+        
+                        {{ $paginator := .Paginate (where .Site.RegularPages "Params.official" true) }}
+                        {{ range $paginator.Pages }}
+
+                        {{ partial "list-item" . }}                        
+                        
+                        {{ end }}
+                        
+                        {{ partial "paginator" . }}
+                        
+                    </div>
+                    <!--{{ partial "sidebar" . }}-->
+                </div>
+            </div>
+        </section>
+    </main>
+
+{{ end }}

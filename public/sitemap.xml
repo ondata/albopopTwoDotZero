@@ -220,7 +220,7 @@
   </url>
   
   <url>
-    <loc>http://dev.albopop.it/ufficiale/cori/</loc>
+    <loc>http://dev.albopop.it/comune/cori/</loc>
   </url>
   
   <url>
@@ -268,14 +268,6 @@
   </url>
   
   <url>
-    <loc>http://dev.albopop.it/comune/</loc>
-  </url>
-  
-  <url>
-    <loc>http://dev.albopop.it/ufficiale/</loc>
-  </url>
-  
-  <url>
     <loc>http://dev.albopop.it/post/2016-11-02-albo-pop-della-citta-metropolitana-di-catania/</loc>
   </url>
   
@@ -305,6 +297,10 @@
   
   <url>
     <loc>http://dev.albopop.it/comune/latina/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/ufficiale/</loc>
   </url>
   
   <url>
@@ -348,7 +344,7 @@
   </url>
   
   <url>
-    <loc>http://dev.albopop.it/ufficiale/messina/</loc>
+    <loc>http://dev.albopop.it/comune/messina/</loc>
   </url>
   
   <url>
@@ -416,7 +412,7 @@
   </url>
   
   <url>
-    <loc>http://dev.albopop.it/ufficiale/patti/</loc>
+    <loc>http://dev.albopop.it/comune/patti/</loc>
   </url>
   
   <url>
@@ -494,7 +490,7 @@
   </url>
   
   <url>
-    <loc>http://dev.albopop.it/ufficiale/sangiuseppejato/</loc>
+    <loc>http://dev.albopop.it/comune/sangiuseppejato/</loc>
   </url>
   
   <url>
@@ -576,6 +572,10 @@
   
   <url>
     <loc>http://dev.albopop.it/comune/troina/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/</loc>
   </url>
   
   <url>

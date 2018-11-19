@@ -2,7 +2,7 @@
 title: "Partecipa"
 draft: false
 type: "page"
-layout: "standalone"
+layout: "community"
 menu:
     main:
         weight: -120

@@ -3,11 +3,11 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 tags: []
 institution: 
+original: 
 rss: 
 twitter: 
 facebook: 
 telegram: 
-original: 
 author: 
 regione: 
 provincia: 

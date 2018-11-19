@@ -1,5 +1,7 @@
 ---
-title: "I comuni ufficialmente POP"
+title: "Le PA ufficialmente POP"
+type: page
+layout: official
 menu:
     main:
         parent: "comuni-pa"

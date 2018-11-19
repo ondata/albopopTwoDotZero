@@ -1,5 +1,5 @@
 <aside class="col-12 col-lg-3 ml-auto blog-sidebar">
-    {{ if and (not (eq .Page.Type "post")) (default true .Site.Params.sidebar.showRecent) }}
+    {{ if (default true .Site.Params.sidebar.showRecent) }}
         {{ partial "recent" . }}
     {{ end }}
     {{ if default true .Site.Params.sidebar.showTaxonomy }}

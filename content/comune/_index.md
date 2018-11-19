@@ -1,5 +1,5 @@
 ---
-title: "I comuni inseriti dalla community"
+title: "Tutti i comuni con AlboPOP"
 menu:
     main:
         parent: "comuni-pa"

@@ -19,9 +19,9 @@
                 <div class="col-sm-6 sticker-box">
                     <a href="{{ .Site.BaseURL }}ufficiale/">
                         <div class="card d-flex flex-row align-items-center">
-                            <div class="card-img text-blue">{{ len (where .Site.RegularPages "Section" "eq" "ufficiale") }}</div>
+                            <div class="card-img text-blue">{{ len (where .Site.RegularPages "Params.official" true) }}</div>
                             <div class="card-body">
-                                <h1 class="card-title">I comuni ufficialmente POP</h1>
+                                <h1 class="card-title">Le PA ufficialmente POP</h1>
                             </div>
                         </div>
                     </a>
@@ -32,7 +32,7 @@
                 <div class="col-sm-6 sticker-box">
                     <a href="{{ .Site.BaseURL }}comune/">
                         <div class="card d-flex flex-row align-items-center">
-                            <div class="card-img text-green">{{ len (where .Site.RegularPages "Section" "eq" "comune") }}</div>
+                            <div class="card-img text-green">{{ len ( where (where .Site.RegularPages "Section" "comune") "Params.official" "!=" true ) }}</div>
                             <div class="card-body">
                                 <h1 class="card-title">I comuni inseriti dalla community</h1>
                             </div>
@@ -42,9 +42,9 @@
                 <div class="col-sm-6 sticker-box">
                     <a href="{{ .Site.BaseURL }}altrepa/">
                         <div class="card d-flex flex-row align-items-center">
-                            <div class="card-img text-red">{{ len (where .Site.RegularPages "Section" "eq" "altrepa") }}</div>
+                            <div class="card-img text-red">{{ len ( where (where .Site.RegularPages "Section" "altrepa") "Params.official" "!=" true ) }}</div>
                             <div class="card-body">
-                                <h1 class="card-title">Altre Pubbliche Amministrazioni POP</h1>
+                                <h1 class="card-title">Le altre Pubbliche Amministrazioni POP</h1>
                             </div>
                         </div>
                     </a>
@@ -59,12 +59,12 @@
             <div class="row">
                 <div class="col-12 text-box">
                     <p><button type="button" class="btn btn-info call-to-action">Scopri come si aderisce ufficialmente ad AlboPOP</button></p>
-                    <h1>I Comuni Ufficialmente POP</h1>
+                    <h1>Le PA Ufficialmente POP</h1>
                     <p class="sh-text w-50">
                         Qualche comune ha deciso di aderire in maniera ufficiale ad AlboPOP dando un forte segnale di
                         trasparenza e innovazione ai cittadini. Ecco chi sono.
                     </p>
-                    {{ range where .Site.RegularPages "Type" "ufficiale" }}
+                    {{ range where .Site.RegularPages "Params.official" true }}
                     {{ partial "list-item" . }}
                     {{ end }}
                 </div>
@@ -81,7 +81,7 @@
                         Qualche comune ha deciso di aderire in maniera ufficiale ad AlboPOP dando un forte segnale di
                         trasparenza e innovazione ai cittadini. Ecco chi sono
                     </p>
-                    {{ range where .Site.RegularPages "Type" "comune" }}
+                    {{ range where (where .Site.RegularPages "Section" "comune") "Params.official" "!=" true }}
                     {{ partial "list-item" . }}
                     {{ end }}
                 </div>
@@ -98,7 +98,7 @@
                         Non soltanto i comuni hanno l'obbligo di pubblicare l'Albo Pretorio, ma tutti gli Enti
                         Pubblici! Le informazioni di questi enti possono essere davvero preziose da conoscere.
                     </p>
-                    {{ range where .Site.RegularPages "Type" "altrepa" }}
+                    {{ range where (where .Site.RegularPages "Section" "altrepa") "Params.official" "!=" true }}
                     {{ partial "list-item" . }}
                     {{ end }}
                 </div>
