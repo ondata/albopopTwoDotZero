@@ -1,0 +1,8 @@
+{{ if isset .Params "image" }}
+<div class="item-image">
+    <img class="item-logo" src="{{ .Site.BaseURL }}images/arms/{{ .Params.Image }}">
+    {{ if or (.Param "official") ( eq .Type "ufficiale" ) }}
+    <img class="item-medal" src="{{ .Site.BaseURL }}images/medal.svg">
+    {{ end }}
+</div>
+{{ end }}

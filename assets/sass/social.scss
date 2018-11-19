@@ -1,0 +1,31 @@
+.social-icon {
+
+    &.c-twitter {
+        background-color: $white;
+        path {
+            fill: $twitter;
+        }
+    }
+
+    &.c-facebook {
+        background-color: $facebook;
+        path {
+            fill: $white;
+        }
+    }
+
+    &.c-telegram {
+        background-color: $telegram;
+        path {
+            fill: $white;
+        }
+    }
+
+    &.c-rss {
+        background-color: $rss;
+        path {
+            fill: $white;
+        }
+    }
+
+}

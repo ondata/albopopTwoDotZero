@@ -1,0 +1,21 @@
+<div class="item-labels">
+    {{ if or (isset .Params "accessibile") (isset .Params "standard") }}
+    <p class="item-features">
+        <span class="badge badge-light item-accessible {{ if not (.Params.accessible) }}invisible{{ end }}">
+            <!--<img src="{{ .Site.BaseURL }}images/tag-accessibile.svg">-->
+            {{ readFile "static/images/tag-accessibile.svg" | safeHTML }}
+            Accessibile
+        </span>
+        <span class="badge badge-light item-standard {{ if not (.Params.standard) }}invisible{{ end }}">
+            <!--<img src="{{ .Site.BaseURL }}images/tag-standard.svg">-->
+            {{ readFile "static/images/tag-standard.svg" | safeHTML }}
+            AlboPOP standard
+        </span>
+    </p>
+    {{ end }}
+    <p class="item-tags">
+        {{ range .Param "tags" }}
+        <span class="badge badge-primary item-tag">{{ . }}</span>
+        {{ end }}
+    </p>
+</div>

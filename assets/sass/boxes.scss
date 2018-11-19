@@ -78,27 +78,6 @@
                 width: 100%;
             }
 
-            &.c-twitter {
-                background-color: $white;
-                path {
-                    fill: $twitter;
-                }
-            }
-
-            &.c-telegram {
-                background-color: $telegram;
-                path {
-                    fill: $white;
-                }
-            }
-
-            &.c-rss {
-                background-color: $rss;
-                path {
-                    fill: $white;
-                }
-            }
-
         }
 
         .card-cover {

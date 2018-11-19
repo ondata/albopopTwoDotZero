@@ -1,18 +1,70 @@
 {{ define "main" }}
 <article class="static">
+
     <section class="row top-section">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-lg-9">
+                <div class="col-8">
                     <header>
-                        <h1>{{ .Title }}</h1>
-                        <hr>
+                        <p class="st-text">{{ or (.Param "institution") .Type }}</p>
+                        {{ partial "lettering" . }}
+                        {{ if and (isset .Params "provincia") (isset .Params "regione") }}
+                        <p class="st-text">{{ .Param "provincia" }}, {{ .Param "regione" }}</p>
+                        {{ end }}
                     </header>
-                    {{ .Content }}
+                </div>
+                <div class="col-4 text-box text-right">
+                    {{ partial "item-image" . }}
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="row em-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4 d-flex text-box">
+                    <p>
+                        <img class="icon" src="{{ .Site.BaseURL }}images/icon-tag.svg">
+                        {{ partial "item-labels" . }}
+                    </p>
+                </div>
+                <div class="col-sm-4 text-box">
+                    {{ if .Param "original" }}
+                    <p>
+                        <img class="icon" src="{{ .Site.BaseURL }}images/icon-link.svg">
+                        <a href="{{ .Params.Original }}" target="_blank">Albo Pretorio ufficiale</a>
+                    </p>
+                    {{ end }}
+                </div>
+                <div class="col-sm-4 text-box">
+                    {{ if .Param "pdf" }}
+                    <p>
+                        <img class="icon" src="{{ .Site.BaseURL }}images/icon-docs.svg">
+                        <a href="{{ .Site.BaseURL }}pdf/{{ .Params.Pdf }}" target="_blank">Delibera</a>
+                    </p>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="row">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-9 text-box">
+                    <header>
+                        <p><a href="{{ .Site.BaseURL }}pdf/{{ .Params.Pdf }}" target="_blank" class="btn btn-info call-to-action">Leggi la delibera dell'adesione ad AlboPOP >></a></p>
+                        <h2 class="blog-post-title">AlboPOP {{ .Title | markdownify }}</h2>
+                    </header>
+                    <p class="sh-text w-75">Adesso puoi seguire le nuove pubblicazioni in Albo tramite diversi strumenti!</p>
+                    {{ partial "author" . }}
+                    {{ partial "social" . }}
                 </div>
                 {{ partial "sidebar" . }}
             </div>
         </div>
     </section>
+
 </article>
 {{ end }}

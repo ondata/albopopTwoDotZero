@@ -1,4 +1,5 @@
 .sh-text,
+.st-text,
 .hl-text {
     font-family: $sfont;
     font-weight: bold;
@@ -13,6 +14,13 @@
 
 .em-text {
     font-style: italic;
+}
+
+article {
+    .st-text {
+        font-variant: small-caps;
+        margin-bottom: 0;
+    }
 }
 
 .text-green {

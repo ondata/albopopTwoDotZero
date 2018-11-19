@@ -4,7 +4,10 @@ date: {{ .Date }}
 tags: []
 institution: 
 rss: 
-url: 
+twitter: 
+facebook: 
+telegram: 
+original: 
 author: 
 regione: 
 provincia: 

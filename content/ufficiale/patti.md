@@ -2,10 +2,19 @@
 title: Patti
 tags: []
 institution: comune
+rss: http://feeds.feedburner.com/albopopcomunepatti
+twitter: https://twitter.com/AlboPopPatti
+facebook: https://www.facebook.com/AlboPopPatti
+telegram: https://t.me/albopopcomunepatti
+original: http://www.comune.patti.me.it/index.php?option=com_jumi&fileid=75&Itemid=0
+pdf: Delibera 44_2017-03-06 Approvazione e Adozione Albo Pop Comune di Patti.pdf
+author: Nino Galante, Giovanni Pirrotta
 regione: Sicilia
 provincia: Messina
 istat: 083066
 ipa: c_g377
+lat: 38.133333
+lng: 14.966667
 image: c_g377.png
 accessible: true
 standard: false

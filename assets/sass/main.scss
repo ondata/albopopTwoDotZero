@@ -10,6 +10,7 @@ $white: {{ .Site.Params.Colors.white }};
 $lwhite: {{ .Site.Params.Colors.lwhite }};
 $grey: {{ .Site.Params.Colors.grey }};
 $twitter: {{ .Site.Params.Colors.twitter }};
+$facebook: {{ .Site.Params.Colors.facebook }};
 $telegram: {{ .Site.Params.Colors.telegram }};
 $rss: {{ .Site.Params.Colors.rss }};
 
@@ -29,5 +30,7 @@ $wbgradient: linear-gradient(90deg, $white 66%, $blue 33%);
 @import './boxes.scss';
 @import './items.scss';
 @import './buttons.scss';
+@import './social.scss';
 @import './text.scss';
+@import './article.scss';
 @import './footer.scss';

@@ -1,8 +1,5 @@
+article,
 .list-item {
-
-    h1, h2, h3, p {
-        margin: 0 !important; 
-    }
 
     .item-image {
 
@@ -90,6 +87,16 @@
 
         }
 
+    }
+
+}
+
+article .em-section,
+article ul,
+.list-item {
+
+    h1, h2, h3, p {
+        margin: 0 !important; 
     }
 
 }

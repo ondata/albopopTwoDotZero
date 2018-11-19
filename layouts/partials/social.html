@@ -1,0 +1,51 @@
+<ul class="social-box">
+
+    {{ if .Param "twitter" }}
+    <li class="d-flex align-items-center">
+        <div class="social-icon c-twitter">
+            {{ readFile "static/images/button-twitter.svg" | safeHTML }}
+        </div>
+        <div>
+            <h3>Profilo Twitter</h3>
+            <p><a href="{{ .Params.Twitter }}" target="_blank">{{ .Params.Twitter }}</a></p>
+        </div>
+    </li>
+    {{ end }}
+
+    {{ if .Param "telegram" }}
+    <li class="d-flex align-items-center">
+        <div class="social-icon c-telegram">
+            {{ readFile "static/images/button-telegram.svg" | safeHTML }}
+        </div>
+        <div>
+            <h3>Canale Telegram</h3>
+            <p><a href="{{ .Params.Telegram }}" target="_blank">{{ .Params.Telegram }}</a></p>
+        </div>
+    </li>
+    {{ end }}
+
+    {{ if .Param "rss" }}
+    <li class="d-flex align-items-center">
+        <div class="social-icon c-rss">
+            {{ readFile "static/images/button-rss.svg" | safeHTML }}
+        </div>
+        <div>
+            <h3>Feed RSS</h3>
+            <p><a href="{{ .Params.Rss }}" target="_blank">{{ .Params.Rss }}</a></p>
+        </div>
+    </li>
+    {{ end }}
+
+    {{ if .Param "facebook" }}
+    <li class="d-flex align-items-center">
+        <div class="social-icon c-facebook">
+            {{ readFile "static/images/button-facebook.svg" | safeHTML }}
+        </div>
+        <div>
+            <h3>Pagina Facebook</h3>
+            <p><a href="{{ .Params.Facebook }}" target="_blank">{{ .Params.Facebook }}</a></p>
+        </div>
+    </li>
+    {{ end }}
+
+</ul>

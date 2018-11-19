@@ -19,6 +19,7 @@ defaultContentLanguage = "it"
         lwhite = "#f9f9f9"
         grey = "#ededed"
         twitter = "#55acee"
+        facebook = "#4465b8"
         telegram = "#2da4d7"
         rss = "#ff9845"
     [params.fonts]

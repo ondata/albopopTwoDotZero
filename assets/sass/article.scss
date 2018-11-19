@@ -1,0 +1,64 @@
+article {
+
+    header {
+
+        h1, h2, h3 {
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .st-text {
+            font-size: 1.2em;
+        }
+
+        .sh-text {
+            margin-bottom: 1em;
+        }
+    }
+
+    .item-image {
+
+        width: 120px;
+        margin-left: auto;
+
+        .item-logo {
+            height: 120px;
+        }
+    
+        .item-medal {
+            top: 0;
+            right: 5%;
+            height: 40px;
+        }
+    
+    }
+
+    ul {
+        padding-left: 0;
+    }
+
+    .social-box {
+
+        li {
+
+            margin-bottom: 2em;
+
+            .social-icon {
+                margin-right: 1em;
+                border-radius: 10px;
+            }
+    
+        }
+
+    }
+
+    .author-box {
+
+        .icon {
+            position: relative;
+            bottom: 3px;
+        }
+        
+    }
+
+}
