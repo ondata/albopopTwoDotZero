@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>I comuni inseriti dalla community on AlboPOP</title>
+    <title>Tutti i comuni con AlboPOP on AlboPOP</title>
     <link>http://dev.albopop.it/comune/</link>
-    <description>Recent content in I comuni inseriti dalla community on AlboPOP</description>
+    <description>Recent content in Tutti i comuni con AlboPOP on AlboPOP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>CC-BY 4.0 Ondata</copyright>
@@ -382,6 +382,17 @@ Autore: @bergaminienrico</description>
     </item>
     
     <item>
+      <title>Cori</title>
+      <link>http://dev.albopop.it/comune/cori/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.albopop.it/comune/cori/</guid>
+      <description>La pagina dell&amp;rsquo;albo pretorio del Comune di Cori è questa: https://albopretorio.datamanagementitalia.it/AlboPretorioWeb/?ente=ComuneDiCori&amp;amp;tipoSubmit=ricerca
+Adesso puoi seguire le nuove pubblicazioni in due modalità:
+ su un canale Telegram https://t.me/albopopcomunediCori tramite un feed RSS http://feeds.feedburner.com/AlbopopDelComuneDiCori  Autrice: Antonella Milanini</description>
+    </item>
+    
+    <item>
       <title>Crispiano</title>
       <link>http://dev.albopop.it/comune/crispiano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -604,6 +615,17 @@ Autore: Enrico Bergamini</description>
     </item>
     
     <item>
+      <title>Messina</title>
+      <link>http://dev.albopop.it/comune/messina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.albopop.it/comune/messina/</guid>
+      <description>La pagina dell&amp;rsquo;albo pretorio del Comune di Messina è questa: http://albopretorio.comune.messina.it/jalbopretorio/AlboPretorio
+Adesso puoi seguire le nuove pubblicazioni in albo tramite:
+ feed RSS http://feeds.feedburner.com/albopopcomunemessina; pagina facebook https://www.facebook.com/AlboPopMessina/; canale Telegram https://t.me/albopopmessina; profilo Twitter https://twitter.com/AlboPopMessina.  </description>
+    </item>
+    
+    <item>
       <title>Milano (Lombardia)</title>
       <link>http://dev.albopop.it/comune/milano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -770,6 +792,17 @@ Autore: @aborruso</description>
     </item>
     
     <item>
+      <title>Patti</title>
+      <link>http://dev.albopop.it/comune/patti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.albopop.it/comune/patti/</guid>
+      <description>La pagina dell&amp;rsquo;albo pretorio del Comune di Patti è questa: http://www.comune.patti.me.it/index.php?option=com_jumi&amp;amp;fileid=75&amp;amp;Itemid=0
+Adesso puoi seguire le nuove pubblicazioni in albo in queste modalità:
+ tramite un feed RSS: http://feeds.feedburner.com/albopopcomunepatti; tramite una pagina Facebook: https://www.facebook.com/AlboPopPatti; tramite Telegram: https://t.me/albopopcomunepatti; su twitter: https://twitter.com/AlboPopPatti.  Autori: Nino Galante e Giovanni Pirrotta</description>
+    </item>
+    
+    <item>
       <title>Pedara (Sicilia)</title>
       <link>http://dev.albopop.it/comune/pedara/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -922,6 +955,17 @@ Adesso puoi seguire le nuove pubblicazioni in albo in tre modi dedicati:
       <description>La pagina dell&amp;rsquo;albo pretorio del comune di San Biagio di Callalta è questa: http://sac2.halleysac.it/c026071/mc/mc_p_ricerca.php.
 Adesso puoi seguire le nuove pubblicazioni in albo tramite tre modalità:
  tramite un feed RSS http://feeds.feedburner.com/AlbopopSanBiagioDiCallalta; su un canale Telegram https://telegram.me/albopopsanbiagiodicallalta; su questo account Twitter https://twitter.com/sbiagiocallalta.  Autore: Carlo Felice Dalla Pasqua</description>
+    </item>
+    
+    <item>
+      <title>San Giuseppe Jato</title>
+      <link>http://dev.albopop.it/comune/sangiuseppejato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.albopop.it/comune/sangiuseppejato/</guid>
+      <description>La pagina dell&amp;rsquo;albo pretorio del Comune di San Giuseppe Jato è questa: http://156.54.128.62/sgjato
+Adesso puoi seguire le nuove pubblicazioni in albo in tre modi dedicati:
+ su un account Twitter https://twitter.com/albosgjato; su un canale Telegram https://telegram.me/albopretoriosangiuseppejato; iscrivendoti a un feed RSS http://feeds.feedburner.com/SanGiuseppeJatoAlboPretorio.  </description>
     </item>
     
     <item>
