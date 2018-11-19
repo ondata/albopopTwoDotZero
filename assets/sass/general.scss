@@ -22,6 +22,7 @@ h1 {
     font-size: 3.2rem;
     letter-spacing: -1px;
     line-height: 4.1rem;
+    margin-bottom: 4rem;
 
     &.lettering {
 
@@ -43,6 +44,8 @@ h2 {
     font-size: 2.25rem;
     letter-spacing: -0.5px;
     line-height: 3.4rem;
+    margin-top: 4rem;
+    margin-bottom: 1rem;
 
 }
 
@@ -51,6 +54,8 @@ h3, h4, h5, h6 {
     font-size: 1.8rem;
     letter-spacing: -0.5px;
     line-height: 2.6rem;
+    margin-top: 4rem;
+    margin-bottom: 1rem;
 
 }
 
@@ -84,6 +89,19 @@ p, li {
     a:visited {
         color: $red;
         text-decoration: underline;
+    }
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    
+    a,
+    a:hover,
+    a:active,
+    a:focus,
+    a:visited {
+        color: $red;
+        text-decoration: none;
     }
 
 }

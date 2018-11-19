@@ -1,13 +1,21 @@
 {{ define "main" }}
 <main aria-role="main">
-    <section class="row top-section ab-section">
+
+    <section class="row top-section ab-section pb-5">
         <div class="container">
             <div class="row">
-                <div class="col-9">
+                <div class="col-md-6">
                     {{ .Content }}
                 </div>
             </div>
         </div>
     </section>
+
+    <section class="row d-md-none p-0">
+        <div>
+            <img class="w-100" src="{{ .Site.BaseURL }}images/aborruso.png">
+        </div>
+    </section>
+
 </main>
 {{ end }}

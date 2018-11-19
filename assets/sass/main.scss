@@ -2,6 +2,7 @@ $red: {{ .Site.Params.Colors.red }};
 $lred: {{ .Site.Params.Colors.lred }};
 $blue: {{ .Site.Params.Colors.blue }};
 $lblue: {{ .Site.Params.Colors.lblue }};
+$dblue: {{ .Site.Params.Colors.dblue }};
 $orange: {{ .Site.Params.Colors.orange }};
 $green: {{ .Site.Params.Colors.green }};
 $yellow: {{ .Site.Params.Colors.yellow }};
@@ -22,7 +23,7 @@ $ashadow: 0 5px 30px -5px rgba($black, .3);
 
 $rygradient: linear-gradient(to top right, rgba($red, .41) 0%, rgba($yellow, .76) 100%);
 $bggradient: linear-gradient(to top right, rgba($blue, .49) 0%, rgba($green, .77) 100%);
-$wbgradient: linear-gradient(90deg, $white 66%, $blue 33%);
+$wbgradient: linear-gradient(to right, $white 55%, $dblue 45%);
 
 @import './general.scss';
 @import './header.scss';
