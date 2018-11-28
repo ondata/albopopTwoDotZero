@@ -1,10 +1,19 @@
 ---
 title: Bondeno
 tags: []
+original: http://sac2.halleysac.it/c038003/mc/mc_p_ricerca.php
+rss: http://feeds.feedburner.com/AlboPretorioComuneDiBondeno
+twitter: https://twitter.com/AlboPOPBondeno
+facebook: https://www.facebook.com/albopopbondenofe/
+telegram: https://telegram.me/albopretorioBondenoFe
+pdf: 
+author: Enrico Bergamini(https://twitter.com/BergaminiEnrico)
 regione: Emilia-Romagna
 provincia: Ferrara
 istat: 038003
 ipa: c_a965
+lat: 44.88944
+lng: 11.41542
 image: c_a965.png
 accessible: true
 standard: false

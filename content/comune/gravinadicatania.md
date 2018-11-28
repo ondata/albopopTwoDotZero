@@ -1,5 +1,24 @@
 ---
-title: Gravina di Catania (Sicilia)
+title: Gravina di Catania
+tags: []
+original: http://trasparenza.comune.gravina-di-catania.ct-egov.it/
+rss: http://dev.opendatasicilia.it/albopop/gravinadicatania/albofeed.php
+twitter: 
+facebook: 
+telegram: 
+pdf: 
+author: Cristiano Longo (https://cristianolongo.wordpress.com/)
+repo: 
+regione: Sicilia
+provincia: Catania
+istat: 087019
+ipa: c_e156
+lat: 37.566667
+lng: 15.066667
+image: c_e156.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Gravina di Catania** è [http://trasparenza.comune.gravina-di-catania.ct-egov.it/](http://trasparenza.comune.gravina-di-catania.ct-egov.it/)

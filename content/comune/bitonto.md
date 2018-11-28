@@ -1,10 +1,12 @@
 ---
 title: Bitonto
 tags: []
+original: http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio
 rss: http://feeds.feedburner.com/AlboPopBitonto
 twitter: 
+facebook: 
 telegram: https://telegram.me/albopretoriobitonto
-original: http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio
+pdf: 
 author: Enrico Bergamini
 regione: Puglia
 provincia: Bari

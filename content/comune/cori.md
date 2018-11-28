@@ -1,11 +1,11 @@
 ---
 title: Cori
 tags: []
-institution: comune
+original: https://albopretorio.datamanagementitalia.it/AlboPretorioWeb/?ente=ComuneDiCori&tipoSubmit=ricerca
 rss: http://feeds.feedburner.com/AlbopopDelComuneDiCori
 twitter: 
+facebook: 
 telegram: https://t.me/albopopcomunediCori
-original: https://albopretorio.datamanagementitalia.it/AlboPretorioWeb/?ente=ComuneDiCori&tipoSubmit=ricerca
 pdf: DeliberaAlboPop_7_2018-01-23.pdf
 author: Antonella Milanini
 regione: Lazio

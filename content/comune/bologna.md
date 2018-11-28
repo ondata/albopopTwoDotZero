@@ -1,10 +1,22 @@
 ---
 title: Bologna
 tags: []
+original: http://alboonline.comune.bologna.it/albopretorio/albo.nsf
+rss: https://servizi.comune.bologna.it/albosocial/rest/rssfeed
+twitter: https://twitter.com/AlboPopBologna
+facebook: 
+telegram: https://telegram.me/AlboPopBologna
+pdf: 
+author:
+ - Pina Civitella (https://www.facebook.com/pina.civitella)
+ - Matteo Fortini (https://twitter.com/matt_fortini)
+ - Paolo Lutterotti (https://www.facebook.com/pluttero)
 regione: Emilia-Romagna
 provincia: Bologna
 istat: 037006
 ipa: c_a944
+lat: 44.493889
+lng: 11.342778
 image: c_a944.png
 accessible: true
 standard: false

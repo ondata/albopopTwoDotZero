@@ -1,12 +1,11 @@
 ---
 title: San Giuseppe Jato
 tags: []
-institution: comune
+original: http://156.54.128.62/sgjato
 rss: http://feeds.feedburner.com/SanGiuseppeJatoAlboPretorio
 twitter: https://twitter.com/albosgjato
 facebook: 
 telegram: https://telegram.me/albopretoriosangiuseppejato
-original: http://156.54.128.62/sgjato
 pdf: Delibera 30 del 20160219 di Giunta SGJ_Condivisione e promozione ALBO POP san giuseppe jato.pdf
 author: 
 regione: Sicilia

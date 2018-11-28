@@ -1,10 +1,19 @@
 ---
 title: Barletta
 tags: []
+original: http://albopretorio.comune.barletta.bt.it/hypersicportale/portale/albopretorio/albopretorioconsultazione.aspx?CATEGORIA_ID=6&EVENTO_ID=2
+rss: http://feeds.feedburner.com/AlboPopBarletta
+twitter: 
+facebook: 
+telegram: https://telegram.me/albopretoriobarletta
+pdf: 
+author: Rinux83 (https://github.com/Rinux83)
 regione: Puglia
 provincia: Barletta-Andria-Trani
 istat: 110002
 ipa: c_a669
+lat: 41.316667
+lng: 16.283333
 image: c_a669.png
 accessible: true
 standard: false

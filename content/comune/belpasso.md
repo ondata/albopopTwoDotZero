@@ -1,10 +1,19 @@
 ---
 title: Belpasso
 tags: []
+original: http://belpasso.trasparenza-valutazione-merito.it/albo-pretorio
+rss: http://dev.opendatasicilia.it/albopop/belpasso/albofeed.php
+twitter: 
+facebook: 
+telegram: 
+pdf: 
+author: Cristiano Longo
 regione: Sicilia
 provincia: Catania
 istat: 087007
 ipa: c_a766
+lat: 37.583333
+lng: 14.983333
 image: c_a766.png
 accessible: true
 standard: false

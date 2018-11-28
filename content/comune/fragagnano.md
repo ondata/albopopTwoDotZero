@@ -1,10 +1,25 @@
 ---
 title: Fragagnano
 tags: []
+original: http://dgegovpa.it/Fragagnano/Albo/Albo.aspx
+rss: http://feeds.feedburner.com/AlbopopFragagnano
+twitter: 
+facebook: 
+telegram: https://t.me/albopopfragagnano
+pdf: 
+author:
+ - Associazione FarezeroMakers Fablab (http://www.farezero.org)
+ - Cooperativa Sociale Lacanosa (http://www.cooperativasociale.org/)
+ - "@Vic39 (http://vincentforty.weebly.com/)"
+ - "@Willskymaker"
+ - "@Zebda78"
+repo: 
 regione: Puglia
 provincia: Taranto
 istat: 073006
 ipa: c_d754
+lat: 40.433333
+lng: 17.466667
 image: c_d754.png
 accessible: true
 standard: false

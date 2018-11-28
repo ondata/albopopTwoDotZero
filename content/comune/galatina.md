@@ -1,10 +1,20 @@
 ---
 title: Galatina
 tags: []
+original: http://galatina-servizi.soluzionipa.it/galatina/albo/albo_pretorio_tipologia.php
+rss: http://feeds.feedburner.com/Comunedigalatinaalbo
+twitter: 
+facebook: 
+telegram: https://telegram.me/comunedigalatinanews
+pdf: 
+author: Francesco Piero Paolicelli alias Piersoft (https://twitter.com/Piersoft)
+repo: 
 regione: Puglia
 provincia: Lecce
 istat: 075029
 ipa: c_d862
+lat: 40.166667
+lng: 18.166667
 image: c_d862.png
 accessible: true
 standard: false

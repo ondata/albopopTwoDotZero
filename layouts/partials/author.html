@@ -1,6 +1,10 @@
 {{ if .Param "author" }} 
 <p class="author-box">
     <img class="icon" src="{{ .Site.BaseURL }}images/icon-profile.svg">
-    Autore: {{ .Param "author" }}
+    {{ if eq (printf "%T" (.Param "author")) "[]string" }}
+    Autori: {{ delimit (.Param "author") ", " " e " }}.
+    {{ else }}
+    Autore: {{ .Param "author" }}.
+    {{ end }}
 </p>
 {{ end }}

@@ -1,10 +1,20 @@
 ---
 title: Capaci
 tags: []
+original: http://hosting.soluzionipa.it/capaci/albo/albo_pretorio.php
+rss: http://feeds.feedburner.com/AlbopopCapaci
+twitter: 
+facebook: 
+telegram: 
+pdf: 
+author: Mario Grimaldi (https://twitter.com/grimaldi1972)
+repo: 
 regione: Sicilia
 provincia: Palermo
 istat: 082020
 ipa: c_b645
+lat: 38.166667
+lng: 13.233333
 image: c_b645.png
 accessible: true
 standard: false

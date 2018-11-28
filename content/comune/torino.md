@@ -1,5 +1,24 @@
 ---
-title: Torino (Piemonte)
+title: Torino
+tags: []
+original: http://www.comune.torino.it/albopretorio/
+rss: http://dev.opendatasicilia.it/albopop/torino/albofeed.php
+twitter: 
+facebook: https://www.facebook.com/groups/510252012501879/
+telegram: 
+pdf: 
+author: Cristiano Longo
+repo: 
+regione: Piemonte
+provincia: Torino
+istat: 001272
+ipa: c_l219
+lat: 45.066667
+lng: 7.7
+image: c_l219.svg
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Torino** è questa: [http://www.comune.torino.it/albopretorio/](http://www.comune.torino.it/albopretorio/)

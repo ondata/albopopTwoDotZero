@@ -1,5 +1,24 @@
 ---
-title: Potenza (Basilicata)
+title: Potenza
+tags: []
+original: http://www.albopretorionline.it/potenza/alboente.aspx
+rss: 
+twitter: https://twitter.com/albopoppotenza
+facebook: 
+telegram: https://telegram.me/ComunePZ
+pdf: 
+author: Francesco Piero Paolicelli alias Piersoft (https://twitter.com/Piersoft)
+repo: 
+regione: Basilicata
+provincia: Potenza
+istat: 076063
+ipa: c_g942
+lat: 40.633333
+lng: 15.8
+image: c_g942.png
+accessible: false
+standard: false
+official: false
 ---
 
 Potenza (Basilicata)

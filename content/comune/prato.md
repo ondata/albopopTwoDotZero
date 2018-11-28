@@ -1,5 +1,24 @@
 ---
-title: Prato (Toscana)
+title: Prato
+tags: []
+original: http://albopretorio.comune.prato.it/
+rss: http://opendata.matteofortini.it/rssAlboPOP/alboPOPPrato.xml
+twitter: 
+facebook: 
+telegram: https://telegram.me/alboPOPPrato
+pdf: 
+author: Matteo Fortini (https://twitter.com/matt_fortini)
+repo: https://github.com/aborruso/albo-pop/tree/master/code/prato
+regione: Toscana
+provincia: Prato
+istat: 100005
+ipa: c_g999
+lat: 43.880814
+lng: 11.096561
+image: c_g999.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina ufficiale dell'albo pretorio del **Comune di Prato** è questa: [http://albopretorio.comune.prato.it/](http://albopretorio.comune.prato.it/)

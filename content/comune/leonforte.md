@@ -1,5 +1,24 @@
 ---
-title: Leonforte (Sicilia)
+title: Leonforte
+tags: []
+original: http://www.comuneleonforte.it/index.php?option=com_chronoconnectivity2&Itemid=62
+rss: http://feed43.com/7618163868126444.xml
+twitter: https://twitter.com/alboLeonforte
+facebook: https://www.facebook.com/albopopcomuneleonforte
+telegram: https://telegram.me/albopopleonforte
+pdf: 
+author: Giuseppe Cardaci (https://www.facebook.com/giuseppe.cardaci)
+repo: 
+regione: Sicilia
+provincia: Enna
+istat: 086011
+ipa: c_e536
+lat: 37.65
+lng: 14.4
+image: c_e536.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Comune di Leonforte** è questa: [http://www.comuneleonforte.it/index.php?option=com_chronoconnectivity2&Itemid=62](http://www.comuneleonforte.it/index.php?option=com_chronoconnectivity2&Itemid=62)

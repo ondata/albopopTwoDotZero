@@ -5,12 +5,14 @@ article,
 
         text-align: center;
         width: 100px;
+        padding: 10px;
         overflow: hidden;
         position: relative;
 
         .item-logo {
             height: 75px;
             width: auto;
+            max-width: 100%;
         }
     
         .item-medal {

@@ -1,10 +1,20 @@
 ---
 title: Capannori
 tags: []
+original: http://publishing.comune.capannori.lu.it/publishing/AP/index.do
+rss: http://feeds.feedburner.com/AlboPopCapannori
+twitter: 
+facebook: 
+telegram: https://telegram.me/AlboPretorioCapannori
+pdf: 
+author: Maurizio Tallarico (https://github.com/mauriziotallarico)
+repo: 
 regione: Toscana
 provincia: Lucca
 istat: 046007
 ipa: c_b648
+lat: 43.875556
+lng: 10.573611
 image: c_b648.png
 accessible: true
 standard: false

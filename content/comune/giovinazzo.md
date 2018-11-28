@@ -1,10 +1,20 @@
 ---
 title: Giovinazzo
 tags: []
+original: http://albo.egov.ba.it/web/giovinazzo
+rss: http://feeds.feedburner.com/AlboPopGiovinazzo
+twitter: 
+facebook: 
+telegram: https://telegram.me/albopretoriogiovinazzo
+pdf: 
+author: sputnik63 (https://github.com/sputnik63)
+repo: 
 regione: Puglia
 provincia: Bari
 istat: 072022
 ipa: c_e047
+lat: 41.183333
+lng: 16.666667
 image: c_e047.png
 accessible: true
 standard: false

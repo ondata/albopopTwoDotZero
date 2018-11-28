@@ -1,10 +1,19 @@
 ---
 title: Altopascio
 tags: []
+original: http://159.213.69.82:8080
+rss: http://feeds.feedburner.com/AlboPopAltopascio
+twitter: 
+facebook: 
+telegram: https://telegram.me/AlboPretorioAltopascio
+pdf: 
+author: Maurizio Tallarico (https://github.com/mauriziotallarico)
 regione: Toscana
 provincia: Lucca
 istat: 046001
 ipa: c_a241
+lat: 43.816667
+lng: 10.674722
 image: c_a241.png
 accessible: true
 standard: false

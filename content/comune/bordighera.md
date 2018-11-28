@@ -1,10 +1,21 @@
 ---
 title: Bordighera
 tags: []
+original: http://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=Brdghr087
+rss: http://feeds.feedburner.com/AlbopopBordighera
+twitter: 
+facebook: 
+telegram: 
+pdf: 
+author:
+ - Andrea Borruso (https://twitter.com/aborruso)
+ - Matteo Mannini
 regione: Liguria
 provincia: Imperia
 istat: 008008
 ipa: c_a984
+lat: 43.778897
+lng: 7.672128
 image: c_a984.png
 accessible: true
 standard: false

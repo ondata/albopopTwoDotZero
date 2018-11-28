@@ -338,7 +338,7 @@ Autore: Fabrizio Puce</description>
     </item>
     
     <item>
-      <title>Brindisi (Puglia)</title>
+      <title>Brindisi</title>
       <link>http://dev.albopop.it/comune/brindisi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -508,7 +508,7 @@ Autore: @bergaminienrico</description>
     </item>
     
     <item>
-      <title>Città Metropolitana di Catania (Sicilia)</title>
+      <title>Città Metropolitana di Catania</title>
       <link>http://dev.albopop.it/altrepa/cataniametropolitana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -520,7 +520,7 @@ Note: Questo Albo POP è stato realizzato nell&amp;rsquo;ambito del progetto ope
     </item>
     
     <item>
-      <title>Città Metropolitana di Palermo (Sicilia)</title>
+      <title>Città Metropolitana di Palermo</title>
       <link>http://dev.albopop.it/altrepa/palermometropolitana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -531,7 +531,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo e condividerle sui social
     </item>
     
     <item>
-      <title>Città Metropolitana di Torino (Piemonte)</title>
+      <title>Città Metropolitana di Torino</title>
       <link>http://dev.albopop.it/altrepa/torinometropolitana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -626,6 +626,18 @@ Adesso puoi seguire le nuove pubblicazioni in albo in due modalità:
     </item>
     
     <item>
+      <title>G.B. Vaccarini</title>
+      <link>http://dev.albopop.it/altrepa/scuolagbvaccarinict/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.albopop.it/altrepa/scuolagbvaccarinict/</guid>
+      <description>La pagina dell&amp;rsquo;albo pretorio dell&amp;rsquo;Istituto d&amp;rsquo;Istruzione Superiore G.B. Vaccarini Catania è questa: https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=CTII0016&amp;amp;referer=http://www.vaccarinict.gov.it/wp/
+Adesso puoi seguire le nuove pubblicazioni in albo
+ iscrivendoti al feed RSS: http://dev.opendatasicilia.it/albopop/scuolagbvaccarinict/albofeed.php.  Autore: Cristiano Longo
+Note: Questo Albo POP è stato realizzato nell&amp;rsquo;ambito del progetto opendatahacklab di Hackspace Catania.</description>
+    </item>
+    
+    <item>
       <title>Gagliano Castelferrato</title>
       <link>http://dev.albopop.it/comune/gaglianocastelferrato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -670,7 +682,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
     </item>
     
     <item>
-      <title>Gravina di Catania (Sicilia)</title>
+      <title>Gravina di Catania</title>
       <link>http://dev.albopop.it/comune/gravinadicatania/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -707,7 +719,7 @@ L&amp;rsquo;occasione è buona per ringraziare Matteo, che fra l&amp;rsquo;altro
     </item>
     
     <item>
-      <title>Irsina (Basilicata)</title>
+      <title>Irsina</title>
       <link>http://dev.albopop.it/comune/irsina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -715,18 +727,6 @@ L&amp;rsquo;occasione è buona per ringraziare Matteo, che fra l&amp;rsquo;altro
       <description>La pagina dell&amp;rsquo;albo pretorio del Comune di Irsina è questa: https://www.halleyweb.com/c077013/mc/mc_p_ricerca.php
 Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
  su un canale Telegram https://telegram.me/albopretorioirsina; iscrivendoti a un feed RSS http://feeds.feedburner.com/AlboPopIrsina.  Autore: sputnik63</description>
-    </item>
-    
-    <item>
-      <title>Istituto d&#39;Istruzione Superiore G.B. Vaccarini Catania (Sicilia)</title>
-      <link>http://dev.albopop.it/altrepa/scuolagbvaccarinict/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://dev.albopop.it/altrepa/scuolagbvaccarinict/</guid>
-      <description>La pagina dell&amp;rsquo;albo pretorio dell&amp;rsquo;Istituto d&amp;rsquo;Istruzione Superiore G.B. Vaccarini Catania è questa: https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=CTII0016&amp;amp;referer=http://www.vaccarinict.gov.it/wp/
-Adesso puoi seguire le nuove pubblicazioni in albo
- iscrivendoti al feed RSS: http://dev.opendatasicilia.it/albopop/scuolagbvaccarinict/albofeed.php.  Autore: Cristiano Longo
-Note: Questo Albo POP è stato realizzato nell&amp;rsquo;ambito del progetto opendatahacklab di Hackspace Catania.</description>
     </item>
     
     <item>
@@ -764,7 +764,7 @@ Visualizza a schermo intero</description>
     </item>
     
     <item>
-      <title>Latina (Lazio)</title>
+      <title>Latina</title>
       <link>http://dev.albopop.it/comune/latina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -775,7 +775,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo:
     </item>
     
     <item>
-      <title>Lecce (Puglia)</title>
+      <title>Lecce</title>
       <link>http://dev.albopop.it/comune/lecce/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -787,7 +787,7 @@ Autore: Francesco Paolicelli.</description>
     </item>
     
     <item>
-      <title>Leonforte (Sicilia)</title>
+      <title>Leonforte</title>
       <link>http://dev.albopop.it/comune/leonforte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -798,7 +798,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in N modi dedicati:
     </item>
     
     <item>
-      <title>Lizzanello (LE) (Puglia)</title>
+      <title>Lizzanello</title>
       <link>http://dev.albopop.it/comune/lizzanello/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -809,7 +809,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
     </item>
     
     <item>
-      <title>Lizzano (Puglia)</title>
+      <title>Lizzano</title>
       <link>http://dev.albopop.it/comune/lizzano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -820,7 +820,7 @@ Puoi seguire le nuove pubblicazioni tramite:
     </item>
     
     <item>
-      <title>Manduria (Puglia)</title>
+      <title>Manduria</title>
       <link>http://dev.albopop.it/comune/manduria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -831,7 +831,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
     </item>
     
     <item>
-      <title>Manerbio (Lombardia)</title>
+      <title>Manerbio</title>
       <link>http://dev.albopop.it/comune/manerbio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -851,7 +851,7 @@ Adesso puoi seguire le nuove pubblicazioni tramite:
     </item>
     
     <item>
-      <title>Massafra (Puglia)</title>
+      <title>Massafra</title>
       <link>http://dev.albopop.it/comune/massafra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -862,7 +862,7 @@ Puoi seguire le nuove pubblicazioni tramite:
     </item>
     
     <item>
-      <title>Matera (Basilicata)</title>
+      <title>Matera</title>
       <link>http://dev.albopop.it/comune/matera/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -873,7 +873,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
     </item>
     
     <item>
-      <title>Mesagne (Puglia)</title>
+      <title>Mesagne</title>
       <link>http://dev.albopop.it/comune/mesagne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -895,7 +895,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo tramite:
     </item>
     
     <item>
-      <title>Milano (Lombardia)</title>
+      <title>Milano</title>
       <link>http://dev.albopop.it/comune/milano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -906,7 +906,7 @@ Autore: Nero Penzolero</description>
     </item>
     
     <item>
-      <title>Modugno (Puglia)</title>
+      <title>Modugno</title>
       <link>http://dev.albopop.it/comune/modugno/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -917,7 +917,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
     </item>
     
     <item>
-      <title>Molfetta (Puglia)</title>
+      <title>Molfetta</title>
       <link>http://dev.albopop.it/comune/molfetta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -928,7 +928,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
     </item>
     
     <item>
-      <title>Montefortino (Marche)</title>
+      <title>Montefortino</title>
       <link>http://dev.albopop.it/comune/montefortino/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -939,7 +939,7 @@ Autore: @bergaminienrico</description>
     </item>
     
     <item>
-      <title>Montegallo (Marche)</title>
+      <title>Montegallo</title>
       <link>http://dev.albopop.it/comune/montegallo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -950,7 +950,7 @@ Autore: @bergaminienrico</description>
     </item>
     
     <item>
-      <title>Monteleone di Spoleto (Umbria)</title>
+      <title>Monteleone di Spoleto</title>
       <link>http://dev.albopop.it/comune/monteleonedispoleto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -961,7 +961,7 @@ Autore: @bergaminienrico</description>
     </item>
     
     <item>
-      <title>Montemonaco (Marche)</title>
+      <title>Montemonaco</title>
       <link>http://dev.albopop.it/comune/montemonaco/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -972,7 +972,7 @@ Autore: @bergaminienrico</description>
     </item>
     
     <item>
-      <title>Montereale (Abruzzo)</title>
+      <title>Montereale</title>
       <link>http://dev.albopop.it/comune/montereale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -983,7 +983,7 @@ Autore: @bergaminienrico (the brave)</description>
     </item>
     
     <item>
-      <title>Napoli (Campania)</title>
+      <title>Napoli</title>
       <link>http://dev.albopop.it/comune/napoli/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -994,7 +994,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in due modalità:
     </item>
     
     <item>
-      <title>Narni (Umbria)</title>
+      <title>Narni</title>
       <link>http://dev.albopop.it/comune/narni/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1005,7 +1005,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
     </item>
     
     <item>
-      <title>Norcia (Umbria)</title>
+      <title>Norcia</title>
       <link>http://dev.albopop.it/comune/norcia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1016,7 +1016,7 @@ Autore: @bergaminienrico</description>
     </item>
     
     <item>
-      <title>Oria (BR) (Puglia)</title>
+      <title>Oria</title>
       <link>http://dev.albopop.it/comune/oria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1027,7 +1027,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in tre modi dedicati:
     </item>
     
     <item>
-      <title>Otranto (Puglia)</title>
+      <title>Otranto</title>
       <link>http://dev.albopop.it/comune/otranto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1038,7 +1038,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
     </item>
     
     <item>
-      <title>Palermo (Sicilia)</title>
+      <title>Palermo</title>
       <link>http://dev.albopop.it/comune/palermo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1050,7 +1050,7 @@ Autori: Scraping e RSS Francesco Paolicelli, gestione canale Telegram a cura Cir
     </item>
     
     <item>
-      <title>Partanna (Sicilia)</title>
+      <title>Partanna</title>
       <link>http://dev.albopop.it/comune/partanna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1081,7 +1081,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in queste modalità:
     </item>
     
     <item>
-      <title>Pedara (Sicilia)</title>
+      <title>Pedara</title>
       <link>http://dev.albopop.it/comune/pedara/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1114,7 +1114,7 @@ L&amp;rsquo;Albo Pretorio è un flusso di informazioni importantissimo, ci passa
     </item>
     
     <item>
-      <title>Pietraperzia (Sicilia)</title>
+      <title>Pietraperzia</title>
       <link>http://dev.albopop.it/comune/pietraperzia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1125,7 +1125,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
     </item>
     
     <item>
-      <title>Pinerolo (Piemonte)</title>
+      <title>Pinerolo</title>
       <link>http://dev.albopop.it/comune/pinerolo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1136,7 +1136,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
     </item>
     
     <item>
-      <title>Pisa (Toscana)</title>
+      <title>Pisa</title>
       <link>http://dev.albopop.it/comune/pisa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1147,7 +1147,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
     </item>
     
     <item>
-      <title>Platania (Calabria)</title>
+      <title>Platania</title>
       <link>http://dev.albopop.it/comune/platania/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1158,7 +1158,7 @@ Puoi seguire le nuove pubblicazioni tramite questo feed RSS:
     </item>
     
     <item>
-      <title>Polignano a Mare (Puglia)</title>
+      <title>Polignano a Mare</title>
       <link>http://dev.albopop.it/comune/polignanoamare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1169,7 +1169,7 @@ Autore: Emanuele Scagliusi</description>
     </item>
     
     <item>
-      <title>Potenza (Basilicata)</title>
+      <title>Potenza</title>
       <link>http://dev.albopop.it/comune/potenza/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1180,7 +1180,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
     </item>
     
     <item>
-      <title>Prato (Toscana)</title>
+      <title>Prato</title>
       <link>http://dev.albopop.it/comune/prato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1192,7 +1192,7 @@ Autore: Matteo Fortini</description>
     </item>
     
     <item>
-      <title>Preci (Umbria)</title>
+      <title>Preci</title>
       <link>http://dev.albopop.it/comune/preci/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1214,7 +1214,7 @@ Dopo una breve introduzione sugli open data daremo uno sguardo agli avvisi su al
     </item>
     
     <item>
-      <title>Rieti (Lazio)</title>
+      <title>Rieti</title>
       <link>http://dev.albopop.it/comune/rieti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1225,7 +1225,7 @@ Autore: Marco Acorte</description>
     </item>
     
     <item>
-      <title>Rignano Flaminio (Lazio)</title>
+      <title>Rignano Flaminio</title>
       <link>http://dev.albopop.it/comune/rignano_flaminio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1236,7 +1236,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
     </item>
     
     <item>
-      <title>Rocca Santa Maria (Abruzzo)</title>
+      <title>Rocca Santa Maria</title>
       <link>http://dev.albopop.it/comune/roccasantamaria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1247,7 +1247,7 @@ Autore: @bergaminienrico</description>
     </item>
     
     <item>
-      <title>Roncade (Veneto)</title>
+      <title>Roncade</title>
       <link>http://dev.albopop.it/comune/roncade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1258,7 +1258,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in tre modi dedicati:
     </item>
     
     <item>
-      <title>San Biagio di Callalta (Veneto)</title>
+      <title>San Biagio di Callalta</title>
       <link>http://dev.albopop.it/comune/sanbiagiodicallalta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1280,7 +1280,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in tre modi dedicati:
     </item>
     
     <item>
-      <title>San Marzano di San Giuseppe (Puglia)</title>
+      <title>San Marzano di San Giuseppe</title>
       <link>http://dev.albopop.it/comune/sanmarzanodisangiuseppe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1291,7 +1291,7 @@ Puoi seguire le nuove pubblicazioni tramite:
     </item>
     
     <item>
-      <title>San Pancrazio Salentino (Brindisi - Puglia)</title>
+      <title>San Pancrazio Salentino</title>
       <link>http://dev.albopop.it/comune/sanpancraziosalentino/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1302,7 +1302,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in due modalità:
     </item>
     
     <item>
-      <title>Sant&#39;Agata Li Battiati (Sicilia)</title>
+      <title>Sant&#39;Agata Li Battiati</title>
       <link>http://dev.albopop.it/comune/santagatalibattiati/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1313,7 +1313,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo iscrivendoti al feed RSS
     </item>
     
     <item>
-      <title>Sava (Puglia)</title>
+      <title>Sava</title>
       <link>http://dev.albopop.it/comune/sava/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1335,7 +1335,7 @@ I tag e gli attributi elencati qui sono sono suddivisi in tre tipologie:
     </item>
     
     <item>
-      <title>Surbo (LE) (Puglia)</title>
+      <title>Surbo</title>
       <link>http://dev.albopop.it/comune/surbo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1346,7 +1346,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in N modi dedicati:
     </item>
     
     <item>
-      <title>Taranto (Puglia)</title>
+      <title>Taranto</title>
       <link>http://dev.albopop.it/comune/taranto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1357,7 +1357,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
     </item>
     
     <item>
-      <title>Tarsia (Calabria)</title>
+      <title>Tarsia</title>
       <link>http://dev.albopop.it/comune/tarsia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1368,7 +1368,7 @@ Puoi seguire le nuove pubblicazioni tramite questo feed RSS:
     </item>
     
     <item>
-      <title>Terlizzi (Puglia)</title>
+      <title>Terlizzi</title>
       <link>http://dev.albopop.it/comune/terlizzi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1379,7 +1379,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
     </item>
     
     <item>
-      <title>Terranova da Sibari (Calabria)</title>
+      <title>Terranova da Sibari</title>
       <link>http://dev.albopop.it/comune/terranovadasibari/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1390,7 +1390,7 @@ Puoi seguire le nuove pubblicazioni tramite feed RSS:
     </item>
     
     <item>
-      <title>Torino (Piemonte)</title>
+      <title>Torino</title>
       <link>http://dev.albopop.it/comune/torino/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1403,7 +1403,7 @@ Note: Questo Albo POP è stato realizzato nell&amp;rsquo;ambito del progetto ope
     </item>
     
     <item>
-      <title>Trabia (Sicilia)</title>
+      <title>Trabia</title>
       <link>http://dev.albopop.it/comune/trabia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1414,7 +1414,7 @@ Autori: Andrea Borruso e Matteo Scirè</description>
     </item>
     
     <item>
-      <title>Treviso (Veneto)</title>
+      <title>Treviso</title>
       <link>http://dev.albopop.it/comune/treviso/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1425,7 +1425,7 @@ Adesso puoi seguire le nuove pubblicazioni in due modalità:
     </item>
     
     <item>
-      <title>Tricase (LE) (Puglia)</title>
+      <title>Tricase</title>
       <link>http://dev.albopop.it/comune/tricase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1436,7 +1436,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in N modi dedicati:
     </item>
     
     <item>
-      <title>Trieste (Friuli Venezia Giulia)</title>
+      <title>Trieste</title>
       <link>http://dev.albopop.it/comune/trieste/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1447,7 +1447,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in quattro modi dedicati:
     </item>
     
     <item>
-      <title>Troina (Sicilia)</title>
+      <title>Troina</title>
       <link>http://dev.albopop.it/comune/troina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1493,7 +1493,7 @@ Il Markdown è un modo per scrivere testi in un formato facile da leggere, che p
     </item>
     
     <item>
-      <title>Università di Catania (Sicilia)</title>
+      <title>Università degli Studi di Catania</title>
       <link>http://dev.albopop.it/altrepa/unict/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1505,7 +1505,7 @@ Note: Questo Albo POP è stato realizzato nell&amp;rsquo;ambito del progetto ope
     </item>
     
     <item>
-      <title>Università di Palermo (Sicilia)</title>
+      <title>Università degli Studi di Palermo</title>
       <link>http://dev.albopop.it/altrepa/unipa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1516,7 +1516,7 @@ Autori: Matteò Scirè e Andrea Borruso.</description>
     </item>
     
     <item>
-      <title>Università di Torino (Piemonte)</title>
+      <title>Università degli Studi di Torino</title>
       <link>http://dev.albopop.it/altrepa/unito/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1529,7 +1529,7 @@ Note: Questo Albo POP è stato realizzato nell&amp;rsquo;ambito del progetto ope
     </item>
     
     <item>
-      <title>Vaiano (Toscana)</title>
+      <title>Vaiano</title>
       <link>http://dev.albopop.it/comune/vaiano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1541,7 +1541,7 @@ Autore: Matteo Tempestini</description>
     </item>
     
     <item>
-      <title>Valguarnera Caropepe (Sicilia)</title>
+      <title>Valguarnera Caropepe</title>
       <link>http://dev.albopop.it/comune/valguarneracaropepe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1552,7 +1552,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in quattro modi dedicati:
     </item>
     
     <item>
-      <title>Valle Castellana (Abruzzo)</title>
+      <title>Valle Castellana</title>
       <link>http://dev.albopop.it/comune/vallecastellana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1563,7 +1563,7 @@ Autore: @bergaminienrico</description>
     </item>
     
     <item>
-      <title>Verbania (Piemonte)</title>
+      <title>Verbania</title>
       <link>http://dev.albopop.it/comune/verbania/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1574,7 +1574,7 @@ Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
     </item>
     
     <item>
-      <title>Vernio (Toscana)</title>
+      <title>Vernio</title>
       <link>http://dev.albopop.it/comune/vernio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1586,7 +1586,7 @@ Autore: Matteo Tempestini</description>
     </item>
     
     <item>
-      <title>Villabate (Sicilia)</title>
+      <title>Villabate</title>
       <link>http://dev.albopop.it/comune/villabate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

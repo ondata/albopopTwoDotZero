@@ -7,7 +7,7 @@
                 <h2 class="item-name">{{ .Title }}</h2>
             </div>
             {{ if and (isset .Params "provincia") (isset .Params "regione") }}
-            <div class="item-location flex-shrink-1 align-self-sm-end mr-sm-auto">{{ .Param "provincia" }}, {{ .Param "regione" }}</div>
+            <div class="item-location flex-shrink-1 align-self-sm-end mr-sm-auto"><nobr>{{ .Param "provincia" }}</nobr>, <nobr>{{ .Param "regione" }}</nobr></div>
             {{ end }}
             <div class="item-icon d-none d-sm-block">
                 <!--<img src="{{ .Site.BaseURL }}images/icon-tag.svg">-->

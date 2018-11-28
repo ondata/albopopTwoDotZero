@@ -1,10 +1,19 @@
 ---
 title: Andria
 tags: []
+original: http://www.albo.comune.andria.bt.it/web/trasparenza/albo-pretorio
+rss: http://feeds.feedburner.com/AlboPopComuneAndria
+twitter: 
+facebook: 
+telegram: https://telegram.me/AlboPretorioAndria
+pdf: 
+author: Rinux83 (https://github.com/Rinux83)
 regione: Puglia
 provincia: Barletta-Andria-Trani
 istat: 110001
 ipa: c_a285
+lat: 41.231667
+lng: 16.308333
 image: c_a285.png
 accessible: true
 standard: false

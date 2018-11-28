@@ -1,5 +1,26 @@
 ---
-title: Oria (BR) (Puglia)
+title: Oria
+tags: []
+original: http://www.comune.oria.br.it/accesso-rapido/albo-pretorio?opz=risultato
+rss: http://feeds.feedburner.com/Albooria
+twitter: https://twitter.com/albopoporia
+facebook: 
+telegram: https://telegram.me/albopoporia
+pdf: 
+author:
+ - Francesco Piero Paolicelli alias Piersoft (https://twitter.com/piersoft)
+ - Salvatore Longo (https://twitter.com/Salvatore_Longo)
+repo: 
+regione: Puglia
+provincia: Brindisi
+istat: 074011
+ipa: c_g098
+lat: 40.5
+lng: 17.633333
+image: c_g098.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina ufficiale dell'albo pretorio del **Comune di Oria** è questa: [http://www.comune.oria.br.it/accesso-rapido/albo-pretorio?opz=risultato](http://www.comune.oria.br.it/accesso-rapido/albo-pretorio?opz=risultato)

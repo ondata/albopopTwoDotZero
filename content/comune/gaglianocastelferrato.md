@@ -1,10 +1,20 @@
 ---
 title: Gagliano Castelferrato
 tags: []
+original: http://www.comunegaglianocastelferrato.gov.it/albo-pretorio
+rss: http://feeds.feedburner.com/AlboPretorioGaglianoCastelferrato
+twitter: https://twitter.com/AlboPopGagliano
+facebook: https://www.facebook.com/albopopgagliano
+telegram: https://telegram.me/albopopgagliano
+pdf: 
+author: Giuseppe Ricceri (https://www.facebook.com/etanoox)
+repo: 
 regione: Sicilia
 provincia: Enna
 istat: 086010
 ipa: c_d849
+lat: 37.716667
+lng: 14.533333
 image: c_d849.png
 accessible: true
 standard: false

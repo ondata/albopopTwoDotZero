@@ -1,7 +1,25 @@
 ---
-title: Città Metropolitana di Torino (Piemonte)
+title: Città Metropolitana di Torino
+tags: []
 institution: città metropolitana
+original: http://www.provincia.torino.gov.it/cgi-bin/attiweb/albo_pretorio.pl
 rss: http://dev.opendatasicilia.it/albopop/cittametropolitanatorino/albofeed.php
+twitter: 
+facebook: https://www.facebook.com/groups/510252012501879/
+telegram: 
+author:
+ - Michele Maresca
+ - Cristiano Longo
+repo: 
+regione: Piemonte
+provincia: Torino
+ipa: cmto
+lat: 45.066667
+lng: 7.7
+image: cmto.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio della **Città Metropolitana di Torino** è questa: [http://www.provincia.torino.gov.it/cgi-bin/attiweb/albo_pretorio.pl](http://www.provincia.torino.gov.it/cgi-bin/attiweb/albo_pretorio.pl)

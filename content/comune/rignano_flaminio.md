@@ -1,5 +1,24 @@
 ---
-title: Rignano Flaminio (Lazio)
+title: Rignano Flaminio
+tags: []
+original: http://albo.studiok.it/rignanoflaminio/albo/index.php
+rss: http://feeds.feedburner.com/RignanoFL
+twitter: 
+facebook: 
+telegram: https://telegram.me/RignanoFL
+pdf: 
+author: Vincy85 (https://twitter.com/Vincy85)
+repo: 
+regione: Lazio
+provincia: Roma
+istat: 058082
+ipa: c_h288
+lat: 42.2
+lng: 12.483333
+image: c_h288.png
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del Comune di **Rignano Flaminio** è questa: [http://albo.studiok.it/rignanoflaminio/albo/index.php](http://albo.studiok.it/rignanoflaminio/albo/index.php)

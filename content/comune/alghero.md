@@ -1,10 +1,19 @@
 ---
 title: Alghero
 tags: []
+original: http://94.95.21.38/web/trasparenzaj/papca-ap/-/papca/igrid/381
+rss: http://opendata.matteofortini.it/rssAlboPOP/alboPOPAlghero.xml
+twitter: 
+facebook: 
+telegram: https://telegram.me/alboPOPAlghero
+pdf: 
+author: Matteo Fortini (https://twitter.com/matt_fortini)
 regione: Sardegna
 provincia: Sassari
 istat: 090003
 ipa: c_a192
+lat: 40.557778
+lng: 8.321944
 image: c_a192.svg
 accessible: true
 standard: false

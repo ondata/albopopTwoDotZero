@@ -1,10 +1,19 @@
 ---
 title: Bagheria
 tags: []
+original: http://comune.bagheria.pa.it/albo-pretorio/albo-pretorio-online/
+rss: http://feeds.feedburner.com/BagheriaAlboPretorio
+twitter: https://twitter.com/albobagheria
+facebook: 
+telegram: https://telegram.me/albopretoriobagheria
+pdf: 
+author: 
 regione: Sicilia
 provincia: Palermo
 istat: 082006
 ipa: c_a546
+lat: 38.083333
+lng: 13.5
 image: c_a546.png
 accessible: true
 standard: false

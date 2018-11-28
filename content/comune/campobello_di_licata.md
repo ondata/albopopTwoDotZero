@@ -1,6 +1,15 @@
 ---
 title: Campobello di Licata
 tags: []
+original: http://www.comune.campobellodilicata.ag.it/albo-pretorio
+rss: http://www.comune.campobellodilicata.ag.it/rss-albopretorio
+twitter: https://twitter.com/AlboPopCampLi
+facebook: https://www.facebook.com/AlboPopCampobelloDiLicata/
+telegram: https://telegram.me/albopopcampobellodilicata
+pdf: 
+author: 
+ - Andrea Borruso (https://twitter.com/aborruso)
+ - Matteo Scirè (https://twitter.com/matteoscire)
 regione: Sicilia
 provincia: Agrigento
 istat: 084010

@@ -1,10 +1,19 @@
 ---
 title: Agira
 tags: []
+original: http://www.comuneagira.gov.it/it-it/amministrazione/atti-pubblicazioni/albo-pretorio
+rss: http://feeds.feedburner.com/AlbopopAgira
+twitter: https://twitter.com/albopop_agira
+facebook: https://www.facebook.com/albopopAgira
+telegram: https://telegram.me/albopopagira
+pdf: 
+author: Giuseppe Ricceri (https://www.facebook.com/etanoox)
 regione: Sicilia
 provincia: Enna
 istat: 086001
 ipa: c_a070
+lat: 37.65
+lng: 14.516667
 image: c_a070.png
 accessible: true
 standard: false

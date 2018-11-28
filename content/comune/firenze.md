@@ -1,10 +1,20 @@
 ---
 title: Firenze
 tags: []
+original: https://accessoconcertificato.comune.fi.it/AOL/Albo/ComuneFi
+rss: http://feeds.feedburner.com/albopopfirenze
+twitter: 
+facebook: 
+telegram: https://telegram.me/albopopfirenze
+pdf: 
+author: Francesco Piero Paolicelli alias Piersoft (https://twitter.com/Piersoft)
+repo: 
 regione: Toscana
 provincia: Firenze
 istat: 048017
 ipa: c_d612
+lat: 43.771389
+lng: 11.254167
 image: c_d612.svg
 accessible: true
 standard: false

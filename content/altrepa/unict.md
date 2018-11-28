@@ -1,7 +1,23 @@
 ---
-title: Università di Catania (Sicilia)
+title: Università degli Studi di Catania
+tags: []
 institution: università
+original: http://ws1.unict.it/albo/
 rss: http://dev.opendatasicilia.it/albopop/unict/unict2RSS.php
+twitter: 
+facebook: 
+telegram: https://telegram.me/albounict
+author: Cristiano Longo (https://github.com/cristianolongo)
+repo: 
+regione: Sicilia
+provincia: Catania
+ipa: uni_ct
+lat: 37.5036
+lng: 15.0867
+image: uni_ct.jpg
+accessible: true
+standard: false
+official: false
 ---
 
 La pagina dell'albo pretorio del **Università di Catania** è questa: [http://ws1.unict.it/albo/](http://ws1.unict.it/albo/)

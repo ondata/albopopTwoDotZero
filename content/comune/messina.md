@@ -1,7 +1,7 @@
 ---
 title: Messina
 tags: []
-institution: comune
+original: http://albopretorio.comune.messina.it/jalbopretorio/AlboPretorio
 rss: http://feeds.feedburner.com/albopopcomunemessina
 twitter: https://twitter.com/AlboPopMessina
 facebook: https://www.facebook.com/AlboPopMessina/
