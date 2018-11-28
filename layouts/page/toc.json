@@ -1,0 +1,8 @@
+[
+    {{ $pages := union ( where .Site.RegularPages "Section" "comune") (where .Site.RegularPages "Section" "altrepa")  }}
+    {{ range $index, $page := $pages }}
+    {
+        "title": "{{ $page.Title }}","type": "{{ $page.Section }}",{{ trim ($page.Params | jsonify) "{ }" }}
+    }{{ if ne $index (sub (len $pages) 1) }},{{ end }}
+    {{ end }}
+]
