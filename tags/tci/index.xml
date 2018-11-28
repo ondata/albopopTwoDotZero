@@ -100,7 +100,7 @@ Autore: @bergaminienrico</description>
     </item>
     
     <item>
-      <title>Montefortino (Marche)</title>
+      <title>Montefortino</title>
       <link>http://dev.albopop.it/comune/montefortino/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -111,7 +111,7 @@ Autore: @bergaminienrico</description>
     </item>
     
     <item>
-      <title>Montegallo (Marche)</title>
+      <title>Montegallo</title>
       <link>http://dev.albopop.it/comune/montegallo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -122,18 +122,7 @@ Autore: @bergaminienrico</description>
     </item>
     
     <item>
-      <title>Monteleone di Spoleto (Umbria)</title>
-      <link>http://dev.albopop.it/comune/monteleonedispoleto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://dev.albopop.it/comune/monteleonedispoleto/</guid>
-      <description>La pagina dell&amp;rsquo;albo pretorio del Comune di Monteleone di Spoleto è questa: http://www.comune.monteleonedispoleto.pg.it/mc/mc_p_ricerca.php.
-Adesso puoi seguire le nuove pubblicazioni in albo tramite feed RSS: http://feeds.feedburner.com/AlbopopMonteleoneDiSpoleto.
-Autore: @bergaminienrico</description>
-    </item>
-    
-    <item>
-      <title>Montemonaco (Marche)</title>
+      <title>Montemonaco</title>
       <link>http://dev.albopop.it/comune/montemonaco/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -144,7 +133,7 @@ Autore: @bergaminienrico</description>
     </item>
     
     <item>
-      <title>Montereale (Abruzzo)</title>
+      <title>Montereale</title>
       <link>http://dev.albopop.it/comune/montereale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -155,7 +144,7 @@ Autore: @bergaminienrico (the brave)</description>
     </item>
     
     <item>
-      <title>Norcia (Umbria)</title>
+      <title>Norcia</title>
       <link>http://dev.albopop.it/comune/norcia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -166,7 +155,7 @@ Autore: @bergaminienrico</description>
     </item>
     
     <item>
-      <title>Preci (Umbria)</title>
+      <title>Preci</title>
       <link>http://dev.albopop.it/comune/preci/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -177,7 +166,18 @@ Autore: @bergaminienrico</description>
     </item>
     
     <item>
-      <title>Rocca Santa Maria (Abruzzo)</title>
+      <title>Rieti</title>
+      <link>http://dev.albopop.it/comune/rieti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.albopop.it/comune/rieti/</guid>
+      <description>La pagina dell&amp;rsquo;albo pretorio del Comune di Rieti è questa: http://albopretorio.insielmercato.it/AlboRieti/home.html.
+Adesso puoi seguire le nuove pubblicazioni in albo tramite feed RSS: http://feeds.feedburner.com/AlboPretorioComuneRietiV3.
+Autore: Marco Acorte</description>
+    </item>
+    
+    <item>
+      <title>Rocca Santa Maria</title>
       <link>http://dev.albopop.it/comune/roccasantamaria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -188,7 +188,7 @@ Autore: @bergaminienrico</description>
     </item>
     
     <item>
-      <title>Valle Castellana (Abruzzo)</title>
+      <title>Valle Castellana</title>
       <link>http://dev.albopop.it/comune/vallecastellana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
