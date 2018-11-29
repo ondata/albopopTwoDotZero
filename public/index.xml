@@ -847,7 +847,9 @@ Adesso puoi seguire le nuove pubblicazioni tramite:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://dev.albopop.it/mappa/</guid>
-      <description>Visualizza a schermo intero</description>
+      <description>Tutte le istituzioni con Albi Pop attivi: in verde i comuni, in rosso le altre Pubbliche Amministrazione, la stella indica gli albi ufficiali.
+ Visualizza a schermo intero
+-- </description>
     </item>
     
     <item>
