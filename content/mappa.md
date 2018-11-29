@@ -2,6 +2,13 @@
 title: "Mappa degli Albi POP"
 draft: false
 type: "page"
+scripts:
+ - https://cdnjs.cloudflare.com/ajax/libs/pegasus/0.3.5/pegasus.min.js
+ - https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.4/leaflet.js
+ - /js/map.js
+styles:
+ - https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.4/leaflet.css
+ - /css/map.css
 menu:
     secondary:
         name: "Mappa"
