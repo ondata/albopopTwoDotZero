@@ -1,6 +1,6 @@
 ---
 title: Arquata del Tronto
-tags: ["tci"]
+tags: ["tci","rt"]
 original: http://www.halleyegov.it/c044006/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Arquata%20del%20Tronto_feed.xml
 twitter: 

@@ -1,6 +1,6 @@
 ---
 title: Cascia
-tags: ["tci"]
+tags: ["tci","rt"]
 original: http://www.halleyweb.com/c054007/mc/mc_gridev_messi.php?x=&servizio=&bck=http%3A%2F%2Fwww.comune.cascia.pg.it%2F
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Cascia_feed.xml
 twitter: 

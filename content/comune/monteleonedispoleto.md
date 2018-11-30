@@ -1,6 +1,6 @@
 ---
 title: Monteleone di Spoleto
-tags: []
+tags: ["rt"]
 original: http://www.comune.monteleonedispoleto.pg.it/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Monteleone di Spoleto_feed.xml
 twitter: 
@@ -17,7 +17,7 @@ lat: 42.651361
 lng: 12.951669
 image: c_f540.png
 accessible: true
-standard: false
+standard: true
 official: false
 ---
 

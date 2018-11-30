@@ -1,6 +1,6 @@
 ---
 title: Preci
-tags: ["tci"]
+tags: ["tci","rt"]
 original: http://halleyweb.com/c054043/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Preci_feed.xml
 twitter: 

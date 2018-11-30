@@ -1,6 +1,6 @@
 ---
 title: Montereale
-tags: ["tci"]
+tags: ["tci","rt"]
 original: http://www.comune.montereale.it/mc/mc_gridev_messi.php?x=&servizio=&bck=http%3A%2F%2Fwww.comune.montereale.it%2Fhh%2Findex.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Montereale_feed.xml
 twitter: 

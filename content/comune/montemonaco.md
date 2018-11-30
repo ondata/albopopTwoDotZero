@@ -1,6 +1,6 @@
 ---
 title: Montemonaco
-tags: ["tci"]
+tags: ["tci","rt"]
 original: http://www.tecuting.it/c044044/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Montemonaco_feed.xml
 twitter: 

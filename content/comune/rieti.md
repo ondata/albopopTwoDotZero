@@ -1,6 +1,6 @@
 ---
 title: Rieti
-tags: ["tci"]
+tags: ["tci","rt"]
 original: http://albopretorio.insielmercato.it/AlboRieti/home.html
 rss: http://www.semplicepa.it/rssfeed/057059.xml
 twitter: 

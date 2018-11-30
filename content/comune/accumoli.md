@@ -1,6 +1,6 @@
 ---
 title: Accumoli
-tags: ["tci"]
+tags: ["tci","rt"]
 original: http://www.comune.accumoli.ri.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Accumoli_feed.xml
 twitter: 

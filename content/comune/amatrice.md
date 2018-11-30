@@ -1,6 +1,6 @@
 ---
 title: Amatrice
-tags: ["tci"]
+tags: ["tci","rt"]
 original: http://www.comune.amatrice.rieti.it/albo-pretorio
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Amatrice_feed.xml
 twitter: 
