@@ -1,6 +1,5 @@
 ---
 title: "Fiuminata"
-date: 2018-11-30T00:53:28+01:00
 tags: ["rt"]
 original: http://www.comune.fiuminata.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Fiuminata_feed.xml

@@ -1,6 +1,5 @@
 ---
 title: "Belforte Del Chienti"
-date: 2018-11-29T23:26:42+01:00
 tags: ["rt"]
 original: http://www.comune.belfortedelchienti.mc.it/albo-pretorio/
 rss: http://www.semplicepa.it/rssfeed/043004.xml

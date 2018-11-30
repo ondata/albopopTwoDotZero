@@ -1,6 +1,5 @@
 ---
 title: "Crognaleto"
-date: 2018-11-30T00:37:44+01:00
 tags: ["rt"]
 original: http://www.comune.crognaleto.te.it/pagine/alboPretorio.asp
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Crognaleto_feed.xml

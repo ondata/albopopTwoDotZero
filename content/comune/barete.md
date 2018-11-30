@@ -1,6 +1,5 @@
 ---
 title: "Barete"
-date: 2018-11-29T23:24:42+01:00
 tags: ["rt"]
 original: http://www.comune.barete.aq.it/index.php?option=com_content&view=article&id=23&Itemid=33
 rss: http://www.semplicepa.it/rssfeed/066008.xml

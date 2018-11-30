@@ -1,6 +1,5 @@
 ---
 title: "Colli del Tronto"
-date: 2018-11-30T00:27:57+01:00
 tags: ["rt"]
 original: https://www.halleyweb.com/c044014/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Colli del Tronto_feed.xml

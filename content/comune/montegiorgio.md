@@ -1,6 +1,5 @@
 ---
 title: "Montegiorgio"
-date: 2018-11-30T19:49:38+01:00
 tags: ["rt"]
 original: http://halleyweb.com/c109017/mc/mc_gridev_messi.php?x=&servizio=&bck=http%3A%2F%2Fcomune.montegiorgio.fm.it%2F
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Montegiorgio_feed.xml

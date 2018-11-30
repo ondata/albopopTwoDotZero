@@ -1,6 +1,5 @@
 ---
 title: "Vallo di Nera"
-date: 2018-11-30T21:43:14+01:00
 tags: ["rt"]
 original: http://www.comune.vallodinera.pg.it/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Vallo di Nera_feed.xml

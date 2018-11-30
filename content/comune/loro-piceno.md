@@ -1,6 +1,5 @@
 ---
 title: "Loro Piceno"
-date: 2018-11-30T19:21:09+01:00
 tags: ["rt"]
 original: http://www.comune.loropiceno.mc.it/albo-pretorio-pubblicazioni-in-corso/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Loro Piceno_feed.xml

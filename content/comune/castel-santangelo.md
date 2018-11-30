@@ -1,6 +1,5 @@
 ---
 title: "Castel Sant'Angelo"
-date: 2018-11-30T00:03:47+01:00
 tags: ["rt"]
 original: http://www.halleyweb.com/c057015/po/il-comune-informa.php?x=322e0b38f9e5b74d3d8a5b955a3b6b6c
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Castel Sant'Angelo_feed.xml

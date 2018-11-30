@@ -1,6 +1,5 @@
 ---
 title: "Poggiodomo"
-date: 2018-11-30T20:22:30+01:00
 tags: ["rt"]
 original: http://www.comune.poggiodomo.pg.it/c054042/mc/mc_gridev_messi.php?x=&servizio=&bck=http%3A%2F%2Fwww.comune.poggiodomo.pg.it%2Fhh%2Findex.php%3Fjvs%3D0%26acc%3D1
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Poggiodomo_feed.xml

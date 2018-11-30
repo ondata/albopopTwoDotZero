@@ -1,6 +1,5 @@
 ---
 title: "Isola del Gran Sasso d'Italia"
-date: 2018-11-30T01:01:57+01:00
 tags: ["rt"]
 original: http://109.239.255.200:8090/EXEC
 rss: http://www.semplicepa.it/rssfeed/067026.xml

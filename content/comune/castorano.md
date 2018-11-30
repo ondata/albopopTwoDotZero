@@ -1,6 +1,5 @@
 ---
 title: "Castorano"
-date: 2018-11-30T00:12:50+01:00
 tags: ["rt"]
 original: http://www.halleyweb.com/c044013/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Castorano_feed.xml

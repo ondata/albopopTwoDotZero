@@ -1,6 +1,5 @@
 ---
 title: "Castelli"
-date: 2018-11-30T00:05:51+01:00
 tags: ["rt"]
 original: http://www.comune.castelli.te.it/amministrazione/halley.aspx?ID=304
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Castelli_feed.xml

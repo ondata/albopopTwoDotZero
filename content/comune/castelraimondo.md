@@ -1,6 +1,5 @@
 ---
 title: "Castelraimondo"
-date: 2018-11-30T00:07:43+01:00
 tags: ["rt"]
 original: http://www.comune.castelraimondo.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Castelraimondo_feed.xml

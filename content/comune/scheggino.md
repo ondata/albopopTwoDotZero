@@ -1,6 +1,5 @@
 ---
 title: "Scheggino"
-date: 2018-11-30T20:44:06+01:00
 tags: ["rt"]
 original: https://www.halleyweb.com/c054047/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Scheggino_feed.xml

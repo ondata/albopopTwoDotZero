@@ -1,6 +1,5 @@
 ---
 title: "Urbisaglia"
-date: 2018-11-30T21:40:04+01:00
 tags: ["rt"]
 original: http://www.comune.urbisaglia.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Urbisaglia_feed.xml

@@ -1,6 +1,5 @@
 ---
 title: "Pioraco"
-date: 2018-11-30T20:17:05+01:00
 tags: ["rt"]
 original: http://www.comune.pioraco.mc.it/albo-pretorio/
 rss: http://www.semplicepa.it/rssfeed/043039.xml

@@ -1,6 +1,5 @@
 ---
 title: "Santa Vittoria in Matenano"
-date: 2018-11-30T20:41:23+01:00
 tags: ["rt"]
 original: https://www.halleyweb.com/c044067/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Santa Vittoria in Matenano_feed.xml

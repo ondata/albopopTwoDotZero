@@ -1,6 +1,5 @@
 ---
 title: "Cagnano Amiterno"
-date: 2018-11-29T23:35:56+01:00
 tags: ["rt"]
 original: http://comune.cagnanoamiterno.aq.it/index.php
 rss: http://www.semplicepa.it/rssfeed/066013.xml

@@ -1,6 +1,5 @@
 ---
 title: "Civitella del Tronto"
-date: 2018-11-30T00:23:14+01:00
 tags: ["rt"]
 original: http://www.halleyweb.com/c067017/mc/mc_p_ricerca.php?x=65f6e7b5d87fc3a6da5b4f3edf688727
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Civitella del Tronto_feed.xml

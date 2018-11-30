@@ -1,6 +1,5 @@
 ---
 title: "Ussita"
-date: 2018-11-30T21:41:27+01:00
 tags: ["rt"]
 original: http://www.comune.ussita.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Ussita_feed.xml

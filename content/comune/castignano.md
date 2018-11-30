@@ -1,6 +1,5 @@
 ---
 title: "Castignano"
-date: 2018-11-30T00:11:16+01:00
 tags: ["rt"]
 original: http://www.comune.castignano.ap.it/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Castignano_feed.xml

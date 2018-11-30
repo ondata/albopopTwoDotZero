@@ -1,6 +1,5 @@
 ---
 title: "Castel Di Lama"
-date: 2018-11-30T00:01:51+01:00
 tags: ["rt"]
 original: http://www.comune.casteldilama.ap.it/index.php?action=pages&m=view&p=845&lang=it
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Castel di Lama_feed.xml

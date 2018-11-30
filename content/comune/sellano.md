@@ -1,6 +1,5 @@
 ---
 title: "Sellano"
-date: 2018-11-30T20:47:22+01:00
 tags: ["rt"]
 original: http://www.comune.sellano.pg.it/c054048/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Sellano_feed.xml

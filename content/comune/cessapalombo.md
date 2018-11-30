@@ -1,6 +1,5 @@
 ---
 title: "Cessapalombo"
-date: 2018-11-30T00:17:58+01:00
 tags: ["rt"]
 original: http://www.comune.cessapalombo.mc.it/albo-pretorio/
 rss: http://www.semplicepa.it/rssfeed/043011.xml

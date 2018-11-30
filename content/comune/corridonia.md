@@ -1,6 +1,5 @@
 ---
 title: "Corridonia"
-date: 2018-11-30T00:32:45+01:00
 tags: ["rt"]
 original: http://www.comune.corridonia.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Corridonia_feed.xml

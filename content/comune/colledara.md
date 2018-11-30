@@ -1,6 +1,5 @@
 ---
 title: "Colledara"
-date: 2018-11-30T00:24:52+01:00
 tags: ["rt"]
 original: http://www.comunedicolledara.gov.it/amministrazione/halley.aspx?ID=304
 rss: http://www.semplicepa.it/rssfeed/067018.xml

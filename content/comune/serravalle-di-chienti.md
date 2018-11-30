@@ -1,6 +1,5 @@
 ---
 title: "Serravalle di Chienti"
-date: 2018-11-30T20:50:58+01:00
 tags: ["rt"]
 original: http://www.comune.serravalledichienti.mc.it/albo-pretorio
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Serravalle di Chienti_feed.xml

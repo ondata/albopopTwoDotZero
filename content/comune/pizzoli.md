@@ -1,6 +1,5 @@
 ---
 title: "Pizzoli"
-date: 2018-11-30T20:18:19+01:00
 tags: ["rt"]
 original: http://www.comune.pizzoli.aq.it/index.php?option=com_wrapper&view=wrapper&Itemid=165
 rss: http://www.semplicepa.it/rssfeed/066072.xml

@@ -1,6 +1,5 @@
 ---
 title: "Ascoli Piceno"
-date: 2018-11-29T23:23:00+01:00
 tags: ["rt"]
 original: http://www.comuneap.gov.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/276
 rss: http://www.semplicepa.it/rssfeed/044007.xml

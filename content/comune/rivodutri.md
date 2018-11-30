@@ -1,6 +1,5 @@
 ---
 title: "Rivodutri"
-date: 2018-11-30T20:29:34+01:00
 tags: ["rt"]
 original: http://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/albo_pretorio/_lazio/_comuni/_rivodutri/
 rss: http://www.semplicepa.it/rssfeed/057060.xml

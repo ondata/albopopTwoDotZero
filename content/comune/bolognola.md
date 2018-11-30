@@ -1,6 +1,5 @@
 ---
 title: "Bolognola"
-date: 2018-11-29T23:30:24+01:00
 tags: ["rt"]
 original: http://www.comune.bolognola.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Bolognola_feed.xml

@@ -1,6 +1,5 @@
 ---
 title: "Appignano Del Tronto"
-date: 2018-11-29T23:19:04+01:00
 tags: ["rt"]
 original: http://www.comune.appignanodeltronto.ap.it/page/112/albo-pretorio.html
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Appignano del Tronto_feed.xml

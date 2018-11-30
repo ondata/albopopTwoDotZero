@@ -1,6 +1,5 @@
 ---
 title: "Fabriano"
-date: 2018-11-30T00:40:45+01:00
 tags: ["rt"]
 original: http://www.comune.fabriano.gov.it/index.php/albo-pretorio-online
 rss: http://www.semplicepa.it/rssfeed/042017.xml

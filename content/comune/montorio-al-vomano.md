@@ -1,6 +1,5 @@
 ---
 title: "Montorio al Vomano"
-date: 2018-11-30T19:56:52+01:00
 tags: ["rt"]
 original: http://5.97.88.242:8090/EXEC
 rss: http://www.semplicepa.it/rssfeed/067028.xml

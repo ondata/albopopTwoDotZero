@@ -1,6 +1,5 @@
 ---
 title: "Folignano"
-date: 2018-11-30T00:54:59+01:00
 tags: ["rt"]
 original: http://www.halleyweb.com/c044020/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Folignano_feed.xml

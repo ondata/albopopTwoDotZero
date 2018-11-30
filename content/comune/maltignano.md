@@ -1,6 +1,5 @@
 ---
 title: "Maltignano"
-date: 2018-11-30T19:24:53+01:00
 tags: ["rt"]
 original: http://www.halleyweb.com/c044027/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Maltignano_feed.xml

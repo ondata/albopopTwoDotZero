@@ -1,6 +1,5 @@
 ---
 title: "Pollenza"
-date: 2018-11-30T20:24:22+01:00
 tags: ["rt"]
 original: http://www.comune.pollenza.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Pollenza_feed.xml

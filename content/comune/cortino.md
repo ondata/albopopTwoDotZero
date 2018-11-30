@@ -1,6 +1,5 @@
 ---
 title: "Cortino"
-date: 2018-11-30T00:34:22+01:00
 tags: ["rt"]
 original: http://www.comunedicortino.gov.it/albopretorio.html
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Cortino_feed.xml

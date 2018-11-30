@@ -1,6 +1,5 @@
 ---
 title: "Arrone"
-date: 2018-11-29T23:21:24+01:00
 tags: ["rt"]
 original: http://albopretorio.webred.it/albo-c009/home.html
 rss: http://www.semplicepa.it/rssfeed/055005.xml

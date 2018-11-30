@@ -1,6 +1,5 @@
 ---
 title: "Tolentino"
-date: 2018-11-30T21:32:01+01:00
 tags: ["rt"]
 original: http://www.comune.tolentino.mc.it/delibere-determine-e-ordinanze/
 rss: http://www.semplicepa.it/rssfeed/043053.xml

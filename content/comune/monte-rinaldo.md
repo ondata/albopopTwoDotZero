@@ -1,6 +1,5 @@
 ---
 title: "Monte Rinaldo"
-date: 2018-11-30T19:39:22+01:00
 tags: ["rt"]
 original: http://www.tecuting.it/c044046/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Monte Rinaldo_feed.xml

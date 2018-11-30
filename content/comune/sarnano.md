@@ -1,6 +1,5 @@
 ---
 title: "Sarnano"
-date: 2018-11-30T20:42:46+01:00
 tags: ["rt"]
 original: http://www.comune.sarnano.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Sarnano_feed.xml

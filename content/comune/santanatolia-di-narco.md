@@ -1,6 +1,5 @@
 ---
 title: "Sant'Anatolia di Narco"
-date: 2018-11-30T20:37:52+01:00
 tags: ["rt"]
 original: http://halleyweb.com/c054045/mc/mc_p_ricerca.php?x=37a69b66362cefebdc1e191d698be0ea
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Sant'Anatolia di Narco_feed.xml

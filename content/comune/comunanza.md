@@ -1,6 +1,5 @@
 ---
 title: "Comunanza"
-date: 2018-11-30T00:31:16+01:00
 tags: ["rt"]
 original: http://www.comune.comunanza.ap.it/c044015/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Comunanza_feed.xml

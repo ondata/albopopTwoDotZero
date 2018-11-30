@@ -1,6 +1,5 @@
 ---
 title: "Mogliano"
-date: 2018-11-30T19:31:20+01:00
 tags: ["rt"]
 original: http://www.comune.mogliano.mc.it/albo-pretorio/albo-pretorio-pubblicazioni-in-corso/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Mogliano_feed.xml

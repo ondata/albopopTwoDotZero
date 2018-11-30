@@ -1,6 +1,5 @@
 ---
 title: "Force"
-date: 2018-11-30T00:56:46+01:00
 tags: ["rt"]
 original: http://www.halleyweb.com/c044021/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Force_feed.xml

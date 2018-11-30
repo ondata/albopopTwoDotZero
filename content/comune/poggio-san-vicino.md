@@ -1,6 +1,5 @@
 ---
 title: "Poggio San Vicino"
-date: 2018-11-30T20:21:04+01:00
 tags: ["rt"]
 original: http://www.comune.poggiosanvicino.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Poggio San Vicino_feed.xml

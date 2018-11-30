@@ -1,6 +1,5 @@
 ---
 title: "Apiro"
-date: 2018-11-29T23:17:04+01:00
 tags: ["rt"]
 original: http://www.comune.apiro.mc.it/albo-pretorio/
 rss: http://www.semplicepa.it/rssfeed/043002.xml

@@ -1,6 +1,5 @@
 ---
 title: "Camporotondo di Fiastrone"
-date: 2018-11-29T23:53:44+01:00
 tags: ["rt"]
 original: http://www.comune.camporotondodifiastrone.mc.it/albo-pretorio/
 rss: http://www.semplicepa.it/rssfeed/043008.xml

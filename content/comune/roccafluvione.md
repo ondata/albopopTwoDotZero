@@ -1,6 +1,5 @@
 ---
 title: "Roccafluvione"
-date: 2018-11-30T20:31:13+01:00
 tags: ["rt"]
 original: http://www.halleyweb.com/c044064/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Roccafluvione_feed.xml

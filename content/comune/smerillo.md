@@ -1,6 +1,5 @@
 ---
 title: "Smerillo"
-date: 2018-11-30T21:26:53+01:00
 tags: ["rt"]
 original: http://www.comune.smerillo.fm.it/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Smerillo_feed.xml

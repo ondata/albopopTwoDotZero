@@ -1,6 +1,5 @@
 ---
 title: "Monte Vidon Corrado"
-date: 2018-11-30T19:42:21+01:00
 tags: ["rt"]
 original: http://www.comune.montevidoncorrado.fm.it/index.php?action=pages&m=view&p=18&lang=it
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Monte Vidon Corrado_feed.xml

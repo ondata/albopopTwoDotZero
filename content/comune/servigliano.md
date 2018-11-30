@@ -1,6 +1,5 @@
 ---
 title: "Servigliano"
-date: 2018-11-30T20:52:38+01:00
 tags: ["rt"]
 original: http://www.comune.servigliano.fm.it/c044069/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Servigliano_feed.xml

@@ -1,6 +1,5 @@
 ---
 title: "Serrapetrona"
-date: 2018-11-30T20:48:39+01:00
 tags: ["rt"]
 original: http://www.comune.serrapetrona.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Serrapetrona_feed.xml

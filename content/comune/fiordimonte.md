@@ -1,6 +1,5 @@
 ---
 title: "Fiordimonte"
-date: 2018-11-30T00:51:34+01:00
 tags: ["rt"]
 original: http://www.comune.fiordimonte.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Fiordimonte_feed.xml

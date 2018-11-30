@@ -1,6 +1,5 @@
 ---
 title: "Gualdo"
-date: 2018-11-30T01:00:02+01:00
 tags: ["rt"]
 original: http://www.comune.gualdo.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Gualdo_feed.xml

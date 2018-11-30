@@ -1,6 +1,5 @@
 ---
 title: "Pieve Torina"
-date: 2018-11-30T20:12:25+01:00
 tags: ["rt"]
 original: http://www.comune.pievetorina.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Pieve Torina_feed.xml

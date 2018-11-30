@@ -1,6 +1,5 @@
 ---
 title: "Posta"
-date: 2018-11-30T20:25:46+01:00
 tags: ["rt"]
 original: http://www.comunediposta.it/albo-pretorio.html
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Posta_feed.xml

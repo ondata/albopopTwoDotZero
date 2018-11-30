@@ -1,6 +1,5 @@
 ---
 title: "Penna San Giovanni"
-date: 2018-11-30T20:04:13+01:00
 tags: ["rt"]
 original: http://www.comune.pennasangiovanni.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Penna San Giovanni_feed.xml

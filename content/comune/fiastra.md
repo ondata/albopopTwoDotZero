@@ -1,6 +1,5 @@
 ---
 title: "Fiastra"
-date: 2018-11-30T00:49:59+01:00
 tags: ["rt"]
 original: http://www.comune.fiastra.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Fiastra_feed.xml

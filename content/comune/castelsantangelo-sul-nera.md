@@ -1,6 +1,5 @@
 ---
 title: "Castelsantangelo sul Nera"
-date: 2018-11-30T00:09:24+01:00
 tags: ["rt"]
 original: http://www.comune.castelsantangelosulnera.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Castelsantangelo sul Nera_feed.xml

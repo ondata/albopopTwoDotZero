@@ -1,6 +1,5 @@
 ---
 title: "Spoleto"
-date: 2018-11-30T21:28:39+01:00
 tags: ["rt"]
 original: http://www.comunespoleto.gov.it/nuovo-albo-pretorio/
 rss: http://www.semplicepa.it/rssfeed/054051.xml

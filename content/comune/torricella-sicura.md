@@ -1,6 +1,5 @@
 ---
 title: "Torricella Sicura"
-date: 2018-11-30T21:33:53+01:00
 tags: ["rt"]
 original: https://www.halleyweb.com/c067043/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Torricella Sicura_feed.xml

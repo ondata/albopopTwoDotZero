@@ -1,6 +1,5 @@
 ---
 title: "Montefalcone Appennino"
-date: 2018-11-30T19:45:42+01:00
 tags: ["rt"]
 original: http://www.tecuting.it/c044035/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Montefalcone Appennino_feed.xml

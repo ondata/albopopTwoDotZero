@@ -1,6 +1,5 @@
 ---
 title: "Campli"
-date: 2018-11-29T23:42:00+01:00
 tags: ["rt"]
 original: http://130.0.175.122:8090/
 rss: http://www.semplicepa.it/rssfeed/067008.xml

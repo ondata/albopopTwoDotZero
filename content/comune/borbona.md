@@ -1,6 +1,5 @@
 ---
 title: "Borbona"
-date: 2018-11-29T23:32:07+01:00
 tags: ["rt"]
 original: http://www.comune.borbona.rieti.it/municipio/albo/albo.htm
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Borbona_feed.xml

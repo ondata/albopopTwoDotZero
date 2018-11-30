@@ -1,6 +1,5 @@
 ---
 title: "Antrodoco"
-date: 2018-11-29T23:15:02+01:00
 tags: ["rt"]
 original: http://www.halleyweb.com/c057003/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Antrodoco_feed.xml

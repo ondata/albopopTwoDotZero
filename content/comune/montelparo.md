@@ -1,6 +1,5 @@
 ---
 title: "Montelparo"
-date: 2018-11-30T19:54:19+01:00
 tags: ["rt"]
 original: http://www.tecuting.it/c044043/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Montelparo_feed.xml

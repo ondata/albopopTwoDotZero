@@ -1,6 +1,5 @@
 ---
 title: "Belmonte Piceno"
-date: 2018-11-29T23:28:31+01:00
 tags: ["rt"]
 original: http://www.comunebelmontepiceno.it/c044008/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Belmonte Piceno_feed.xml

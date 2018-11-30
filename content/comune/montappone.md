@@ -1,6 +1,5 @@
 ---
 title: "Montappone"
-date: 2018-11-30T19:36:29+01:00
 tags: ["rt"]
 original: http://www.comune.montappone.fm.it/index.php?action=index&p=28
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Montappone_feed.xml

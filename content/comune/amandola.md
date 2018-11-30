@@ -1,6 +1,5 @@
 ---
 title: "Amandola"
-date: 2018-11-29T23:12:15+01:00
 tags: ["rt"]
 original: http://www.comune.amandola.fm.it/c044004/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Amandola_feed.xml

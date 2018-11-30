@@ -1,6 +1,5 @@
 ---
 title: "Offida"
-date: 2018-11-30T19:59:59+01:00
 tags: ["rt"]
 original: http://94.90.214.253:8090/EXEC
 rss: http://www.semplicepa.it/rssfeed/044054.xml

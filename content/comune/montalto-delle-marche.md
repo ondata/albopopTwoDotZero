@@ -1,6 +1,5 @@
 ---
 title: "Montalto delle Marche"
-date: 2018-11-30T19:34:50+01:00
 tags: ["rt"]
 original: http://www.comune.montaltodellemarche.ap.it/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Montalto delle Marche_feed.xml

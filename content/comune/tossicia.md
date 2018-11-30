@@ -1,6 +1,5 @@
 ---
 title: "Tossicia"
-date: 2018-11-30T21:35:38+01:00
 tags: ["rt"]
 original: https://www.halleyweb.com/c067045/index.php?servizio=304
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Tossicia_feed.xml

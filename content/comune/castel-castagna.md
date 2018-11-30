@@ -1,6 +1,5 @@
 ---
 title: "Castel Castagna"
-date: 2018-11-30T00:00:02+01:00
 tags: ["rt"]
 original: http://www.cmgransasso.it/castelcastagna/atti/lista.aspx
 rss: http://www.semplicepa.it/rssfeed/067010.xml

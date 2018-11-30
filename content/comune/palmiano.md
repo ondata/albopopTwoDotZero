@@ -1,6 +1,5 @@
 ---
 title: "Palmiano"
-date: 2018-11-30T20:02:44+01:00
 tags: ["rt"]
 original: http://tecuting.it/c044056/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Palmiano_feed.xml

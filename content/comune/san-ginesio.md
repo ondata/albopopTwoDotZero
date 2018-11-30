@@ -1,6 +1,5 @@
 ---
 title: "San Ginesio"
-date: 2018-11-30T20:34:37+01:00
 tags: ["rt"]
 original: http://www.comune.sanginesio.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/San Ginesio_feed.xml

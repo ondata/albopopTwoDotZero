@@ -1,6 +1,5 @@
 ---
 title: "Cerreto d'Esi"
-date: 2018-11-30T00:14:31+01:00
 tags: ["rt"]
 original: http://www.comune.cerretodesi.an.it/c042013/zf/index.php/atti-amministrativi/determine
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Cerreto D'Esi_feed.xml

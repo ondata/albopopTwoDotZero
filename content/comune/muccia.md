@@ -1,6 +1,5 @@
 ---
 title: "Muccia"
-date: 2018-11-30T19:58:15+01:00
 tags: ["rt"]
 original: http://www.comune.muccia.mc.it/albo-pretorio/albo-pretorio-pubblicazioni-in-corso/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Muccia_feed.xml

@@ -1,6 +1,5 @@
 ---
 title: "Sefro"
-date: 2018-11-30T20:45:46+01:00
 tags: ["rt"]
 original: http://www.comune.sefro.mc.it/albo-pretorio/
 rss: http://www.semplicepa.it/rssfeed/043050.xml

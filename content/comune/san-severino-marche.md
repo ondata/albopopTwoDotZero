@@ -1,6 +1,5 @@
 ---
 title: "San Severino Marche"
-date: 2018-11-30T20:36:12+01:00
 tags: ["rt"]
 original: http://www.halleyweb.com/c043047/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/San Severino Marche_feed.xml

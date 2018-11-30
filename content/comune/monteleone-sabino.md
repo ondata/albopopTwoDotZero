@@ -1,6 +1,5 @@
 ---
 title: "Monteleone Sabino"
-date: 2018-11-30T19:52:20+01:00
 tags: ["rt"]
 original: http://www.halleyweb.com/c044042/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Monteleone di Fermo_feed.xml

@@ -1,6 +1,5 @@
 ---
 title: "Ripe San Ginesio"
-date: 2018-11-30T20:28:02+01:00
 tags: ["rt"]
 original: http://www.comune.ripesanginesio.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Ripe San Ginesio_feed.xml

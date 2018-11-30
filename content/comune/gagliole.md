@@ -1,6 +1,5 @@
 ---
 title: "Gagliole"
-date: 2018-11-30T00:58:21+01:00
 tags: ["rt"]
 original: http://www.comune.gagliole.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Gagliole_feed.xml

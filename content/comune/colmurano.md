@@ -1,6 +1,5 @@
 ---
 title: "Colmurano"
-date: 2018-11-30T00:29:36+01:00
 tags: ["rt"]
 original: http://www.comune.colmurano.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Colmurano_feed.xml

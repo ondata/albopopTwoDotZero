@@ -1,6 +1,5 @@
 ---
 title: "Treia"
-date: 2018-11-30T21:37:16+01:00
 tags: ["rt"]
 original: http://www.comune.treia.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Treia_feed.xml

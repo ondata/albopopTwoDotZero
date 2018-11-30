@@ -1,6 +1,5 @@
 ---
 title: "Teramo"
-date: 2018-11-30T21:30:19+01:00
 tags: ["rt"]
 original: http://31.198.16.84:8080/EXEC
 rss: http://www.semplicepa.it/rssfeed/067041.xml

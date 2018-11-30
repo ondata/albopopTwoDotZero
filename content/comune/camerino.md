@@ -1,6 +1,5 @@
 ---
 title: "Camerino"
-date: 2018-11-29T23:40:21+01:00
 tags: ["rt"]
 original: http://www.halleyweb.com/c043007/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Camerino_feed.xml

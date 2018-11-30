@@ -1,6 +1,5 @@
 ---
 title: "Ortezzano"
-date: 2018-11-30T20:01:25+01:00
 tags: ["rt"]
 original: http://www.halleyweb.com/c044055/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Ortezzano_feed.xml

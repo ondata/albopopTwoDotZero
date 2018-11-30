@@ -1,6 +1,5 @@
 ---
 title: "Monsampietro Morico"
-date: 2018-11-30T19:33:01+01:00
 tags: ["rt"]
 original: http://www.tecuting.it/c044030/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Monsampietro Morico_feed.xml

@@ -1,6 +1,5 @@
 ---
 title: "Cossignano"
-date: 2018-11-30T00:35:58+01:00
 tags: ["rt"]
 original: http://comune.cossignano.ap.it/mc/mc_p_ricerca.php?x=73cc9454a4b89056e21d1678c6e57984
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Cossignano_feed.xml

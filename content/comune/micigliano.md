@@ -1,6 +1,5 @@
 ---
 title: "Micigliano"
-date: 2018-11-30T19:29:43+01:00
 tags: ["rt"]
 original: http://www.comune.micigliano.ri.it/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Micigliano_feed.xml

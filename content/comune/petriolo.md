@@ -1,6 +1,5 @@
 ---
 title: "Petriolo"
-date: 2018-11-30T20:05:45+01:00
 tags: ["rt"]
 original: http://www.comune.petriolo.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Petriolo_feed.xml

@@ -1,6 +1,5 @@
 ---
 title: "Ferentillo"
-date: 2018-11-30T00:48:15+01:00
 tags: ["rt"]
 original: https://urbi-fe.umbriadigitale.it/urbi/progs/urp/ur1ME002.sto?DB_NAME=e055012
 rss: http://www.semplicepa.it/rssfeed/055012.xml

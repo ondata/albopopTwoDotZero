@@ -1,6 +1,5 @@
 ---
 title: "Caldarola"
-date: 2018-11-29T23:37:52+01:00
 tags: ["rt"]
 original: http://www.comune.caldarola.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Caldarola_feed.xml

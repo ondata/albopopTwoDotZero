@@ -1,6 +1,5 @@
 ---
 title: "Cerreto di Spoleto"
-date: 2018-11-30T00:16:13+01:00
 tags: ["rt"]
 original: http://comune.cerretodispoleto.pg.it/23-Albo-Pretorio.html
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Cerreto di Spoleto_feed.xml

@@ -1,6 +1,5 @@
 ---
 title: "Visso"
-date: 2018-11-30T21:46:18+01:00
 tags: ["rt"]
 original: http://www.comune.visso.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Visso_feed.xml

@@ -1,6 +1,5 @@
 ---
 title: "Pietracamela"
-date: 2018-11-30T20:10:20+01:00
 tags: ["rt"]
 original: http://www.comune.pietracamela.te.it/atti/albopretorio.aspx?id=304
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Pietracamela_feed.xml

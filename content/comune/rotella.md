@@ -1,6 +1,5 @@
 ---
 title: "Rotella"
-date: 2018-11-30T20:32:38+01:00
 tags: ["rt"]
 original: http://www.comunerotella.net/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Rotella_feed.xml

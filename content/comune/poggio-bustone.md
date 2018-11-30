@@ -1,6 +1,5 @@
 ---
 title: "Poggio Bustone"
-date: 2018-11-30T20:19:39+01:00
 tags: ["rt"]
 original: http://halleyweb.com/c057051/index.php?servizio=304
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Poggio Bustone_feed.xml

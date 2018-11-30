@@ -1,6 +1,5 @@
 ---
 title: "Monte San Martino"
-date: 2018-11-30T19:40:43+01:00
 tags: ["rt"]
 original: http://www.comune.montesanmartino.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Monte San Martino_feed.xml

@@ -1,6 +1,5 @@
 ---
 title: "Monte Cavallo"
-date: 2018-11-30T19:37:50+01:00
 tags: ["rt"]
 original: http://www.comune.montecavallo.mc.it/albo-pretorio-pubblicazioni-in-corso/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Monte Cavallo_feed.xml

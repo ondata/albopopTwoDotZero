@@ -1,6 +1,5 @@
 ---
 title: "Sant'Angelo in Pontano"
-date: 2018-11-30T20:39:40+01:00
 tags: ["rt"]
 original: http://www.comune.santangeloinpontano.mc.it/albo-pretorio/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Sant'Angelo in Pontano_feed.xml

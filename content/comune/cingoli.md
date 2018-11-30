@@ -1,6 +1,5 @@
 ---
 title: "Cingoli"
-date: 2018-11-30T00:19:26+01:00
 tags: ["rt"]
 original: http://www.comune.cingoli.mc.it/albo-pretorio/albo-pretorio-pubblicazioni-in-corso/
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Cingoli_feed.xml

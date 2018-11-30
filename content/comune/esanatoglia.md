@@ -1,6 +1,5 @@
 ---
 title: "Esanatoglia"
-date: 2018-11-30T00:39:21+01:00
 tags: ["rt"]
 original: http://www.comune.esanatoglia.mc.it/albo-pretorio/
 rss: http://www.semplicepa.it/rssfeed/043016.xml
