@@ -3,6 +3,586 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://dev.albopop.it/comune/visso/</loc>
+    <lastmod>2018-11-30T21:46:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/vallo-di-nera/</loc>
+    <lastmod>2018-11-30T21:43:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/ussita/</loc>
+    <lastmod>2018-11-30T21:41:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/urbisaglia/</loc>
+    <lastmod>2018-11-30T21:40:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/treia/</loc>
+    <lastmod>2018-11-30T21:37:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/tossicia/</loc>
+    <lastmod>2018-11-30T21:35:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/torricella-sicura/</loc>
+    <lastmod>2018-11-30T21:33:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/tolentino/</loc>
+    <lastmod>2018-11-30T21:32:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/teramo/</loc>
+    <lastmod>2018-11-30T21:30:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/spoleto/</loc>
+    <lastmod>2018-11-30T21:28:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/smerillo/</loc>
+    <lastmod>2018-11-30T21:26:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/servigliano/</loc>
+    <lastmod>2018-11-30T20:52:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/serravalle-di-chienti/</loc>
+    <lastmod>2018-11-30T20:50:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/serrapetrona/</loc>
+    <lastmod>2018-11-30T20:48:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/sellano/</loc>
+    <lastmod>2018-11-30T20:47:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/sefro/</loc>
+    <lastmod>2018-11-30T20:45:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/scheggino/</loc>
+    <lastmod>2018-11-30T20:44:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/sarnano/</loc>
+    <lastmod>2018-11-30T20:42:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/santa-vittoria-in-matenano/</loc>
+    <lastmod>2018-11-30T20:41:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/santangelo-in-pontano/</loc>
+    <lastmod>2018-11-30T20:39:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/santanatolia-di-narco/</loc>
+    <lastmod>2018-11-30T20:37:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/san-severino-marche/</loc>
+    <lastmod>2018-11-30T20:36:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/san-ginesio/</loc>
+    <lastmod>2018-11-30T20:34:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/rotella/</loc>
+    <lastmod>2018-11-30T20:32:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/roccafluvione/</loc>
+    <lastmod>2018-11-30T20:31:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/rivodutri/</loc>
+    <lastmod>2018-11-30T20:29:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/ripe-san-ginesio/</loc>
+    <lastmod>2018-11-30T20:28:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/posta/</loc>
+    <lastmod>2018-11-30T20:25:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/pollenza/</loc>
+    <lastmod>2018-11-30T20:24:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/poggiodomo/</loc>
+    <lastmod>2018-11-30T20:22:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/poggio-san-vicino/</loc>
+    <lastmod>2018-11-30T20:21:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/poggio-bustone/</loc>
+    <lastmod>2018-11-30T20:19:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/pizzoli/</loc>
+    <lastmod>2018-11-30T20:18:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/pioraco/</loc>
+    <lastmod>2018-11-30T20:17:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/pievebovigliana/</loc>
+    <lastmod>2018-11-30T20:15:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/pieve-torina/</loc>
+    <lastmod>2018-11-30T20:12:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/pietracamela/</loc>
+    <lastmod>2018-11-30T20:10:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/petriolo/</loc>
+    <lastmod>2018-11-30T20:05:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/penna-san-giovanni/</loc>
+    <lastmod>2018-11-30T20:04:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/palmiano/</loc>
+    <lastmod>2018-11-30T20:02:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/ortezzano/</loc>
+    <lastmod>2018-11-30T20:01:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/offida/</loc>
+    <lastmod>2018-11-30T19:59:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/muccia/</loc>
+    <lastmod>2018-11-30T19:58:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/montorio-al-vomano/</loc>
+    <lastmod>2018-11-30T19:56:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/montelparo/</loc>
+    <lastmod>2018-11-30T19:54:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/monteleone-sabino/</loc>
+    <lastmod>2018-11-30T19:52:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/montegiorgio/</loc>
+    <lastmod>2018-11-30T19:49:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/montefranco/</loc>
+    <lastmod>2018-11-30T19:47:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/montefalcone-appennino/</loc>
+    <lastmod>2018-11-30T19:45:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/montedinove/</loc>
+    <lastmod>2018-11-30T19:43:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/monte-vidon-corrado/</loc>
+    <lastmod>2018-11-30T19:42:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/monte-san-martino/</loc>
+    <lastmod>2018-11-30T19:40:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/monte-rinaldo/</loc>
+    <lastmod>2018-11-30T19:39:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/monte-cavallo/</loc>
+    <lastmod>2018-11-30T19:37:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/montappone/</loc>
+    <lastmod>2018-11-30T19:36:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/montalto-delle-marche/</loc>
+    <lastmod>2018-11-30T19:34:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/monsampietro-morico/</loc>
+    <lastmod>2018-11-30T19:33:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/mogliano/</loc>
+    <lastmod>2018-11-30T19:31:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/micigliano/</loc>
+    <lastmod>2018-11-30T19:29:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/matelica/</loc>
+    <lastmod>2018-11-30T19:28:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/massa-fermana/</loc>
+    <lastmod>2018-11-30T19:26:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/maltignano/</loc>
+    <lastmod>2018-11-30T19:24:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/macerata/</loc>
+    <lastmod>2018-11-30T19:23:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/loro-piceno/</loc>
+    <lastmod>2018-11-30T19:21:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/isola-del-gran-sasso-ditalia/</loc>
+    <lastmod>2018-11-30T01:01:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/gualdo/</loc>
+    <lastmod>2018-11-30T01:00:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/gagliole/</loc>
+    <lastmod>2018-11-30T00:58:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/force/</loc>
+    <lastmod>2018-11-30T00:56:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/folignano/</loc>
+    <lastmod>2018-11-30T00:54:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/fiuminata/</loc>
+    <lastmod>2018-11-30T00:53:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/fiordimonte/</loc>
+    <lastmod>2018-11-30T00:51:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/fiastra/</loc>
+    <lastmod>2018-11-30T00:49:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/ferentillo/</loc>
+    <lastmod>2018-11-30T00:48:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/fano-adriano/</loc>
+    <lastmod>2018-11-30T00:45:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/falerone/</loc>
+    <lastmod>2018-11-30T00:42:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/fabriano/</loc>
+    <lastmod>2018-11-30T00:40:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/esanatoglia/</loc>
+    <lastmod>2018-11-30T00:39:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/crognaleto/</loc>
+    <lastmod>2018-11-30T00:37:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/cossignano/</loc>
+    <lastmod>2018-11-30T00:35:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/cortino/</loc>
+    <lastmod>2018-11-30T00:34:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/corridonia/</loc>
+    <lastmod>2018-11-30T00:32:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/comunanza/</loc>
+    <lastmod>2018-11-30T00:31:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/colmurano/</loc>
+    <lastmod>2018-11-30T00:29:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/colli-del-tronto/</loc>
+    <lastmod>2018-11-30T00:27:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/colledara/</loc>
+    <lastmod>2018-11-30T00:24:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/civitella-del-tronto/</loc>
+    <lastmod>2018-11-30T00:23:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/cittaducale/</loc>
+    <lastmod>2018-11-30T00:21:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/cingoli/</loc>
+    <lastmod>2018-11-30T00:19:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/cessapalombo/</loc>
+    <lastmod>2018-11-30T00:17:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/cerreto-di-spoleto/</loc>
+    <lastmod>2018-11-30T00:16:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/cerreto-desi/</loc>
+    <lastmod>2018-11-30T00:14:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/castorano/</loc>
+    <lastmod>2018-11-30T00:12:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/castignano/</loc>
+    <lastmod>2018-11-30T00:11:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/castelsantangelo-sul-nera/</loc>
+    <lastmod>2018-11-30T00:09:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/castelraimondo/</loc>
+    <lastmod>2018-11-30T00:07:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/castelli/</loc>
+    <lastmod>2018-11-30T00:05:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/castel-santangelo/</loc>
+    <lastmod>2018-11-30T00:03:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/castel-di-lama/</loc>
+    <lastmod>2018-11-30T00:01:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/castel-castagna/</loc>
+    <lastmod>2018-11-30T00:00:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/camporotondo-di-fiastrone/</loc>
+    <lastmod>2018-11-29T23:53:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/campli/</loc>
+    <lastmod>2018-11-29T23:42:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/camerino/</loc>
+    <lastmod>2018-11-29T23:40:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/caldarola/</loc>
+    <lastmod>2018-11-29T23:37:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/cagnano-amiterno/</loc>
+    <lastmod>2018-11-29T23:35:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/borgo-velino/</loc>
+    <lastmod>2018-11-29T23:33:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/borbona/</loc>
+    <lastmod>2018-11-29T23:32:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/bolognola/</loc>
+    <lastmod>2018-11-29T23:30:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/belmonte-piceno/</loc>
+    <lastmod>2018-11-29T23:28:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/belforte-del-chienti/</loc>
+    <lastmod>2018-11-29T23:26:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/barete/</loc>
+    <lastmod>2018-11-29T23:24:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/ascoli-piceno/</loc>
+    <lastmod>2018-11-29T23:23:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/arrone/</loc>
+    <lastmod>2018-11-29T23:21:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/appignano-del-tronto/</loc>
+    <lastmod>2018-11-29T23:19:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/apiro/</loc>
+    <lastmod>2018-11-29T23:17:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/antrodoco/</loc>
+    <lastmod>2018-11-29T23:15:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.albopop.it/comune/amandola/</loc>
+    <lastmod>2018-11-29T23:12:15+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://dev.albopop.it/post/come-albopop-puo-aiutare-i-cittadini-colpiti-dal-terremoto/</loc>
     <lastmod>2018-11-03T17:26:20+01:00</lastmod>
   </url>
@@ -53,7 +633,7 @@
   
   <url>
     <loc>http://dev.albopop.it/</loc>
-    <lastmod>2018-11-03T17:26:20+01:00</lastmod>
+    <lastmod>2018-11-30T21:46:18+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -486,6 +1066,12 @@
   </url>
   
   <url>
+    <loc>http://dev.albopop.it/tags/rt/</loc>
+    <lastmod>2018-11-30T21:46:18+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dev.albopop.it/comune/sanbiagiodicallalta/</loc>
   </url>
   
@@ -576,6 +1162,7 @@
   
   <url>
     <loc>http://dev.albopop.it/comune/</loc>
+    <lastmod>2018-11-30T21:46:18+01:00</lastmod>
   </url>
   
   <url>
