@@ -1,6 +1,6 @@
 ---
 title: Montegallo
-tags: ["tci"]
+tags: ["tci","rt"]
 original: http://www.halleyegov.it/c044038/mc/mc_gridev_messi.php?x=&servizio=&bck=http%3A%2F%2Fwww.halleyegov.it%2Fc044038%2Fhh%2Findex.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Montegallo_feed.xml
 twitter: 

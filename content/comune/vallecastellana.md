@@ -1,6 +1,6 @@
 ---
 title: Valle Castellana
-tags: ["tci"]
+tags: ["tci","rt"]
 original: http://www.comune.vallecastellana.te.it/albo-pretorio-online/albo
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Valle Castellana_feed.xml
 twitter: 
@@ -17,7 +17,7 @@ lat: 42.733333
 lng: 13.5
 image: c_l597.png
 accessible: true
-standard: false
+standard: true
 official: false
 ---
 

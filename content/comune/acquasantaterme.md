@@ -1,6 +1,6 @@
 ---
 title: Acquasanta Terme
-tags: ["tci"]
+tags: ["tci","rt"]
 original: http://www.comune.acquasantaterme.ap.it/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Acquasanta%20Terme_feed.xml
 twitter: 

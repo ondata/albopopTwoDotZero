@@ -10,10 +10,13 @@ pdf:
 author: 
  - Andrea Borruso (https://twitter.com/aborruso)
  - Matteo Scirè (https://twitter.com/matteoscire)
+repo: 
 regione: Sicilia
 provincia: Agrigento
 istat: 084010
 ipa: c_b520
+lat: 37.259444
+lng: 13.919167
 image: c_b520.png
 accessible: true
 standard: false

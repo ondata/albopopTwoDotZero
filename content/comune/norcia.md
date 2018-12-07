@@ -1,6 +1,6 @@
 ---
 title: Norcia
-tags: ["tci"]
+tags: ["tci","rt"]
 original: http://www.halleyweb.com/c054035/mc/mc_gridev_messi.php?x=&servizio=&bck=http%3A%2F%2Fwww.halleyweb.com%2Fc054035%2Fpo%2Fil-comune-informa.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Norcia_feed.xml
 twitter: 

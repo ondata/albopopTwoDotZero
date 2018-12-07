@@ -1,6 +1,6 @@
 ---
 title: Montefortino
-tags: ["tci"]
+tags: ["tci","rt"]
 original: http://halleyweb.com/c044037/mc/mc_p_ricerca.php
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Montefortino_feed.xml
 twitter: 

@@ -1,6 +1,6 @@
 ---
 title: Rocca Santa Maria
-tags: ["tci"]
+tags: ["tci","rt"]
 original: http://www.roccasm.it/albopretorio.html
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Rocca Santa Maria_feed.xml
 twitter: 
