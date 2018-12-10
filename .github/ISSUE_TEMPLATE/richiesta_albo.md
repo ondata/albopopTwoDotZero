@@ -12,4 +12,4 @@ Scrivi qui la risposta
 
 ---
 
-**NOTA BENE**: in questo spazio non c'è qualcuno che ha l'incarico di creare AlbiPOP. Ma è possibile trovare qualcuno che ti dia una mano 🤞
+**NOTA BENE**: in questo spazio non c'è qualcuno che ha l'incarico di creare per te un AlboPOP, ma è possibile che qui tu possa trovare qualcuno che ti dia una mano 🤞
