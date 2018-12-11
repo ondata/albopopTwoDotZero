@@ -7,7 +7,7 @@ rss: http://feeds.feedburner.com/AlbopopCittMetropolitanaDiPalermo
 twitter: 
 facebook: 
 telegram: 
-author: Andrea Borruso (https://twitter.com/aborruso)
+author: "[Andrea Borruso](https://twitter.com/aborruso)"
 repo: 
 regione: Sicilia
 provincia: Palermo

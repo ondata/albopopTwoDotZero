@@ -8,8 +8,8 @@ twitter:
 facebook: 
 telegram: 
 author:
- - Matteò Scirè (https://twitter.com/matteoscire)
- - Andrea Borruso (https://twitter.com/aborruso)
+ - "[Matteò Scirè](https://twitter.com/matteoscire)"
+ - "[Andrea Borruso](https://twitter.com/aborruso)"
 repo: 
 regione: Sicilia
 provincia: Palermo

@@ -7,7 +7,7 @@ twitter:
 facebook: 
 telegram: https://telegram.me/albopretoriobitonto
 pdf: 
-author: "[sputnik63](http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio)"
+author: "[sputnik63](https://github.com/sputnik63)"
 regione: Puglia
 provincia: Bari
 istat: 072011
