@@ -9,8 +9,8 @@ telegram: https://t.me/albopopmassafra
 pdf: 
 author:
  - "@Dario_JonixLUG"
- - "@vic39 (link: http://vincentforty.weebly.com/)"
- - JonixLUG (https://www.jonixlug.altervista.org/)
+ - "[@vic39](link: http://vincentforty.weebly.com/)"
+ - "[JonixLUG](https://www.jonixlug.altervista.org/)"
 repo: 
 regione: Puglia
 provincia: Taranto

@@ -2,9 +2,9 @@
 <p class="author-box">
     <img class="icon" src="{{ .Site.BaseURL }}images/icon-profile.svg">
     {{ if eq (printf "%T" (.Param "author")) "[]string" }}
-    Autori: {{ delimit (.Param "author") ", " " e " }}.
+    Autori: {{ delimit (.Param "author") ", " " e " | markdownify}}.
     {{ else }}
-    Autore: {{ .Param "author" }}.
+    Autore: {{ .Param "author" | markdownify }}.
     {{ end }}
 </p>
 {{ end }}
