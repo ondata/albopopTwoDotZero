@@ -9,6 +9,7 @@ facebook:
 telegram: 
 pdf: 
 author: 
+authorURL: 
 repo: 
 regione: 
 provincia: 
