@@ -94,7 +94,7 @@
     },
     
     {
-        "title": "Bitonto","type": "comune","permalink": "http://dev.albopop.it/comune/bitonto/","accessible":true,"author":"Enrico Bergamini","draft":false,"facebook":null,"image":"c_a893.png","ipa":"c_a893","iscjklanguage":false,"istat":29705,"lat":41.108333,"lng":16.691667,"official":true,"original":"http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio","pdf":null,"provincia":"Bari","regione":"Puglia","rss":"http://feeds.feedburner.com/AlboPopBitonto","standard":false,"tags":[],"telegram":"https://telegram.me/albopretoriobitonto","title":"Bitonto","twitter":null
+        "title": "Bitonto","type": "comune","permalink": "http://dev.albopop.it/comune/bitonto/","accessible":true,"author":"[sputnik63](https://github.com/sputnik63)","draft":false,"facebook":null,"image":"c_a893.png","ipa":"c_a893","iscjklanguage":false,"istat":29705,"lat":41.108333,"lng":16.691667,"official":true,"original":"http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio","pdf":null,"provincia":"Bari","regione":"Puglia","rss":"http://feeds.feedburner.com/AlboPopBitonto","standard":false,"tags":[],"telegram":"https://telegram.me/albopretoriobitonto","title":"Bitonto","twitter":null
     },
     
     {
@@ -430,7 +430,7 @@
     },
     
     {
-        "title": "Massafra","type": "comune","permalink": "http://dev.albopop.it/comune/massafra/","accessible":true,"author":["@Dario_JonixLUG","@vic39 (link: http://vincentforty.weebly.com/)","JonixLUG (https://www.jonixlug.altervista.org/)"],"draft":false,"facebook":null,"image":"c_f027.png","ipa":"c_f027","iscjklanguage":false,"istat":30221,"lat":40.583333,"lng":17.116667,"official":false,"original":"http://www.comunedimassafra.it/index.php?id=21","pdf":null,"provincia":"Taranto","regione":"Puglia","repo":null,"rss":"http://feeds.feedburner.com/AlboPOP-Massafra","standard":false,"tags":[],"telegram":"https://t.me/albopopmassafra","title":"Massafra","twitter":null
+        "title": "Massafra","type": "comune","permalink": "http://dev.albopop.it/comune/massafra/","accessible":true,"author":["@Dario_JonixLUG","[@vic39](link: http://vincentforty.weebly.com/)","[JonixLUG](https://www.jonixlug.altervista.org/)"],"draft":false,"facebook":null,"image":"c_f027.png","ipa":"c_f027","iscjklanguage":false,"istat":30221,"lat":40.583333,"lng":17.116667,"official":false,"original":"http://www.comunedimassafra.it/index.php?id=21","pdf":null,"provincia":"Taranto","regione":"Puglia","repo":null,"rss":"http://feeds.feedburner.com/AlboPOP-Massafra","standard":false,"tags":[],"telegram":"https://t.me/albopopmassafra","title":"Massafra","twitter":null
     },
     
     {
@@ -898,7 +898,7 @@
     },
     
     {
-        "title": "Città Metropolitana di Palermo","type": "altrepa","permalink": "http://dev.albopop.it/altrepa/palermometropolitana/","accessible":true,"author":"Andrea Borruso (https://twitter.com/aborruso)","draft":false,"facebook":null,"image":"p_pa.png","institution":"città metropolitana","ipa":"p_pa","iscjklanguage":false,"lat":38.115556,"lng":13.361389,"official":false,"original":"http://www.provincia.palermo.it/pls/provpalermo/v3_s2ew_CONSULTAZIONE.mostra_pagina?id_pagina=6753","provincia":"Palermo","regione":"Sicilia","repo":null,"rss":"http://feeds.feedburner.com/AlbopopCittMetropolitanaDiPalermo","standard":false,"tags":[],"telegram":null,"title":"Città Metropolitana di Palermo","twitter":null
+        "title": "Città Metropolitana di Palermo","type": "altrepa","permalink": "http://dev.albopop.it/altrepa/palermometropolitana/","accessible":true,"author":"[Andrea Borruso](https://twitter.com/aborruso)","draft":false,"facebook":null,"image":"p_pa.png","institution":"città metropolitana","ipa":"p_pa","iscjklanguage":false,"lat":38.115556,"lng":13.361389,"official":false,"original":"http://www.provincia.palermo.it/pls/provpalermo/v3_s2ew_CONSULTAZIONE.mostra_pagina?id_pagina=6753","provincia":"Palermo","regione":"Sicilia","repo":null,"rss":"http://feeds.feedburner.com/AlbopopCittMetropolitanaDiPalermo","standard":false,"tags":[],"telegram":null,"title":"Città Metropolitana di Palermo","twitter":null
     },
     
     {
@@ -918,7 +918,7 @@
     },
     
     {
-        "title": "Università degli Studi di Palermo","type": "altrepa","permalink": "http://dev.albopop.it/altrepa/unipa/","accessible":true,"author":["Matteò Scirè (https://twitter.com/matteoscire)","Andrea Borruso (https://twitter.com/aborruso)"],"draft":false,"facebook":null,"image":"uni_pa.jpg","institution":"università","ipa":"uni_pa","iscjklanguage":false,"lat":38.11768,"lng":13.370131,"official":false,"original":"https://www.unipa.it/albo.html","provincia":"Palermo","regione":"Sicilia","repo":null,"rss":"http://feeds.feedburner.com/AlboPretorioUnipa","standard":false,"tags":[],"telegram":null,"title":"Università degli Studi di Palermo","twitter":null
+        "title": "Università degli Studi di Palermo","type": "altrepa","permalink": "http://dev.albopop.it/altrepa/unipa/","accessible":true,"author":["[Matteò Scirè](https://twitter.com/matteoscire)","[Andrea Borruso](https://twitter.com/aborruso)"],"draft":false,"facebook":null,"image":"uni_pa.jpg","institution":"università","ipa":"uni_pa","iscjklanguage":false,"lat":38.11768,"lng":13.370131,"official":false,"original":"https://www.unipa.it/albo.html","provincia":"Palermo","regione":"Sicilia","repo":null,"rss":"http://feeds.feedburner.com/AlboPretorioUnipa","standard":false,"tags":[],"telegram":null,"title":"Università degli Studi di Palermo","twitter":null
     },
     
     {
