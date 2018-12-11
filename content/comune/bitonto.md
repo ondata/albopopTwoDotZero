@@ -7,7 +7,7 @@ twitter:
 facebook: 
 telegram: https://telegram.me/albopretoriobitonto
 pdf: 
-author: Enrico Bergamini
+author: sputnik63
 regione: Puglia
 provincia: Bari
 istat: 072011
