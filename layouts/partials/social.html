@@ -1,4 +1,15 @@
 <ul class="social-box">
+    {{ if .Param "rss" }}
+    <li class="d-flex align-items-center">
+        <div class="social-icon c-rss">
+            {{ readFile "static/images/button-rss.svg" | safeHTML }}
+        </div>
+        <div>
+            <h3>Feed RSS</h3>
+            <p><a href="{{ .Params.Rss }}" target="_blank">{{ .Params.Rss }}</a></p>
+        </div>
+    </li>
+    {{ end }}
 
     {{ if .Param "twitter" }}
     <li class="d-flex align-items-center">
@@ -20,18 +31,6 @@
         <div>
             <h3>Canale Telegram</h3>
             <p><a href="{{ .Params.Telegram }}" target="_blank">{{ .Params.Telegram }}</a></p>
-        </div>
-    </li>
-    {{ end }}
-
-    {{ if .Param "rss" }}
-    <li class="d-flex align-items-center">
-        <div class="social-icon c-rss">
-            {{ readFile "static/images/button-rss.svg" | safeHTML }}
-        </div>
-        <div>
-            <h3>Feed RSS</h3>
-            <p><a href="{{ .Params.Rss }}" target="_blank">{{ .Params.Rss }}</a></p>
         </div>
     </li>
     {{ end }}
