@@ -1,0 +1,2800 @@
+{
+  "latitude": 37.516667,
+  "longitude": 15.066667,
+  "title": "Città Metropolitana di Catania",
+  "ipa": "cmct",
+  "nome": "cataniametropolitana",
+  "tipo": "altrepa"
+}
+{
+  "latitude": 38.115556,
+  "longitude": 13.361389,
+  "title": "Città Metropolitana di Palermo",
+  "ipa": "p_pa",
+  "nome": "palermometropolitana",
+  "tipo": "altrepa"
+}
+{
+  "latitude": 37.5146225,
+  "longitude": 15.0768163,
+  "title": "G.B. Vaccarini",
+  "ipa": "istsc_ctis01700v",
+  "nome": "scuolagbvaccarinict",
+  "tipo": "altrepa"
+}
+{
+  "latitude": 45.066667,
+  "longitude": 7.7,
+  "title": "Città Metropolitana di Torino",
+  "ipa": "cmto",
+  "nome": "torinometropolitana",
+  "tipo": "altrepa"
+}
+{
+  "latitude": 37.5036,
+  "longitude": 15.0867,
+  "title": "Università degli Studi di Catania",
+  "ipa": "uni_ct",
+  "nome": "unict",
+  "tipo": "altrepa"
+}
+{
+  "latitude": 44.4204643,
+  "longitude": 11.9110451,
+  "title": "Unione dei Comuni della Bassa Romagna",
+  "ipa": "UNCOBARO",
+  "nome": "unionecomunibassaromagna",
+  "tipo": "altrepa"
+}
+{
+  "latitude": 38.11768,
+  "longitude": 13.370131,
+  "title": "Università degli Studi di Palermo",
+  "ipa": "uni_pa",
+  "nome": "unipa",
+  "tipo": "altrepa"
+}
+{
+  "latitude": 45.069444,
+  "longitude": 7.688889,
+  "title": "Università degli Studi di Torino",
+  "ipa": "UNITO",
+  "nome": "unito",
+  "tipo": "altrepa"
+}
+{
+  "latitude": 42.694444,
+  "longitude": 13.2475,
+  "title": "Accumoli",
+  "ipa": "c_a019",
+  "nome": "accumoli",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.7692,
+  "longitude": 13.40945,
+  "title": "Acquasanta Terme",
+  "ipa": "c_a044",
+  "nome": "acquasantaterme",
+  "tipo": "comune"
+}
+{
+  "latitude": 37.65,
+  "longitude": 14.516667,
+  "title": "Agira",
+  "ipa": "c_a070",
+  "nome": "agira",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.557778,
+  "longitude": 8.321944,
+  "title": "Alghero",
+  "ipa": "c_a192",
+  "nome": "alghero",
+  "tipo": "comune"
+}
+{
+  "latitude": 38.042222,
+  "longitude": 13.550278,
+  "title": "Altavilla Milicia",
+  "ipa": "c_a229",
+  "nome": "altavillamilicia",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.816667,
+  "longitude": 10.674722,
+  "title": "Altopascio",
+  "ipa": "c_a241",
+  "nome": "altopascio",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.9801,
+  "longitude": 13.3575,
+  "title": "Amandola",
+  "ipa": "c_a252",
+  "nome": "amandola",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "amandola",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.629381,
+  "longitude": 13.288372,
+  "title": "Amatrice",
+  "ipa": "c_a258",
+  "nome": "amatrice",
+  "tipo": "comune"
+}
+{
+  "latitude": 41.231667,
+  "longitude": 16.308333,
+  "title": "Andria",
+  "ipa": "c_a285",
+  "nome": "andria",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.416667,
+  "longitude": 13.083333,
+  "title": "Antrodoco",
+  "ipa": "c_a315",
+  "nome": "antrodoco",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "antrodoco",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.393064,
+  "longitude": 13.130269,
+  "title": "Apiro",
+  "ipa": "c_a329",
+  "nome": "apiro",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "apiro",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.899058,
+  "longitude": 13.665989,
+  "title": "Appignano Del Tronto",
+  "ipa": "c_a335",
+  "nome": "appignano-del-tronto",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "appignano-del-tronto",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.772565,
+  "longitude": 13.296643,
+  "title": "Arquata del Tronto",
+  "ipa": "c_a437",
+  "nome": "arquata_del_tronto",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.583683,
+  "longitude": 12.768,
+  "title": "Arrone",
+  "ipa": "c_a439",
+  "nome": "arrone",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "arrone",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.854722,
+  "longitude": 13.575278,
+  "title": "Ascoli Piceno",
+  "ipa": "c_a462",
+  "nome": "ascoli-piceno",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "ascoli-piceno",
+  "tipo": "comune"
+}
+{
+  "latitude": 38.083333,
+  "longitude": 13.5,
+  "title": "Bagheria",
+  "ipa": "c_a546",
+  "nome": "bagheria",
+  "tipo": "comune"
+}
+{
+  "latitude": 38.15,
+  "longitude": 15.216667,
+  "title": "Barcellona Pozzo di Gotto",
+  "ipa": "c_a638",
+  "nome": "barcellona_pozzo_di_gotto",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.451389,
+  "longitude": 13.283056,
+  "title": "Barete",
+  "ipa": "c_a656",
+  "nome": "barete",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "barete",
+  "tipo": "comune"
+}
+{
+  "latitude": 41.125278,
+  "longitude": 16.866667,
+  "title": "Bari",
+  "ipa": "c_a662",
+  "nome": "bari",
+  "tipo": "comune"
+}
+{
+  "latitude": 41.316667,
+  "longitude": 16.283333,
+  "title": "Barletta",
+  "ipa": "c_a669",
+  "nome": "barletta",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.164169,
+  "longitude": 13.237464,
+  "title": "Belforte Del Chienti",
+  "ipa": "c_a739",
+  "nome": "belforte-del-chienti",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "belforte-del-chienti",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.0915,
+  "longitude": 13.538881,
+  "title": "Belmonte Piceno",
+  "ipa": "c_a760",
+  "nome": "belmonte-piceno",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "belmonte-piceno",
+  "tipo": "comune"
+}
+{
+  "latitude": 37.583333,
+  "longitude": 14.983333,
+  "title": "Belpasso",
+  "ipa": "c_a766",
+  "nome": "belpasso",
+  "tipo": "comune"
+}
+{
+  "latitude": 41.108333,
+  "longitude": 16.691667,
+  "title": "Bitonto",
+  "ipa": "c_a893",
+  "nome": "bitonto",
+  "tipo": "comune"
+}
+{
+  "latitude": 44.493889,
+  "longitude": 11.342778,
+  "title": "Bologna",
+  "ipa": "c_a944",
+  "nome": "bologna",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.9934,
+  "longitude": 13.2288,
+  "title": "Bolognola",
+  "ipa": "c_a947",
+  "nome": "bolognola",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "bolognola",
+  "tipo": "comune"
+}
+{
+  "latitude": 44.88944,
+  "longitude": 11.41542,
+  "title": "Bondeno",
+  "ipa": "c_a965",
+  "nome": "bondeno",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.516667,
+  "longitude": 13.133333,
+  "title": "Borbona",
+  "ipa": "c_a981",
+  "nome": "borbona",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "borbona",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.778897,
+  "longitude": 7.672128,
+  "title": "Bordighera",
+  "ipa": "c_a984",
+  "nome": "bordighera",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.4,
+  "longitude": 13.066667,
+  "title": "Borgo Velino",
+  "ipa": "c_a996",
+  "nome": "borgo-velino",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "borgo-velino",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.066667,
+  "longitude": 18.316667,
+  "title": "Botrugno",
+  "ipa": "c_b086",
+  "nome": "botrugno",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.638333,
+  "longitude": 17.945833,
+  "title": "Brindisi",
+  "ipa": "c_b180",
+  "nome": "brindisi",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.458333,
+  "longitude": 13.228889,
+  "title": "Cagnano Amiterno",
+  "ipa": "c_b358",
+  "nome": "cagnano-amiterno",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "cagnano-amiterno",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.138169,
+  "longitude": 13.225139,
+  "title": "Caldarola",
+  "ipa": "c_b398",
+  "nome": "caldarola",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "caldarola",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.131819,
+  "longitude": 13.063831,
+  "title": "Camerino",
+  "ipa": "c_b474",
+  "nome": "camerino",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "camerino",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.726131,
+  "longitude": 13.686089,
+  "title": "Campli",
+  "ipa": "c_b515",
+  "nome": "campli",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "campli",
+  "tipo": "comune"
+}
+{
+  "latitude": 37.259444,
+  "longitude": 13.919167,
+  "title": "Campobello di Licata",
+  "ipa": "c_b520",
+  "nome": "campobello_di_licata",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.1317,
+  "longitude": 13.265889,
+  "title": "Camporotondo di Fiastrone",
+  "ipa": "c_b561",
+  "nome": "camporotondo-di-fiastrone",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "camporotondo-di-fiastrone",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.55884,
+  "longitude": 13.36799,
+  "title": "Campotosto",
+  "ipa": "c_b569",
+  "nome": "campotosto",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "campotosto",
+  "tipo": "comune"
+}
+{
+  "latitude": 44.016667,
+  "longitude": 11.083333,
+  "title": "Cantagallo",
+  "ipa": "c_b626",
+  "nome": "cantagallo",
+  "tipo": "comune"
+}
+{
+  "latitude": 38.166667,
+  "longitude": 13.233333,
+  "title": "Capaci",
+  "ipa": "c_b645",
+  "nome": "capaci",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.875556,
+  "longitude": 10.573611,
+  "title": "Capannori",
+  "ipa": "c_b648",
+  "nome": "capannori",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.52041,
+  "longitude": 13.30122,
+  "title": "Capitignano",
+  "ipa": "c_b658",
+  "nome": "capitignano",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.266667,
+  "longitude": 18.25,
+  "title": "Caprarica di Lecce",
+  "ipa": "c_b690",
+  "nome": "capraricadilecce",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.716667,
+  "longitude": 13.016667,
+  "title": "Cascia",
+  "ipa": "c_b948",
+  "nome": "cascia",
+  "tipo": "comune"
+}
+{
+  "latitude": 37.930556,
+  "longitude": 14.088333,
+  "title": "Castelbuono",
+  "ipa": "c_c067",
+  "nome": "castelbuono",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.55,
+  "longitude": 13.716667,
+  "title": "Castel Castagna",
+  "ipa": "c_c040",
+  "nome": "castel-castagna",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "castel-castagna",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.869553,
+  "longitude": 13.7133,
+  "title": "Castel Di Lama",
+  "ipa": "c_c093",
+  "nome": "castel-di-lama",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "castel-di-lama",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.488889,
+  "longitude": 13.7125,
+  "title": "Castelli",
+  "ipa": "c_c169",
+  "nome": "castelli",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "castelli",
+  "tipo": "comune"
+}
+{
+  "latitude": 44.577778,
+  "longitude": 11.361667,
+  "title": "Castel Maggiore",
+  "ipa": "c_c204",
+  "nome": "castelmaggiore",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.2091,
+  "longitude": 13.0546,
+  "title": "Castelraimondo",
+  "ipa": "c_c251",
+  "nome": "castelraimondo",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "castelraimondo",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.4,
+  "longitude": 13.016667,
+  "title": "Castel Sant'Angelo",
+  "ipa": "c_c268",
+  "nome": "castel-santangelo",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "castel-santangelo",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.894619,
+  "longitude": 13.153311,
+  "title": "Castelsantangelo sul Nera",
+  "ipa": "c_c267",
+  "nome": "castelsantangelo-sul-nera",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "castelsantangelo-sul-nera",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.938139,
+  "longitude": 13.621944,
+  "title": "Castignano",
+  "ipa": "c_c321",
+  "nome": "castignano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "castignano",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.898347,
+  "longitude": 13.727569,
+  "title": "Castorano",
+  "ipa": "c_c331",
+  "nome": "castorano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "castorano",
+  "tipo": "comune"
+}
+{
+  "latitude": 37.502669,
+  "longitude": 15.087269,
+  "title": "Catania",
+  "ipa": "c_c351",
+  "nome": "catania",
+  "tipo": "comune"
+}
+{
+  "latitude": 44.733333,
+  "longitude": 11.283333,
+  "title": "Cento",
+  "ipa": "c_c469",
+  "nome": "cento",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.319739,
+  "longitude": 12.984769,
+  "title": "Cerreto d'Esi",
+  "ipa": "c_c524",
+  "nome": "cerreto-desi",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "cerreto-desi",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.816667,
+  "longitude": 12.916667,
+  "title": "Cerreto di Spoleto",
+  "ipa": "c_c527",
+  "nome": "cerreto-di-spoleto",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "cerreto-di-spoleto",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.109019,
+  "longitude": 13.258369,
+  "title": "Cessapalombo",
+  "ipa": "c_c582",
+  "nome": "cessapalombo",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "cessapalombo",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.37415,
+  "longitude": 13.216356,
+  "title": "Cingoli",
+  "ipa": "c_c704",
+  "nome": "cingoli",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "cingoli",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.383333,
+  "longitude": 12.95,
+  "title": "Cittaducale",
+  "ipa": "c_c746",
+  "nome": "cittaducale",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "cittaducale",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.616667,
+  "longitude": 13.166667,
+  "title": "Cittareale",
+  "ipa": "c_c749",
+  "nome": "cittareale",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.771853,
+  "longitude": 13.666586,
+  "title": "Civitella del Tronto",
+  "ipa": "c_c781",
+  "nome": "civitella-del-tronto",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "civitella-del-tronto",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.533333,
+  "longitude": 13.683333,
+  "title": "Colledara",
+  "ipa": "c_c311",
+  "nome": "colledara",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "colledara",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.87805,
+  "longitude": 13.7482,
+  "title": "Colli del Tronto",
+  "ipa": "c_c877",
+  "nome": "colli-del-tronto",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "colli-del-tronto",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.164,
+  "longitude": 13.357,
+  "title": "Colmurano",
+  "ipa": "c_c886",
+  "nome": "colmurano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "colmurano",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.957244,
+  "longitude": 13.414569,
+  "title": "Comunanza",
+  "ipa": "c_c935",
+  "nome": "comunanza",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "comunanza",
+  "tipo": "comune"
+}
+{
+  "latitude": 41.65,
+  "longitude": 12.91666,
+  "title": "Cori",
+  "ipa": "c_d003",
+  "nome": "cori",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.248219,
+  "longitude": 13.507531,
+  "title": "Corridonia",
+  "ipa": "c_d042",
+  "nome": "corridonia",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "corridonia",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.62186,
+  "longitude": 13.50774,
+  "title": "Cortino",
+  "ipa": "c_d076",
+  "nome": "cortino",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "cortino",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.983989,
+  "longitude": 13.688081,
+  "title": "Cossignano",
+  "ipa": "c_d096",
+  "nome": "cossignano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "cossignano",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.6,
+  "longitude": 17.233333,
+  "title": "Crispiano",
+  "ipa": "c_d171",
+  "nome": "crispiano",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.583333,
+  "longitude": 13.483333,
+  "title": "Crognaleto",
+  "ipa": "c_d179",
+  "nome": "crognaleto",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "crognaleto",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.25135,
+  "longitude": 12.945889,
+  "title": "Esanatoglia",
+  "ipa": "c_d429",
+  "nome": "esanatoglia",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "esanatoglia",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.338561,
+  "longitude": 12.908519,
+  "title": "Fabriano",
+  "ipa": "c_d451",
+  "nome": "fabriano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "fabriano",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.1077,
+  "longitude": 13.4733,
+  "title": "Falerone",
+  "ipa": "c_d477",
+  "nome": "falerone",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "falerone",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.553889,
+  "longitude": 13.536667,
+  "title": "Fano Adriano",
+  "ipa": "c_d489",
+  "nome": "fano-adriano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "fano-adriano",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.621389,
+  "longitude": 12.790278,
+  "title": "Ferentillo",
+  "ipa": "c_d538",
+  "nome": "ferentillo",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "ferentillo",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.0359,
+  "longitude": 13.1562,
+  "title": "Fiastra",
+  "ipa": "c_d564",
+  "nome": "fiastra",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "fiastra",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.036889,
+  "longitude": 13.089581,
+  "title": "Fiordimonte",
+  "ipa": "c_d609",
+  "nome": "fiordimonte",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "fiordimonte",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.771389,
+  "longitude": 11.254167,
+  "title": "Firenze",
+  "ipa": "c_d612",
+  "nome": "firenze",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.188489,
+  "longitude": 12.931689,
+  "title": "Fiuminata",
+  "ipa": "c_d628",
+  "nome": "fiuminata",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "fiuminata",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.821,
+  "longitude": 13.63295,
+  "title": "Folignano",
+  "ipa": "c_d652",
+  "nome": "folignano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "folignano",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.963331,
+  "longitude": 13.491031,
+  "title": "Force",
+  "ipa": "c_d691",
+  "nome": "force",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "force",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.433333,
+  "longitude": 17.466667,
+  "title": "Fragagnano",
+  "ipa": "c_d754",
+  "nome": "fragagnano",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.531389,
+  "longitude": 17.585833,
+  "title": "Francavilla Fontana",
+  "ipa": "c_d761",
+  "nome": "francavillafontana",
+  "tipo": "comune"
+}
+{
+  "latitude": 37.716667,
+  "longitude": 14.533333,
+  "title": "Gagliano Castelferrato",
+  "ipa": "c_d849",
+  "nome": "gaglianocastelferrato",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.239081,
+  "longitude": 13.0678,
+  "title": "Gagliole",
+  "ipa": "c_d853",
+  "nome": "gagliole",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "gagliole",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.166667,
+  "longitude": 18.166667,
+  "title": "Galatina",
+  "ipa": "c_d862",
+  "nome": "galatina",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.5,
+  "longitude": 16.75,
+  "title": "Ginosa",
+  "ipa": "c_e036",
+  "nome": "ginosa",
+  "tipo": "comune"
+}
+{
+  "latitude": 41.183333,
+  "longitude": 16.666667,
+  "title": "Giovinazzo",
+  "ipa": "c_e047",
+  "nome": "giovinazzo",
+  "tipo": "comune"
+}
+{
+  "latitude": 37.566667,
+  "longitude": 15.066667,
+  "title": "Gravina di Catania",
+  "ipa": "c_e156",
+  "nome": "gravinadicatania",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.066919,
+  "longitude": 13.338,
+  "title": "Gualdo",
+  "ipa": "c_e228",
+  "nome": "gualdo",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "gualdo",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.75,
+  "longitude": 16.233333,
+  "title": "Irsina",
+  "ipa": "c_e326",
+  "nome": "irsina",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.5075,
+  "longitude": 13.657778,
+  "title": "Isola del Gran Sasso d'Italia",
+  "ipa": "c_e343",
+  "nome": "isola-del-gran-sasso-ditalia",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "isola-del-gran-sasso-ditalia",
+  "tipo": "comune"
+}
+{
+  "latitude": 41.467597,
+  "longitude": 12.9037,
+  "title": "Latina",
+  "ipa": "c_e472",
+  "nome": "latina",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.352011,
+  "longitude": 18.169139,
+  "title": "Lecce",
+  "ipa": "c_e506",
+  "nome": "lecce",
+  "tipo": "comune"
+}
+{
+  "latitude": 37.65,
+  "longitude": 14.4,
+  "title": "Leonforte",
+  "ipa": "c_e536",
+  "nome": "leonforte",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.3,
+  "longitude": 18.216667,
+  "title": "Lizzanello",
+  "ipa": "c_e629",
+  "nome": "lizzanello",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.391944,
+  "longitude": 17.448333,
+  "title": "Lizzano",
+  "ipa": "c_e630",
+  "nome": "lizzano",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.166261,
+  "longitude": 13.4161,
+  "title": "Loro Piceno",
+  "ipa": "c_e694",
+  "nome": "loro-piceno",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "loro-piceno",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.30025,
+  "longitude": 13.453303,
+  "title": "Macerata",
+  "ipa": "c_e783",
+  "nome": "macerata",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "macerata",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.8316,
+  "longitude": 13.687139,
+  "title": "Maltignano",
+  "ipa": "c_e868",
+  "nome": "maltignano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "maltignano",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.402778,
+  "longitude": 17.634167,
+  "title": "Manduria",
+  "ipa": "c_e882",
+  "nome": "manduria",
+  "tipo": "comune"
+}
+{
+  "latitude": 45.366667,
+  "longitude": 10.133333,
+  "title": "Manerbio",
+  "ipa": "c_e884",
+  "nome": "manerbio",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.150311,
+  "longitude": 13.475589,
+  "title": "Massa Fermana",
+  "ipa": "c_f021",
+  "nome": "massa-fermana",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "massa-fermana",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.583333,
+  "longitude": 17.116667,
+  "title": "Massafra",
+  "ipa": "c_f027",
+  "nome": "massafra",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.256586,
+  "longitude": 13.009594,
+  "title": "Matelica",
+  "ipa": "c_f051",
+  "nome": "matelica",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "matelica",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.666667,
+  "longitude": 16.6,
+  "title": "Matera",
+  "ipa": "c_f052",
+  "nome": "matera",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.566667,
+  "longitude": 17.8,
+  "title": "Mesagne",
+  "ipa": "c_f152",
+  "nome": "mesagne",
+  "tipo": "comune"
+}
+{
+  "latitude": 38.183333,
+  "longitude": 15.55,
+  "title": "Messina",
+  "ipa": "c_f158",
+  "nome": "messina",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.45,
+  "longitude": 13.05,
+  "title": "Micigliano",
+  "ipa": "c_f193",
+  "nome": "micigliano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "micigliano",
+  "tipo": "comune"
+}
+{
+  "latitude": 45.464161,
+  "longitude": 9.190336,
+  "title": "Milano",
+  "ipa": "c_f205",
+  "nome": "milano",
+  "tipo": "comune"
+}
+{
+  "latitude": 41.083333,
+  "longitude": 16.783333,
+  "title": "Modugno",
+  "ipa": "c_f262",
+  "nome": "modugno",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.1859,
+  "longitude": 13.4808,
+  "title": "Mogliano",
+  "ipa": "c_f268",
+  "nome": "mogliano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "mogliano",
+  "tipo": "comune"
+}
+{
+  "latitude": 41.2,
+  "longitude": 16.6,
+  "title": "Molfetta",
+  "ipa": "c_f284",
+  "nome": "molfetta",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.0676,
+  "longitude": 13.5561,
+  "title": "Monsampietro Morico",
+  "ipa": "c_f379",
+  "nome": "monsampietro-morico",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "monsampietro-morico",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.987253,
+  "longitude": 13.606853,
+  "title": "Montalto delle Marche",
+  "ipa": "c_f415",
+  "nome": "montalto-delle-marche",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "montalto-delle-marche",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.1374,
+  "longitude": 13.4691,
+  "title": "Montappone",
+  "ipa": "c_f428",
+  "nome": "montappone",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "montappone",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.992919,
+  "longitude": 13.001069,
+  "title": "Monte Cavallo",
+  "ipa": "c_f460",
+  "nome": "monte-cavallo",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "monte-cavallo",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.970669,
+  "longitude": 13.587,
+  "title": "Montedinove",
+  "ipa": "c_f487",
+  "nome": "montedinove",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "montedinove",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.988219,
+  "longitude": 13.458919,
+  "title": "Montefalcone Appennino",
+  "ipa": "c_f493",
+  "nome": "montefalcone-appennino",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "montefalcone-appennino",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.942639,
+  "longitude": 13.341231,
+  "title": "Montefortino",
+  "ipa": "c_f509",
+  "nome": "montefortino",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.6,
+  "longitude": 12.766667,
+  "title": "Montefranco",
+  "ipa": "c_f510",
+  "nome": "montefranco",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "montefranco",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.842111,
+  "longitude": 13.332783,
+  "title": "Montegallo",
+  "ipa": "c_f516",
+  "nome": "montegallo",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.1307,
+  "longitude": 13.537081,
+  "title": "Montegiorgio",
+  "ipa": "c_f520",
+  "nome": "montegiorgio",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "montegiorgio",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.651361,
+  "longitude": 12.951669,
+  "title": "Monteleone di Spoleto",
+  "ipa": "c_f540",
+  "nome": "monteleonedispoleto",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.233333,
+  "longitude": 12.85,
+  "title": "Monteleone Sabino",
+  "ipa": "c_f536",
+  "nome": "monteleone-sabino",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "monteleone-sabino",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.018031,
+  "longitude": 13.53535,
+  "title": "Montelparo",
+  "ipa": "c_f549",
+  "nome": "montelparo",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "montelparo",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.899167,
+  "longitude": 13.333889,
+  "title": "Montemonaco",
+  "ipa": "c_f570",
+  "nome": "montemonaco",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.522778,
+  "longitude": 13.248611,
+  "title": "Montereale",
+  "ipa": "c_f595",
+  "nome": "montereale",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.028389,
+  "longitude": 13.580781,
+  "title": "Monte Rinaldo",
+  "ipa": "c_f599",
+  "nome": "monte-rinaldo",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "monte-rinaldo",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.0329,
+  "longitude": 13.4396,
+  "title": "Monte San Martino",
+  "ipa": "c_f622",
+  "nome": "monte-san-martino",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "monte-san-martino",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.121869,
+  "longitude": 13.484819,
+  "title": "Monte Vidon Corrado",
+  "ipa": "c_f665",
+  "nome": "monte-vidon-corrado",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "monte-vidon-corrado",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.583333,
+  "longitude": 13.633333,
+  "title": "Montorio al Vomano",
+  "ipa": "c_f690",
+  "nome": "montorio-al-vomano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "montorio-al-vomano",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.0819,
+  "longitude": 13.044031,
+  "title": "Muccia",
+  "ipa": "c_f793",
+  "nome": "muccia",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "muccia",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.833333,
+  "longitude": 14.25,
+  "title": "Napoli",
+  "ipa": "c_f839",
+  "nome": "napoli",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.516667,
+  "longitude": 12.516667,
+  "title": "Narni",
+  "ipa": "c_f844",
+  "nome": "narni",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.793333,
+  "longitude": 13.093889,
+  "title": "Norcia",
+  "ipa": "c_f935",
+  "nome": "norcia",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.93535,
+  "longitude": 13.692,
+  "title": "Offida",
+  "ipa": "c_g005",
+  "nome": "offida",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "offida",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.5,
+  "longitude": 17.633333,
+  "title": "Oria",
+  "ipa": "c_g098",
+  "nome": "oria",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.031489,
+  "longitude": 13.607569,
+  "title": "Ortezzano",
+  "ipa": "c_g137",
+  "nome": "ortezzano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "ortezzano",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.15,
+  "longitude": 18.483333,
+  "title": "Otranto",
+  "ipa": "c_g188",
+  "nome": "otranto",
+  "tipo": "comune"
+}
+{
+  "latitude": 38.115658,
+  "longitude": 13.361262,
+  "title": "Palermo",
+  "ipa": "c_g273",
+  "nome": "palermo",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.8999,
+  "longitude": 13.4587,
+  "title": "Palmiano",
+  "ipa": "c_g289",
+  "nome": "palmiano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "palmiano",
+  "tipo": "comune"
+}
+{
+  "latitude": 37.728889,
+  "longitude": 12.889444,
+  "title": "Partanna",
+  "ipa": "c_g347",
+  "nome": "partanna",
+  "tipo": "comune"
+}
+{
+  "latitude": 38.133333,
+  "longitude": 14.966667,
+  "title": "Patti",
+  "ipa": "c_g377",
+  "nome": "patti",
+  "tipo": "comune"
+}
+{
+  "latitude": 37.616667,
+  "longitude": 15.066667,
+  "title": "Pedara",
+  "ipa": "c_g402",
+  "nome": "pedara",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.055969,
+  "longitude": 13.42325,
+  "title": "Penna San Giovanni",
+  "ipa": "c_g436",
+  "nome": "penna-san-giovanni",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "penna-san-giovanni",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.221042,
+  "longitude": 13.465758,
+  "title": "Petriolo",
+  "ipa": "c_g515",
+  "nome": "petriolo",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "petriolo",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.523056,
+  "longitude": 13.553333,
+  "title": "Pietracamela",
+  "ipa": "c_g608",
+  "nome": "pietracamela",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "pietracamela",
+  "tipo": "comune"
+}
+{
+  "latitude": 37.4,
+  "longitude": 14.133333,
+  "title": "Pietraperzia",
+  "ipa": "c_g624",
+  "nome": "pietraperzia",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.062169,
+  "longitude": 13.084419,
+  "title": "Pievebovigliana",
+  "ipa": "c_g637",
+  "nome": "pievebovigliana",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "pievebovigliana",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.044381,
+  "longitude": 13.0504,
+  "title": "Pieve Torina",
+  "ipa": "c_g657",
+  "nome": "pieve-torina",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "pieve-torina",
+  "tipo": "comune"
+}
+{
+  "latitude": 44.883333,
+  "longitude": 7.333333,
+  "title": "Pinerolo",
+  "ipa": "c_g674",
+  "nome": "pinerolo",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.178936,
+  "longitude": 12.984931,
+  "title": "Pioraco",
+  "ipa": "c_g690",
+  "nome": "pioraco",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "pioraco",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.716667,
+  "longitude": 10.4,
+  "title": "Pisa",
+  "ipa": "c_g702",
+  "nome": "pisa",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.43603,
+  "longitude": 13.29886,
+  "title": "Pizzoli",
+  "ipa": "c_g726",
+  "nome": "pizzoli",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "pizzoli",
+  "tipo": "comune"
+}
+{
+  "latitude": 39,
+  "longitude": 16.316667,
+  "title": "Platania",
+  "ipa": "c_g734",
+  "nome": "platania",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.5,
+  "longitude": 12.883333,
+  "title": "Poggio Bustone",
+  "ipa": "c_g756",
+  "nome": "poggio-bustone",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "poggio-bustone",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.716667,
+  "longitude": 12.933333,
+  "title": "Poggiodomo",
+  "ipa": "c_g758",
+  "nome": "poggiodomo",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "poggiodomo",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.374619,
+  "longitude": 13.0791,
+  "title": "Poggio San Vicino",
+  "ipa": "c_d566",
+  "nome": "poggio-san-vicino",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "poggio-san-vicino",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.996111,
+  "longitude": 17.220278,
+  "title": "Polignano a Mare",
+  "ipa": "c_g787",
+  "nome": "polignanoamare",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.267775,
+  "longitude": 13.348139,
+  "title": "Pollenza",
+  "ipa": "c_f567",
+  "nome": "pollenza",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "pollenza",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.527222,
+  "longitude": 13.115556,
+  "title": "Posta",
+  "ipa": "c_g934",
+  "nome": "posta",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "posta",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.633333,
+  "longitude": 15.8,
+  "title": "Potenza",
+  "ipa": "c_g942",
+  "nome": "potenza",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.880814,
+  "longitude": 11.096561,
+  "title": "Prato",
+  "ipa": "c_g999",
+  "nome": "prato",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.883333,
+  "longitude": 13.033333,
+  "title": "Preci",
+  "ipa": "c_h015",
+  "nome": "preci",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.40443,
+  "longitude": 12.856702,
+  "title": "Rieti",
+  "ipa": "c_h282",
+  "nome": "rieti",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.2,
+  "longitude": 12.483333,
+  "title": "Rignano Flaminio",
+  "ipa": "c_h288",
+  "nome": "rignano_flaminio",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.142731,
+  "longitude": 13.36715,
+  "title": "Ripe San Ginesio",
+  "ipa": "c_h323",
+  "nome": "ripe-san-ginesio",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "ripe-san-ginesio",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.516667,
+  "longitude": 12.85,
+  "title": "Rivodutri",
+  "ipa": "c_h354",
+  "nome": "rivodutri",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "rivodutri",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.866667,
+  "longitude": 13.483333,
+  "title": "Roccafluvione",
+  "ipa": "c_h390",
+  "nome": "roccafluvione",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "roccafluvione",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.683333,
+  "longitude": 13.533333,
+  "title": "Rocca Santa Maria",
+  "ipa": "c_h440",
+  "nome": "roccasantamaria",
+  "tipo": "comune"
+}
+{
+  "latitude": 45.6246,
+  "longitude": 12.3766,
+  "title": "Roncade",
+  "ipa": "c_h523",
+  "nome": "roncade",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.954569,
+  "longitude": 13.56095,
+  "title": "Rotella",
+  "ipa": "c_h588",
+  "nome": "rotella",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "rotella",
+  "tipo": "comune"
+}
+{
+  "latitude": 45.683333,
+  "longitude": 12.383333,
+  "title": "San Biagio di Callalta",
+  "ipa": "c_h781",
+  "nome": "sanbiagiodicallalta",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.107844,
+  "longitude": 13.316667,
+  "title": "San Ginesio",
+  "ipa": "c_h876",
+  "nome": "san-ginesio",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "san-ginesio",
+  "tipo": "comune"
+}
+{
+  "latitude": 37.966667,
+  "longitude": 13.183333,
+  "title": "San Giuseppe Jato",
+  "ipa": "c_h933",
+  "nome": "sangiuseppejato",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.45,
+  "longitude": 17.5,
+  "title": "San Marzano di San Giuseppe",
+  "ipa": "c_i018",
+  "nome": "sanmarzanodisangiuseppe",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.416667,
+  "longitude": 17.833333,
+  "title": "San Pancrazio Salentino",
+  "ipa": "c_i066",
+  "nome": "sanpancraziosalentino",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.228856,
+  "longitude": 13.177103,
+  "title": "San Severino Marche",
+  "ipa": "c_i158",
+  "nome": "san-severino-marche",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "san-severino-marche",
+  "tipo": "comune"
+}
+{
+  "latitude": 37.558333,
+  "longitude": 15.080556,
+  "title": "Sant'Agata Li Battiati",
+  "ipa": "c_i202",
+  "nome": "santagatalibattiati",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.733333,
+  "longitude": 12.833333,
+  "title": "Sant'Anatolia di Narco",
+  "ipa": "c_i263",
+  "nome": "santanatolia-di-narco",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "santanatolia-di-narco",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.099281,
+  "longitude": 13.395319,
+  "title": "Sant'Angelo in Pontano",
+  "ipa": "c_i286",
+  "nome": "santangelo-in-pontano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "santangelo-in-pontano",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.01965,
+  "longitude": 13.496519,
+  "title": "Santa Vittoria in Matenano",
+  "ipa": "c_i315",
+  "nome": "santa-vittoria-in-matenano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "santa-vittoria-in-matenano",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.035614,
+  "longitude": 13.300731,
+  "title": "Sarnano",
+  "ipa": "c_i436",
+  "nome": "sarnano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "sarnano",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.400278,
+  "longitude": 17.566667,
+  "title": "Sava",
+  "ipa": "c_i467",
+  "nome": "sava",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.716667,
+  "longitude": 12.833333,
+  "title": "Scheggino",
+  "ipa": "c_i523",
+  "nome": "scheggino",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "scheggino",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.1464,
+  "longitude": 12.949231,
+  "title": "Sefro",
+  "ipa": "c_i569",
+  "nome": "sefro",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "sefro",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.883333,
+  "longitude": 12.933333,
+  "title": "Sellano",
+  "ipa": "c_i585",
+  "nome": "sellano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "sellano",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.1766,
+  "longitude": 13.19055,
+  "title": "Serrapetrona",
+  "ipa": "c_i651",
+  "nome": "serrapetrona",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "serrapetrona",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.072181,
+  "longitude": 12.951861,
+  "title": "Serravalle di Chienti",
+  "ipa": "c_i661",
+  "nome": "serravalle-di-chienti",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "serravalle-di-chienti",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.080869,
+  "longitude": 13.492028,
+  "title": "Servigliano",
+  "ipa": "c_c070",
+  "nome": "servigliano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "servigliano",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.004361,
+  "longitude": 13.445619,
+  "title": "Smerillo",
+  "ipa": "c_i774",
+  "nome": "smerillo",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "smerillo",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.733333,
+  "longitude": 12.733333,
+  "title": "Spoleto",
+  "ipa": "c_i921",
+  "nome": "spoleto",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "spoleto",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.4,
+  "longitude": 18.133333,
+  "title": "Surbo",
+  "ipa": "c_l011",
+  "nome": "surbo",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.418056,
+  "longitude": 17.240833,
+  "title": "Taranto",
+  "ipa": "c_l049",
+  "nome": "taranto",
+  "tipo": "comune"
+}
+{
+  "latitude": 39.616667,
+  "longitude": 16.266667,
+  "title": "Tarsia",
+  "ipa": "c_l055",
+  "nome": "tarsia",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.658853,
+  "longitude": 13.703911,
+  "title": "Teramo",
+  "ipa": "c_l103",
+  "nome": "teramo",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "teramo",
+  "tipo": "comune"
+}
+{
+  "latitude": 41.133333,
+  "longitude": 16.55,
+  "title": "Terlizzi",
+  "ipa": "c_l109",
+  "nome": "terlizzi",
+  "tipo": "comune"
+}
+{
+  "latitude": 39.65,
+  "longitude": 16.333333,
+  "title": "Terranova da Sibari",
+  "ipa": "c_l124",
+  "nome": "terranovadasibari",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.208611,
+  "longitude": 13.2841,
+  "title": "Tolentino",
+  "ipa": "c_l191",
+  "nome": "tolentino",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "tolentino",
+  "tipo": "comune"
+}
+{
+  "latitude": 45.066667,
+  "longitude": 7.7,
+  "title": "Torino",
+  "ipa": "c_l219",
+  "nome": "torino",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.66,
+  "longitude": 13.658056,
+  "title": "Torricella Sicura",
+  "ipa": "c_l295",
+  "nome": "torricella-sicura",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "torricella-sicura",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.55,
+  "longitude": 13.65,
+  "title": "Tossicia",
+  "ipa": "c_l314",
+  "nome": "tossicia",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "tossicia",
+  "tipo": "comune"
+}
+{
+  "latitude": 38,
+  "longitude": 13.65,
+  "title": "Trabia",
+  "ipa": "c_l317",
+  "nome": "trabia",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.311369,
+  "longitude": 13.313053,
+  "title": "Treia",
+  "ipa": "c_l366",
+  "nome": "treia",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "treia",
+  "tipo": "comune"
+}
+{
+  "latitude": 45.672222,
+  "longitude": 12.242222,
+  "title": "Treviso",
+  "ipa": "c_l407",
+  "nome": "treviso",
+  "tipo": "comune"
+}
+{
+  "latitude": 39.933333,
+  "longitude": 18.366667,
+  "title": "Tricase",
+  "ipa": "c_l419",
+  "nome": "tricase",
+  "tipo": "comune"
+}
+{
+  "latitude": 45.636111,
+  "longitude": 13.804167,
+  "title": "Trieste",
+  "ipa": "c_l424",
+  "nome": "trieste",
+  "tipo": "comune"
+}
+{
+  "latitude": 37.783333,
+  "longitude": 14.6,
+  "title": "Troina",
+  "ipa": "c_l448",
+  "nome": "troina",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.197261,
+  "longitude": 13.377339,
+  "title": "Urbisaglia",
+  "ipa": "c_l501",
+  "nome": "urbisaglia",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "urbisaglia",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.944131,
+  "longitude": 13.14295,
+  "title": "Ussita",
+  "ipa": "c_l517",
+  "nome": "ussita",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "ussita",
+  "tipo": "comune"
+}
+{
+  "latitude": 43.966667,
+  "longitude": 11.116667,
+  "title": "Vaiano",
+  "ipa": "c_l537",
+  "nome": "vaiano",
+  "tipo": "comune"
+}
+{
+  "latitude": 37.5,
+  "longitude": 14.383333,
+  "title": "Valguarnera Caropepe",
+  "ipa": "c_l583",
+  "nome": "valguarneracaropepe",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.733333,
+  "longitude": 13.5,
+  "title": "Valle Castellana",
+  "ipa": "c_l597",
+  "nome": "vallecastellana",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.755397,
+  "longitude": 12.864382,
+  "title": "Vallo di Nera",
+  "ipa": "c_l627",
+  "nome": "vallo-di-nera",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "vallo-di-nera",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.881919,
+  "longitude": 13.494361,
+  "title": "Venarotta",
+  "ipa": "c_l728",
+  "nome": "venarotta",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "venarotta",
+  "tipo": "comune"
+}
+{
+  "latitude": 45.933333,
+  "longitude": 8.533333,
+  "title": "Verbania",
+  "ipa": "c_l746",
+  "nome": "verbania",
+  "tipo": "comune"
+}
+{
+  "latitude": 44.05,
+  "longitude": 11.15,
+  "title": "Vernio",
+  "ipa": "c_l775",
+  "nome": "vernio",
+  "tipo": "comune"
+}
+{
+  "latitude": 38.083333,
+  "longitude": 13.45,
+  "title": "Villabate",
+  "ipa": "c_l916",
+  "nome": "villabate",
+  "tipo": "comune"
+}
+{
+  "latitude": 42.930881,
+  "longitude": 13.08845,
+  "title": "Visso",
+  "ipa": "c_m078",
+  "nome": "visso",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "visso",
+  "tipo": "comune"
+}

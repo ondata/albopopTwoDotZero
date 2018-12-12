@@ -26,4 +26,8 @@ defaultContentLanguage = "it"
     [params.fonts]
         title = "'Montserrat', sans-serif"
         paragraph = "'Georgia', serif"
+
+[permalinks]
+  altrepa = "/altrepa/:filename"
+  comune = "/comune/:filename"
         

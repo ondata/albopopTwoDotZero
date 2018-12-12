@@ -1,0 +1,351 @@
+latitude,longitude,title,ipa,nome,tipo
+37.516667,15.066667,Città Metropolitana di Catania,cmct,cataniametropolitana,altrepa
+38.115556,13.361389,Città Metropolitana di Palermo,p_pa,palermometropolitana,altrepa
+37.5146225,15.0768163,G.B. Vaccarini,istsc_ctis01700v,scuolagbvaccarinict,altrepa
+45.066667,7.7,Città Metropolitana di Torino,cmto,torinometropolitana,altrepa
+37.5036,15.0867,Università degli Studi di Catania,uni_ct,unict,altrepa
+44.4204643,11.9110451,Unione dei Comuni della Bassa Romagna,UNCOBARO,unionecomunibassaromagna,altrepa
+38.11768,13.370131,Università degli Studi di Palermo,uni_pa,unipa,altrepa
+45.069444,7.688889,Università degli Studi di Torino,UNITO,unito,altrepa
+42.694444,13.2475,Accumoli,c_a019,accumoli,comune
+42.7692,13.40945,Acquasanta Terme,c_a044,acquasantaterme,comune
+37.65,14.516667,Agira,c_a070,agira,comune
+40.557778,8.321944,Alghero,c_a192,alghero,comune
+38.042222,13.550278,Altavilla Milicia,c_a229,altavillamilicia,comune
+43.816667,10.674722,Altopascio,c_a241,altopascio,comune
+42.9801,13.3575,Amandola,c_a252,amandola,comune
+,,,,amandola,comune
+42.629381,13.288372,Amatrice,c_a258,amatrice,comune
+41.231667,16.308333,Andria,c_a285,andria,comune
+42.416667,13.083333,Antrodoco,c_a315,antrodoco,comune
+,,,,antrodoco,comune
+43.393064,13.130269,Apiro,c_a329,apiro,comune
+,,,,apiro,comune
+42.899058,13.665989,Appignano Del Tronto,c_a335,appignano-del-tronto,comune
+,,,,appignano-del-tronto,comune
+42.772565,13.296643,Arquata del Tronto,c_a437,arquata_del_tronto,comune
+42.583683,12.768,Arrone,c_a439,arrone,comune
+,,,,arrone,comune
+42.854722,13.575278,Ascoli Piceno,c_a462,ascoli-piceno,comune
+,,,,ascoli-piceno,comune
+38.083333,13.5,Bagheria,c_a546,bagheria,comune
+38.15,15.216667,Barcellona Pozzo di Gotto,c_a638,barcellona_pozzo_di_gotto,comune
+42.451389,13.283056,Barete,c_a656,barete,comune
+,,,,barete,comune
+41.125278,16.866667,Bari,c_a662,bari,comune
+41.316667,16.283333,Barletta,c_a669,barletta,comune
+43.164169,13.237464,Belforte Del Chienti,c_a739,belforte-del-chienti,comune
+,,,,belforte-del-chienti,comune
+43.0915,13.538881,Belmonte Piceno,c_a760,belmonte-piceno,comune
+,,,,belmonte-piceno,comune
+37.583333,14.983333,Belpasso,c_a766,belpasso,comune
+41.108333,16.691667,Bitonto,c_a893,bitonto,comune
+44.493889,11.342778,Bologna,c_a944,bologna,comune
+42.9934,13.2288,Bolognola,c_a947,bolognola,comune
+,,,,bolognola,comune
+44.88944,11.41542,Bondeno,c_a965,bondeno,comune
+42.516667,13.133333,Borbona,c_a981,borbona,comune
+,,,,borbona,comune
+43.778897,7.672128,Bordighera,c_a984,bordighera,comune
+42.4,13.066667,Borgo Velino,c_a996,borgo-velino,comune
+,,,,borgo-velino,comune
+40.066667,18.316667,Botrugno,c_b086,botrugno,comune
+40.638333,17.945833,Brindisi,c_b180,brindisi,comune
+42.458333,13.228889,Cagnano Amiterno,c_b358,cagnano-amiterno,comune
+,,,,cagnano-amiterno,comune
+43.138169,13.225139,Caldarola,c_b398,caldarola,comune
+,,,,caldarola,comune
+43.131819,13.063831,Camerino,c_b474,camerino,comune
+,,,,camerino,comune
+42.726131,13.686089,Campli,c_b515,campli,comune
+,,,,campli,comune
+37.259444,13.919167,Campobello di Licata,c_b520,campobello_di_licata,comune
+43.1317,13.265889,Camporotondo di Fiastrone,c_b561,camporotondo-di-fiastrone,comune
+,,,,camporotondo-di-fiastrone,comune
+42.55884,13.36799,Campotosto,c_b569,campotosto,comune
+,,,,campotosto,comune
+44.016667,11.083333,Cantagallo,c_b626,cantagallo,comune
+38.166667,13.233333,Capaci,c_b645,capaci,comune
+43.875556,10.573611,Capannori,c_b648,capannori,comune
+42.52041,13.30122,Capitignano,c_b658,capitignano,comune
+40.266667,18.25,Caprarica di Lecce,c_b690,capraricadilecce,comune
+42.716667,13.016667,Cascia,c_b948,cascia,comune
+37.930556,14.088333,Castelbuono,c_c067,castelbuono,comune
+42.55,13.716667,Castel Castagna,c_c040,castel-castagna,comune
+,,,,castel-castagna,comune
+42.869553,13.7133,Castel Di Lama,c_c093,castel-di-lama,comune
+,,,,castel-di-lama,comune
+42.488889,13.7125,Castelli,c_c169,castelli,comune
+,,,,castelli,comune
+44.577778,11.361667,Castel Maggiore,c_c204,castelmaggiore,comune
+43.2091,13.0546,Castelraimondo,c_c251,castelraimondo,comune
+,,,,castelraimondo,comune
+42.4,13.016667,Castel Sant'Angelo,c_c268,castel-santangelo,comune
+,,,,castel-santangelo,comune
+42.894619,13.153311,Castelsantangelo sul Nera,c_c267,castelsantangelo-sul-nera,comune
+,,,,castelsantangelo-sul-nera,comune
+42.938139,13.621944,Castignano,c_c321,castignano,comune
+,,,,castignano,comune
+42.898347,13.727569,Castorano,c_c331,castorano,comune
+,,,,castorano,comune
+37.502669,15.087269,Catania,c_c351,catania,comune
+44.733333,11.283333,Cento,c_c469,cento,comune
+43.319739,12.984769,Cerreto d'Esi,c_c524,cerreto-desi,comune
+,,,,cerreto-desi,comune
+42.816667,12.916667,Cerreto di Spoleto,c_c527,cerreto-di-spoleto,comune
+,,,,cerreto-di-spoleto,comune
+43.109019,13.258369,Cessapalombo,c_c582,cessapalombo,comune
+,,,,cessapalombo,comune
+43.37415,13.216356,Cingoli,c_c704,cingoli,comune
+,,,,cingoli,comune
+42.383333,12.95,Cittaducale,c_c746,cittaducale,comune
+,,,,cittaducale,comune
+42.616667,13.166667,Cittareale,c_c749,cittareale,comune
+42.771853,13.666586,Civitella del Tronto,c_c781,civitella-del-tronto,comune
+,,,,civitella-del-tronto,comune
+42.533333,13.683333,Colledara,c_c311,colledara,comune
+,,,,colledara,comune
+42.87805,13.7482,Colli del Tronto,c_c877,colli-del-tronto,comune
+,,,,colli-del-tronto,comune
+43.164,13.357,Colmurano,c_c886,colmurano,comune
+,,,,colmurano,comune
+42.957244,13.414569,Comunanza,c_c935,comunanza,comune
+,,,,comunanza,comune
+41.65,12.91666,Cori,c_d003,cori,comune
+43.248219,13.507531,Corridonia,c_d042,corridonia,comune
+,,,,corridonia,comune
+42.62186,13.50774,Cortino,c_d076,cortino,comune
+,,,,cortino,comune
+42.983989,13.688081,Cossignano,c_d096,cossignano,comune
+,,,,cossignano,comune
+40.6,17.233333,Crispiano,c_d171,crispiano,comune
+42.583333,13.483333,Crognaleto,c_d179,crognaleto,comune
+,,,,crognaleto,comune
+43.25135,12.945889,Esanatoglia,c_d429,esanatoglia,comune
+,,,,esanatoglia,comune
+43.338561,12.908519,Fabriano,c_d451,fabriano,comune
+,,,,fabriano,comune
+43.1077,13.4733,Falerone,c_d477,falerone,comune
+,,,,falerone,comune
+42.553889,13.536667,Fano Adriano,c_d489,fano-adriano,comune
+,,,,fano-adriano,comune
+42.621389,12.790278,Ferentillo,c_d538,ferentillo,comune
+,,,,ferentillo,comune
+43.0359,13.1562,Fiastra,c_d564,fiastra,comune
+,,,,fiastra,comune
+43.036889,13.089581,Fiordimonte,c_d609,fiordimonte,comune
+,,,,fiordimonte,comune
+43.771389,11.254167,Firenze,c_d612,firenze,comune
+43.188489,12.931689,Fiuminata,c_d628,fiuminata,comune
+,,,,fiuminata,comune
+42.821,13.63295,Folignano,c_d652,folignano,comune
+,,,,folignano,comune
+42.963331,13.491031,Force,c_d691,force,comune
+,,,,force,comune
+40.433333,17.466667,Fragagnano,c_d754,fragagnano,comune
+40.531389,17.585833,Francavilla Fontana,c_d761,francavillafontana,comune
+37.716667,14.533333,Gagliano Castelferrato,c_d849,gaglianocastelferrato,comune
+43.239081,13.0678,Gagliole,c_d853,gagliole,comune
+,,,,gagliole,comune
+40.166667,18.166667,Galatina,c_d862,galatina,comune
+40.5,16.75,Ginosa,c_e036,ginosa,comune
+41.183333,16.666667,Giovinazzo,c_e047,giovinazzo,comune
+37.566667,15.066667,Gravina di Catania,c_e156,gravinadicatania,comune
+43.066919,13.338,Gualdo,c_e228,gualdo,comune
+,,,,gualdo,comune
+40.75,16.233333,Irsina,c_e326,irsina,comune
+42.5075,13.657778,Isola del Gran Sasso d'Italia,c_e343,isola-del-gran-sasso-ditalia,comune
+,,,,isola-del-gran-sasso-ditalia,comune
+41.467597,12.9037,Latina,c_e472,latina,comune
+40.352011,18.169139,Lecce,c_e506,lecce,comune
+37.65,14.4,Leonforte,c_e536,leonforte,comune
+40.3,18.216667,Lizzanello,c_e629,lizzanello,comune
+40.391944,17.448333,Lizzano,c_e630,lizzano,comune
+43.166261,13.4161,Loro Piceno,c_e694,loro-piceno,comune
+,,,,loro-piceno,comune
+43.30025,13.453303,Macerata,c_e783,macerata,comune
+,,,,macerata,comune
+42.8316,13.687139,Maltignano,c_e868,maltignano,comune
+,,,,maltignano,comune
+40.402778,17.634167,Manduria,c_e882,manduria,comune
+45.366667,10.133333,Manerbio,c_e884,manerbio,comune
+43.150311,13.475589,Massa Fermana,c_f021,massa-fermana,comune
+,,,,massa-fermana,comune
+40.583333,17.116667,Massafra,c_f027,massafra,comune
+43.256586,13.009594,Matelica,c_f051,matelica,comune
+,,,,matelica,comune
+40.666667,16.6,Matera,c_f052,matera,comune
+40.566667,17.8,Mesagne,c_f152,mesagne,comune
+38.183333,15.55,Messina,c_f158,messina,comune
+42.45,13.05,Micigliano,c_f193,micigliano,comune
+,,,,micigliano,comune
+45.464161,9.190336,Milano,c_f205,milano,comune
+41.083333,16.783333,Modugno,c_f262,modugno,comune
+43.1859,13.4808,Mogliano,c_f268,mogliano,comune
+,,,,mogliano,comune
+41.2,16.6,Molfetta,c_f284,molfetta,comune
+43.0676,13.5561,Monsampietro Morico,c_f379,monsampietro-morico,comune
+,,,,monsampietro-morico,comune
+42.987253,13.606853,Montalto delle Marche,c_f415,montalto-delle-marche,comune
+,,,,montalto-delle-marche,comune
+43.1374,13.4691,Montappone,c_f428,montappone,comune
+,,,,montappone,comune
+42.992919,13.001069,Monte Cavallo,c_f460,monte-cavallo,comune
+,,,,monte-cavallo,comune
+42.970669,13.587,Montedinove,c_f487,montedinove,comune
+,,,,montedinove,comune
+42.988219,13.458919,Montefalcone Appennino,c_f493,montefalcone-appennino,comune
+,,,,montefalcone-appennino,comune
+42.942639,13.341231,Montefortino,c_f509,montefortino,comune
+42.6,12.766667,Montefranco,c_f510,montefranco,comune
+,,,,montefranco,comune
+42.842111,13.332783,Montegallo,c_f516,montegallo,comune
+43.1307,13.537081,Montegiorgio,c_f520,montegiorgio,comune
+,,,,montegiorgio,comune
+42.651361,12.951669,Monteleone di Spoleto,c_f540,monteleonedispoleto,comune
+42.233333,12.85,Monteleone Sabino,c_f536,monteleone-sabino,comune
+,,,,monteleone-sabino,comune
+43.018031,13.53535,Montelparo,c_f549,montelparo,comune
+,,,,montelparo,comune
+42.899167,13.333889,Montemonaco,c_f570,montemonaco,comune
+42.522778,13.248611,Montereale,c_f595,montereale,comune
+43.028389,13.580781,Monte Rinaldo,c_f599,monte-rinaldo,comune
+,,,,monte-rinaldo,comune
+43.0329,13.4396,Monte San Martino,c_f622,monte-san-martino,comune
+,,,,monte-san-martino,comune
+43.121869,13.484819,Monte Vidon Corrado,c_f665,monte-vidon-corrado,comune
+,,,,monte-vidon-corrado,comune
+42.583333,13.633333,Montorio al Vomano,c_f690,montorio-al-vomano,comune
+,,,,montorio-al-vomano,comune
+43.0819,13.044031,Muccia,c_f793,muccia,comune
+,,,,muccia,comune
+40.833333,14.25,Napoli,c_f839,napoli,comune
+42.516667,12.516667,Narni,c_f844,narni,comune
+42.793333,13.093889,Norcia,c_f935,norcia,comune
+42.93535,13.692,Offida,c_g005,offida,comune
+,,,,offida,comune
+40.5,17.633333,Oria,c_g098,oria,comune
+43.031489,13.607569,Ortezzano,c_g137,ortezzano,comune
+,,,,ortezzano,comune
+40.15,18.483333,Otranto,c_g188,otranto,comune
+38.115658,13.361262,Palermo,c_g273,palermo,comune
+42.8999,13.4587,Palmiano,c_g289,palmiano,comune
+,,,,palmiano,comune
+37.728889,12.889444,Partanna,c_g347,partanna,comune
+38.133333,14.966667,Patti,c_g377,patti,comune
+37.616667,15.066667,Pedara,c_g402,pedara,comune
+43.055969,13.42325,Penna San Giovanni,c_g436,penna-san-giovanni,comune
+,,,,penna-san-giovanni,comune
+43.221042,13.465758,Petriolo,c_g515,petriolo,comune
+,,,,petriolo,comune
+42.523056,13.553333,Pietracamela,c_g608,pietracamela,comune
+,,,,pietracamela,comune
+37.4,14.133333,Pietraperzia,c_g624,pietraperzia,comune
+43.062169,13.084419,Pievebovigliana,c_g637,pievebovigliana,comune
+,,,,pievebovigliana,comune
+43.044381,13.0504,Pieve Torina,c_g657,pieve-torina,comune
+,,,,pieve-torina,comune
+44.883333,7.333333,Pinerolo,c_g674,pinerolo,comune
+43.178936,12.984931,Pioraco,c_g690,pioraco,comune
+,,,,pioraco,comune
+43.716667,10.4,Pisa,c_g702,pisa,comune
+42.43603,13.29886,Pizzoli,c_g726,pizzoli,comune
+,,,,pizzoli,comune
+39,16.316667,Platania,c_g734,platania,comune
+42.5,12.883333,Poggio Bustone,c_g756,poggio-bustone,comune
+,,,,poggio-bustone,comune
+42.716667,12.933333,Poggiodomo,c_g758,poggiodomo,comune
+,,,,poggiodomo,comune
+43.374619,13.0791,Poggio San Vicino,c_d566,poggio-san-vicino,comune
+,,,,poggio-san-vicino,comune
+40.996111,17.220278,Polignano a Mare,c_g787,polignanoamare,comune
+43.267775,13.348139,Pollenza,c_f567,pollenza,comune
+,,,,pollenza,comune
+42.527222,13.115556,Posta,c_g934,posta,comune
+,,,,posta,comune
+40.633333,15.8,Potenza,c_g942,potenza,comune
+43.880814,11.096561,Prato,c_g999,prato,comune
+42.883333,13.033333,Preci,c_h015,preci,comune
+42.40443,12.856702,Rieti,c_h282,rieti,comune
+42.2,12.483333,Rignano Flaminio,c_h288,rignano_flaminio,comune
+43.142731,13.36715,Ripe San Ginesio,c_h323,ripe-san-ginesio,comune
+,,,,ripe-san-ginesio,comune
+42.516667,12.85,Rivodutri,c_h354,rivodutri,comune
+,,,,rivodutri,comune
+42.866667,13.483333,Roccafluvione,c_h390,roccafluvione,comune
+,,,,roccafluvione,comune
+42.683333,13.533333,Rocca Santa Maria,c_h440,roccasantamaria,comune
+45.6246,12.3766,Roncade,c_h523,roncade,comune
+42.954569,13.56095,Rotella,c_h588,rotella,comune
+,,,,rotella,comune
+45.683333,12.383333,San Biagio di Callalta,c_h781,sanbiagiodicallalta,comune
+43.107844,13.316667,San Ginesio,c_h876,san-ginesio,comune
+,,,,san-ginesio,comune
+37.966667,13.183333,San Giuseppe Jato,c_h933,sangiuseppejato,comune
+40.45,17.5,San Marzano di San Giuseppe,c_i018,sanmarzanodisangiuseppe,comune
+40.416667,17.833333,San Pancrazio Salentino,c_i066,sanpancraziosalentino,comune
+43.228856,13.177103,San Severino Marche,c_i158,san-severino-marche,comune
+,,,,san-severino-marche,comune
+37.558333,15.080556,Sant'Agata Li Battiati,c_i202,santagatalibattiati,comune
+42.733333,12.833333,Sant'Anatolia di Narco,c_i263,santanatolia-di-narco,comune
+,,,,santanatolia-di-narco,comune
+43.099281,13.395319,Sant'Angelo in Pontano,c_i286,santangelo-in-pontano,comune
+,,,,santangelo-in-pontano,comune
+43.01965,13.496519,Santa Vittoria in Matenano,c_i315,santa-vittoria-in-matenano,comune
+,,,,santa-vittoria-in-matenano,comune
+43.035614,13.300731,Sarnano,c_i436,sarnano,comune
+,,,,sarnano,comune
+40.400278,17.566667,Sava,c_i467,sava,comune
+42.716667,12.833333,Scheggino,c_i523,scheggino,comune
+,,,,scheggino,comune
+43.1464,12.949231,Sefro,c_i569,sefro,comune
+,,,,sefro,comune
+42.883333,12.933333,Sellano,c_i585,sellano,comune
+,,,,sellano,comune
+43.1766,13.19055,Serrapetrona,c_i651,serrapetrona,comune
+,,,,serrapetrona,comune
+43.072181,12.951861,Serravalle di Chienti,c_i661,serravalle-di-chienti,comune
+,,,,serravalle-di-chienti,comune
+43.080869,13.492028,Servigliano,c_c070,servigliano,comune
+,,,,servigliano,comune
+43.004361,13.445619,Smerillo,c_i774,smerillo,comune
+,,,,smerillo,comune
+42.733333,12.733333,Spoleto,c_i921,spoleto,comune
+,,,,spoleto,comune
+40.4,18.133333,Surbo,c_l011,surbo,comune
+40.418056,17.240833,Taranto,c_l049,taranto,comune
+39.616667,16.266667,Tarsia,c_l055,tarsia,comune
+42.658853,13.703911,Teramo,c_l103,teramo,comune
+,,,,teramo,comune
+41.133333,16.55,Terlizzi,c_l109,terlizzi,comune
+39.65,16.333333,Terranova da Sibari,c_l124,terranovadasibari,comune
+43.208611,13.2841,Tolentino,c_l191,tolentino,comune
+,,,,tolentino,comune
+45.066667,7.7,Torino,c_l219,torino,comune
+42.66,13.658056,Torricella Sicura,c_l295,torricella-sicura,comune
+,,,,torricella-sicura,comune
+42.55,13.65,Tossicia,c_l314,tossicia,comune
+,,,,tossicia,comune
+38,13.65,Trabia,c_l317,trabia,comune
+43.311369,13.313053,Treia,c_l366,treia,comune
+,,,,treia,comune
+45.672222,12.242222,Treviso,c_l407,treviso,comune
+39.933333,18.366667,Tricase,c_l419,tricase,comune
+45.636111,13.804167,Trieste,c_l424,trieste,comune
+37.783333,14.6,Troina,c_l448,troina,comune
+43.197261,13.377339,Urbisaglia,c_l501,urbisaglia,comune
+,,,,urbisaglia,comune
+42.944131,13.14295,Ussita,c_l517,ussita,comune
+,,,,ussita,comune
+43.966667,11.116667,Vaiano,c_l537,vaiano,comune
+37.5,14.383333,Valguarnera Caropepe,c_l583,valguarneracaropepe,comune
+42.733333,13.5,Valle Castellana,c_l597,vallecastellana,comune
+42.755397,12.864382,Vallo di Nera,c_l627,vallo-di-nera,comune
+,,,,vallo-di-nera,comune
+42.881919,13.494361,Venarotta,c_l728,venarotta,comune
+,,,,venarotta,comune
+45.933333,8.533333,Verbania,c_l746,verbania,comune
+44.05,11.15,Vernio,c_l775,vernio,comune
+38.083333,13.45,Villabate,c_l916,villabate,comune
+42.930881,13.08845,Visso,c_m078,visso,comune
+,,,,visso,comune
