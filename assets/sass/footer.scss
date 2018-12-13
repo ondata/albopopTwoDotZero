@@ -1,12 +1,13 @@
 .blog-footer {
 
     font-family: $sfont;
-    
+    font-weight: 600;
+    font-size: 0.8em;
     background-color: $black;
     color: $white;
 
     .navbar {
-        
+
         .nav-link {
 
             &,
@@ -21,5 +22,5 @@
         }
 
     }
-    
+
 }

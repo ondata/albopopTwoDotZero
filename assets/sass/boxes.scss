@@ -5,17 +5,15 @@
 }
 
 .text-box {
-
     h1, h2, h3 {
         margin-bottom: 2rem;
     }
 
     &.hl-box {
-        
-        h1 {
+        h2, h3 {
             color: $red;
         }
-    
+
     }
 
 }
@@ -30,11 +28,11 @@
         border: none;
         overflow: hidden;
 
-        h1 {
+        h1, h2, h3 {
             font-size: 1.6rem;
             line-height: 2.6rem;
         }
-    
+
         .card-img {
 
             font-family: $sfont;
@@ -49,13 +47,13 @@
         }
 
         .card-body {
-    
+
             .card-title {
                 margin-bottom: 0;
             }
-            
-        }    
-        
+
+        }
+
     }
 
 }
@@ -73,7 +71,7 @@
         }
 
         .card-icon {
-            
+
             img, svg {
                 width: 100%;
             }
@@ -90,7 +88,7 @@
             &.cover-red {
                 box-shadow: inset 0 0 0 2000px rgba($red,.33);
             }
-            
+
             &.cover-blue {
                 box-shadow: inset 0 0 0 2000px rgba($blue,.33);
             }

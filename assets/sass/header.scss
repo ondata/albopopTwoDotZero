@@ -9,6 +9,8 @@
 
         font-family: $sfont;
         box-shadow: $bshadow;
+        font-weight: 600;
+        font-size: 0.8em;
 
         .navbar-nav {
 
@@ -33,9 +35,9 @@
                 &:hover {
                     color: $red !important;
                 }
-                
+
             }
-            
+
         }
 
         .navbar-brand img {

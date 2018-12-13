@@ -14,14 +14,14 @@ article,
             width: auto;
             max-width: 100%;
         }
-    
+
         .item-medal {
             position: absolute;
             top: 0;
             right: 10%;
             height: 25px;
         }
-    
+
     }
 
     .item-title {
@@ -64,7 +64,7 @@ article,
         a:visited {
             text-decoration: none;
         }
-        
+
     }
 
     .item-features {
@@ -101,12 +101,20 @@ article,
 
 }
 
+.img_sticky {
+  width: 50vw;
+  position: -webkit-sticky;  // required for Safari
+  position: sticky;
+   // required as well.
+  bottom: 0;
+}
+
 article .em-section,
 article ul,
 .list-item {
 
     h1, h2, h3, p {
-        margin: 0 !important; 
+        margin: 0 !important;
     }
 
 }

@@ -21,7 +21,7 @@
                         <div class="card d-flex flex-row align-items-center">
                             <div class="card-img text-blue">{{ len (where .Site.RegularPages "Params.official" true) }}</div>
                             <div class="card-body">
-                                <h1 class="card-title">Le PA ufficialmente POP</h1>
+                                <h2 class="card-title">Le PA ufficialmente POP</h2>
                             </div>
                         </div>
                     </a>
@@ -34,7 +34,7 @@
                         <div class="card d-flex flex-row align-items-center">
                             <div class="card-img text-green">{{ len ( where (where .Site.RegularPages "Section" "comune") "Params.official" "!=" true ) }}</div>
                             <div class="card-body">
-                                <h1 class="card-title">I comuni inseriti dalla community</h1>
+                                <h2 class="card-title">I comuni inseriti dalla community</h2>
                             </div>
                         </div>
                     </a>
@@ -44,7 +44,7 @@
                         <div class="card d-flex flex-row align-items-center">
                             <div class="card-img text-red">{{ len ( where (where .Site.RegularPages "Section" "altrepa") "Params.official" "!=" true ) }}</div>
                             <div class="card-body">
-                                <h1 class="card-title">Le altre Pubbliche Amministrazioni POP</h1>
+                                <h2 class="card-title">Le altre Pubbliche Amministrazioni POP</h2>
                             </div>
                         </div>
                     </a>
@@ -59,7 +59,7 @@
             <div class="row">
                 <div class="col-12 text-box">
                     <p><button type="button" class="btn btn-info call-to-action">Scopri come si aderisce ufficialmente ad AlboPOP</button></p>
-                    <h1>Le PA Ufficialmente POP</h1>
+                    <h2>Le PA Ufficialmente POP</h2>
                     <p class="sh-text w-50">
                         Qualche comune ha deciso di aderire in maniera ufficiale ad AlboPOP dando un forte segnale di
                         trasparenza e innovazione ai cittadini. Ecco chi sono.
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 text-box">
-                    <h1>I Comuni inseriti dalla Community</h1>
+                    <h2>I Comuni inseriti dalla Community</h2>
                     <p class="sh-text w-50">
                         Qualche comune ha deciso di aderire in maniera ufficiale ad AlboPOP dando un forte segnale di
                         trasparenza e innovazione ai cittadini. Ecco chi sono
@@ -88,12 +88,12 @@
             </div>
         </div>
     </section>
-    
+
     <section class="row">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-box">
-                    <h1>Altre Pubbliche Amministrazioni POP</h1>
+                    <h2>Altre Pubbliche Amministrazioni POP</h2>
                     <p class="sh-text w-50">
                         Non soltanto i comuni hanno l'obbligo di pubblicare l'Albo Pretorio, ma tutti gli Enti
                         Pubblici! Le informazioni di questi enti possono essere davvero preziose da conoscere.
@@ -111,6 +111,6 @@
             {{ partial "bottom" . }}
         </div>
     </section>
-    
+
 </main>
 {{ end }}

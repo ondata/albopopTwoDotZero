@@ -1,11 +1,14 @@
 {{ define "main" }}
 <main aria-role="main">
 
-    <section class="row top-section ab-section pb-5">
+    <section class="row ab-section">
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-6 ab-content">
                     {{ .Content }}
+                </div>
+                <div class="flex-section">
+                    <img class="img_sticky" src="{{ .Site.BaseURL }}images/aborruso.png">
                 </div>
             </div>
         </div>

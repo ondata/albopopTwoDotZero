@@ -1,11 +1,14 @@
 .sh-text,
 .st-text,
 .hl-text {
-    font-family: $sfont;
     font-weight: bold;
     font-size: 1.2rem;
-    letter-spacing: -0.5px;
     line-height: 1.8rem;
+}
+
+.sh-text,
+.st-text {
+    font-family: $sfont;
 }
 
 .hl-text {
@@ -38,4 +41,6 @@ article {
 .jumbotron {
     padding: 2rem;
     background-color: $lwhite;
+    line-height: 2rem;
+    border-radius: 10px;
 }

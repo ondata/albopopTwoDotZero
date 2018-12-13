@@ -4,7 +4,7 @@
             {{ partial "item-image" . }}
             <div class="item-title">
                 <p class="item-type">{{ or (.Param "institution") .Type }}</p>
-                <h2 class="item-name">{{ .Title }}</h2>
+                <h3 class="item-name">{{ .Title }}</h3>
             </div>
             {{ if and (isset .Params "provincia") (isset .Params "regione") }}
             <div class="item-location flex-shrink-1 align-self-sm-end mr-sm-auto"><nobr>{{ .Param "provincia" }}</nobr>, <nobr>{{ .Param "regione" }}</nobr></div>

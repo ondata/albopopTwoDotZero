@@ -4,8 +4,8 @@ body {
     width: 100%;
 
     font-family: $pfont;
-    font-size: 1.4rem;
-    line-height: 2.1rem;
+    font-size: 1.25rem;
+    line-height: 2rem;
     color: $black;
 
 }
@@ -18,10 +18,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-
     font-size: 3.2rem;
     letter-spacing: -1px;
     line-height: 4.1rem;
+    margin-top: 2rem;
     margin-bottom: 4rem;
 
     &.lettering {
@@ -34,18 +34,18 @@ h1 {
             top: -.75em;
             left: -.5em;
         }
-        
+
     }
 
 }
 
 h2 {
 
-    font-size: 2.25rem;
+    font-size: 2.2rem;
     letter-spacing: -0.5px;
     line-height: 3.4rem;
-    margin-top: 4rem;
-    margin-bottom: 1rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
 
 }
 
@@ -54,8 +54,7 @@ h3, h4, h5, h6 {
     font-size: 1.8rem;
     letter-spacing: -0.5px;
     line-height: 2.6rem;
-    margin-top: 4rem;
-    margin-bottom: 1rem;
+
 
 }
 
@@ -76,12 +75,8 @@ a:visited {
     text-decoration: none;
 }
 
-p {
-    margin-bottom: 2rem;
-}
-
 p, li {
-    
+
     a,
     a:hover,
     a:active,
@@ -94,7 +89,7 @@ p, li {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    
+
     a,
     a:hover,
     a:active,
@@ -108,4 +103,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .overflow-content {
     overflow: visible !important;
+}
+
+/* overwrite bootstrap style */
+
+.container {
+  max-width: 1200px;
 }

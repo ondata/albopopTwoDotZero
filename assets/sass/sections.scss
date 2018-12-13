@@ -1,15 +1,16 @@
 section {
 
     justify-content: center;
-    padding-top: 5em;
-    padding-bottom: 5em;
+    padding-top: 60px;
+    padding-bottom: 40px;
+
 
     &.r-section {
         justify-content: flex-end;
     }
 
     &.top-section {
-        padding-bottom: 5em;
+        padding-top: 90px;
     }
 
     &.hl-section {
@@ -23,17 +24,32 @@ section {
     &.ab-section {
 
         @media (min-width: 768px) {
-            background: url("/images/aborruso.png"), $wbgradient;
-            background-repeat: no-repeat;
-            background-position: bottom right;
+            background: /*url("/images/aborruso.png"),*/ $wbgradient;
+            /* background-repeat: no-repeat;
+            background-position: bottom right; */
+            padding-bottom: 0px;
         }
 
         @media (min-width: 992px) {
-            background-position: bottom right;
+            /* background-position: bottom right; */
         }
-
     }
 
+    .ab-content {
+      padding-bottom: 40px;
+    }
+
+}
+
+.flex-section {
+  overflow: visible;
+  margin-right: 0;
+  right: 0;
+  width: 50%;
+  padding-right: 0px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
 }
 
 article > section {
@@ -45,7 +61,7 @@ article > section {
         padding-top: 5em;
         padding-bottom: 2.5em;
     }
-    
+
 }
 
 footer > section {
@@ -66,5 +82,5 @@ aside > section {
         margin-top: 1rem;
         margin-bottom: 1rem;
     }
-    
+
 }
