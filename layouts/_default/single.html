@@ -52,14 +52,14 @@
     <section class="row">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-sm-9 text-box">
+                <div class="col-12 col-md-9 text-box">
                     <header>
                         {{ if .Param "pdf" }} 
                         <p><a href="{{ .Site.BaseURL }}pdf/{{ .Params.Pdf }}" target="_blank" class="btn btn-info call-to-action">Leggi la delibera dell'adesione ad AlboPOP >></a></p>
                         {{ end }}
                         <h2 class="blog-post-title">AlboPOP {{ .Title | markdownify }}</h2>
                     </header>
-                    <p class="sh-text w-75">Adesso puoi seguire le nuove pubblicazioni in Albo tramite diversi strumenti!</p>
+                    <p class="sh-text w-md-75">Adesso puoi seguire le nuove pubblicazioni in Albo tramite diversi strumenti!</p>
                     {{ partial "author" . }}
                     {{ partial "social" . }}
                 </div>

@@ -25,6 +25,7 @@ $rygradient: linear-gradient(to top right, rgba($red, .41) 0%, rgba($yellow, .76
 $bggradient: linear-gradient(to top right, rgba($blue, .49) 0%, rgba($green, .77) 100%);
 $wbgradient: linear-gradient(to right, $white 55%, $dblue 45%);
 
+@import './bs4-fixes.scss';
 @import './general.scss';
 @import './header.scss';
 @import './sections.scss';
