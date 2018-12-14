@@ -1,23 +1,19 @@
 {
 	"version": 3,
 	"file": "main.css",
-<<<<<<< HEAD
-	"sourceRoot": "/Users/jp/workspace/albopoptwodotzero",
-=======
 	"sourceRoot": "/home/jenkin/progetti/albopopTwoDotZero",
->>>>>>> develop
 	"sources": [
 		"assets/sass/main.scss",
-		"../../workspace/albopoptwodotzero/assets/sass/general.scss",
-		"../../workspace/albopoptwodotzero/assets/sass/header.scss",
-		"../../workspace/albopoptwodotzero/assets/sass/sections.scss",
-		"../../workspace/albopoptwodotzero/assets/sass/boxes.scss",
-		"../../workspace/albopoptwodotzero/assets/sass/items.scss",
-		"../../workspace/albopoptwodotzero/assets/sass/buttons.scss",
-		"../../workspace/albopoptwodotzero/assets/sass/social.scss",
-		"../../workspace/albopoptwodotzero/assets/sass/text.scss",
-		"../../workspace/albopoptwodotzero/assets/sass/article.scss",
-		"../../workspace/albopoptwodotzero/assets/sass/footer.scss"
+		"assets/sass/general.scss",
+		"assets/sass/header.scss",
+		"assets/sass/sections.scss",
+		"assets/sass/boxes.scss",
+		"assets/sass/items.scss",
+		"assets/sass/buttons.scss",
+		"assets/sass/social.scss",
+		"assets/sass/text.scss",
+		"assets/sass/article.scss",
+		"assets/sass/footer.scss"
 	],
 	"sourcesContent": [
 		"$red: #ff0000;\n$lred: #ffb8b8;\n$blue: #266ff0;\n$lblue: #cae5f8;\n$dblue: #2a9ced;\n$orange: #fe9705;\n$green: #3ac430;\n$yellow: #0569ff;\n$black: #021b44;\n$white: #ffffff;\n$lwhite: #f9f9f9;\n$grey: #ededed;\n$twitter: #55acee;\n$facebook: #4465b8;\n$telegram: #2da4d7;\n$rss: #ff9845;\n\n$pfont: 'Georgia', serif;\n$sfont: 'Montserrat', sans-serif;\n\n$bshadow: 0 2px 10px 0 rgba($black, .1);\n$ashadow: 0 5px 30px -5px rgba($black, .3);\n\n$rygradient: linear-gradient(to top right, rgba($red, .41) 0%, rgba($yellow, .76) 100%);\n$bggradient: linear-gradient(to top right, rgba($blue, .49) 0%, rgba($green, .77) 100%);\n$wbgradient: linear-gradient(to right, $white 55%, $dblue 45%);\n\n@import './general.scss';\n@import './header.scss';\n@import './sections.scss';\n@import './boxes.scss';\n@import './items.scss';\n@import './buttons.scss';\n@import './social.scss';\n@import './text.scss';\n@import './article.scss';\n@import './footer.scss';",
