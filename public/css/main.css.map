@@ -1,7 +1,11 @@
 {
 	"version": 3,
 	"file": "main.css",
+<<<<<<< HEAD
 	"sourceRoot": "/Users/jp/workspace/albopoptwodotzero",
+=======
+	"sourceRoot": "/home/jenkin/progetti/albopopTwoDotZero",
+>>>>>>> develop
 	"sources": [
 		"assets/sass/main.scss",
 		"../../workspace/albopoptwodotzero/assets/sass/general.scss",
