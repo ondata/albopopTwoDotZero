@@ -52,3 +52,10 @@ article {
     word-break: break-all;
     word-break: break-word;
 }
+
+:target:before {
+    content:"";
+    display:block;
+    height:90px;
+    margin:-90px 0 0;
+    }
