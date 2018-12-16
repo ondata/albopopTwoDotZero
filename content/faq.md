@@ -12,7 +12,7 @@ menu:
 - [Cosa è un Albo Pretorio?](#cosa-è-un-albo-pretorio)
 - [Cosa è un Albo Pretorio POP?](#cosa-è-un-albo-pretorio-pop)
 - [Cosa è un feed RSS?](#cosa-è-un-feed-rss)
-- [Come posso usare un feed RSS per seguire l'AlboPOP della mia pubblica amministrazione?](#come-posso-usare-un-feed-rss-per-seguire-lalbopop-della-mia-pubblica-amministrazione)
+- [Come posso usare un feed RSS per seguire un AlboPOP?](#come-posso-usare-un-feed-rss-per-seguire-un-albopop)
 - [Come creo un AlboPOP?](#come-creo-un-albopop)
 - [Come aggiungo un AlboPOP sul sito?](#come-aggiungo-un-albopop-sul-sito)
     - [Compilando questo form](#compilando-questo-form)
@@ -39,7 +39,7 @@ Ad esempio i dati forniti da un **AlboPOP** possono essere pubblicati su una **p
 
 Abbiamo scelto questa modalità di pubblicazione proprio perché esiste da tanto tempo, perché è molto diffusa e _standard_ e di conseguenza esistono **decine di modi per usufruirne**; per tutti i tipi di utenti e per ogni dispositivo di lettura.
 
-## Come posso usare un feed RSS per seguire l'AlboPOP della mia pubblica amministrazione?
+## Come posso usare un feed RSS per seguire un AlboPOP?
 
 Puoi cercare sul web una delle numerose guide che permettono di [**alimentare un canale Telegram con un feed rss**](https://www.google.it/search?q=alimentare+un+canale+Telegram+con+un+feed+rss&source=lnt&tbs=qdr:y&sa=X&ved=0ahUKEwi--JflmKTfAhXF2aQKHS9bBZsQpwUIJQ&biw=1920&bih=1120), oppure [**come alimentare una pagina Facebook con un feed rss**](https://www.google.it/search?biw=1920&bih=1120&tbs=qdr%3Ay&ei=SDAWXLOlK5D4kwW1qbOIDw&q=pagina+Facebook+da+un+feed+rss&oq=pagina+Facebook+da+un+feed+rss&gs_l=psy-ab.12...5235.8157..10085...0.0..0.145.407.0j3......0....1..gws-wiz.urp9zsEKu1c) o anche come ricevere via email [**un riepilogo giornaliero delle notizie pubblicate**](https://www.google.it/search?biw=1920&bih=1120&tbs=qdr%3Ay&ei=fjAWXIf0CM6SsAeTy6WwAQ&q=ifttt+rss+to+email+digest&oq=ifttt+rss+email&gs_l=psy-ab.1.2.0i203j0i22i30l3.63727.71497..74036...0.0..0.158.2030.0j15....2..0....1..gws-wiz.......0j35i39j0i131j0i67j0i20i263.nHHlT9TaaZA). Naturalmente [**la cosa più semplice è usare un lettore di feed rss**](https://www.google.it/search?biw=1920&bih=1120&tbs=qdr%3Ay&ei=yDAWXP7ONobhkgXT1bC4CA&q=lettore+feed+rss&oq=lettore+feed+rss&gs_l=psy-ab.3..0l3j0i22i30l3.103170.107036..107420...0.0..0.157.2154.0j16....2..0....1..gws-wiz.......35i39j0i131j0i67j0i131i67j0i20i263.NRS7xIFc3vs) :)
 
