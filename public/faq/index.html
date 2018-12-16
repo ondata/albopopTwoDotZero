@@ -145,7 +145,7 @@
 
 <p><img src="/images/FeedRSS.svg" width="32" height="32"> Hai presente quest&rsquo;immagine arancione che da quasi 20 anni vedi su moltissimi siti web? È l&rsquo;icona dei feed RSS (<code>Really Simple Syndication</code>), una delle <strong>modalità</strong> più diffuse e <strong><em>standard</em></strong> di <strong>pubblicazione</strong> di <strong>contenuti</strong> sul web (puoi approfondire su <a href="https://it.wikipedia.org/wiki/RSS">Wikipedia</a>).</p>
 
-<p>Abbiamo scelto questa modalità di pubblicazione proprio perché esiste da tanto tempo, perché è molto diffusa e <em>standard</em> e di conseguenza esistono decine e decine di modi per usufruirne; per tutti i tipi di utenti e per ogni dispositivo di lettura.</p>
+<p>Abbiamo scelto questa modalità di pubblicazione proprio perché esiste da tanto tempo, perché è molto diffusa e <em>standard</em> e di conseguenza esistono <strong>decine di modi per usufruirne</strong>; per tutti i tipi di utenti e per ogni dispositivo di lettura.</p>
 
 <h2 id="come-posso-usare-un-feed-rss-per-seguire-l-albopop-della-mia-pubblica-amministrazione">Come posso usare un feed RSS per seguire l&rsquo;AlboPOP della mia pubblica amministrazione?</h2>
 
@@ -153,7 +153,22 @@
 
 <h2 id="come-creo-un-albopop">Come creo un AlboPOP?</h2>
 
-<p>Per creare un AlboPOP devi <strong>scrivere un software</strong> che <strong>legga le pagine web dell&rsquo;Albo Pretorio</strong> che ti interessa e le <strong>traduca</strong> in un <strong>feed rss</strong>. Devi avere alcune nozioni base di programmazione ma puoi chiedere un supporto alla comunità <strong>INSERIRE UN RIFERIMENTO</strong>. Se sei già capace di programmare qui <strong>INSERIRE UN RIFERIMENTO</strong> trovi le <strong>specifiche</strong> che deve avere un <strong>feed rss</strong> per essere <strong>conforme allo schema dati di AlboPOP</strong>.</p>
+<p>Per creare un AlboPOP devi <strong>scrivere un software</strong> che <strong>legga le pagine web dell&rsquo;Albo Pretorio</strong> che ti interessa e le <strong>traduca</strong> in un <strong>feed RSS</strong>. Devi avere alcune nozioni base di programmazione o potresti avere supporto dalla comunità tramite <a href="/discuti">in uno di questi spazi di progetto</a>.</p>
+
+<p>Per AlboPOP <a href="https://twitter.com/jenkin27">Alessio Cimarelli</a> e <a href="https://twitter.com/gpirrotta">Giovanni Pirrotta</a> hanno creato delle <strong>specifiche</strong> RSS <strong>dedicate</strong>: se quando crei il feed, le rispetti, fai il massimo, perché non soltanto hai creato la base per una modalità di fruizione più semplice, ma soprattutto hai <strong>arricchito</strong> di <strong>informazioni</strong> e dato <strong>struttura</strong> a informazioni che ne erano prive.</p>
+
+<p>Guarda ad esempio le informazioni - previste dallo schema - del feed del comune di Accumoli:</p>
+
+<pre><code class="language-XML">&lt;category domain=&quot;http://albopop.it/specs/#channel-category-region&quot;&gt;Lazio&lt;/category&gt;
+&lt;category domain=&quot;http://albopop.it/specs/#channel-category-municipality&quot;&gt;Accumoli&lt;/category&gt;
+&lt;category domain=&quot;http://albopop.it/specs/#channel-category-name&quot;&gt;Accumoli&lt;/category&gt;
+&lt;category domain=&quot;http://albopop.it/specs/#channel-category-uid&quot;&gt;istat:057001&lt;/category&gt;
+&lt;category domain=&quot;http://albopop.it/specs/#channel-category-province&quot;&gt;Rieti&lt;/category&gt;
+&lt;category domain=&quot;http://albopop.it/specs/#channel-category-longitude&quot;&gt;13.247683&lt;/category&gt;
+&lt;category domain=&quot;http://albopop.it/specs/#channel-category-type&quot;&gt;Comune&lt;/category&gt;
+&lt;category domain=&quot;http://albopop.it/specs/#channel-category-country&quot;&gt;Italia&lt;/category&gt;
+&lt;category domain=&quot;http://albopop.it/specs/#channel-category-latitude&quot;&gt;42.694141&lt;/category&gt;
+</code></pre>
 
 <h2 id="come-aggiungo-un-albopop-sul-sito">Come aggiungo un AlboPOP sul sito?</h2>
 
