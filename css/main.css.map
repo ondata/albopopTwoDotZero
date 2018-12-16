@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/jenkin/progetti/albopopTwoDotZero",
+	"sourceRoot": "/mnt/c/Users/andybandy/Documents/GitHub/albopopTwoDotZero",
 	"sources": [
 		"assets/sass/main.scss",
 		"assets/sass/bs4-fixes.scss",
