@@ -9,13 +9,10 @@ menu:
 
 <!-- TOC -->
 
+- [Cosa è un Albo Pretorio?](#cosa-è-un-albo-pretorio)
 - [Cosa è un Albo Pretorio POP?](#cosa-è-un-albo-pretorio-pop)
 - [Cosa è un feed RSS?](#cosa-è-un-feed-rss)
 - [Come posso usare un feed RSS per seguire l'AlboPOP della mia pubblica amministrazione?](#come-posso-usare-un-feed-rss-per-seguire-lalbopop-della-mia-pubblica-amministrazione)
-- [Cosa è un Albo Pretorio?](#cosa-è-un-albo-pretorio)
-- [Cosa è un Albo Pretorio POP?](#cosa-è-un-albo-pretorio-pop-1)
-- [Cosa è un feed RSS?](#cosa-è-un-feed-rss-1)
-- [Come posso usare un feed RSS per seguire l'AlboPOP della mia pubblica amministrazione?](#come-posso-usare-un-feed-rss-per-seguire-lalbopop-della-mia-pubblica-amministrazione-1)
 - [Come creo un AlboPOP?](#come-creo-un-albopop)
 - [Come aggiungo un AlboPOP sul sito?](#come-aggiungo-un-albopop-sul-sito)
     - [Compilando questo form](#compilando-questo-form)
@@ -24,6 +21,9 @@ menu:
 
 <!-- /TOC -->
 
+## Cosa è un Albo Pretorio?
+
+Gli [Albi Pretori](https://it.wikipedia.org/wiki/Albo_pretorio) sono delle **pagine web** in cui le **pubbliche amministrazioni** italiane **devono pubblicare**, a norma di legge, una determinata serie di informazioni e documenti. All'interno, ad esempio, si trovano: **avvisi pubblici**, **bandi di concorso**, **determine dirigenziali**, **avvisi ed esiti di gare**, notifiche, **ordinanze del sindaco**, **pubblicazioni di matrimonio**. Si tratta di elementi molto utili a chi vuole vivere il proprio territorio in modo consapevole e attivo. 
 
 ## Cosa è un Albo Pretorio POP?
 
@@ -31,25 +31,13 @@ menu:
 
 Per farlo basta che gli atti siano pubblicati anche come **Feed RSS**: a quel punto potrai iscriverti in uno dei tanti modi possibili.
 
+Ad esempio i dati forniti da un **AlboPOP** possono essere pubblicati su una **pagina Facebook**, su un **canale Telegram** o puoi ricevere un'**email** che ti informa che è stato pubblicato in Albo un documento che contiene nel titolo una determinata **parola chiave**, come ad esempio "matrimonio".
+
 ## Cosa è un feed RSS?
 
 <img src="/images/FeedRSS.svg" width="32" height="32"> Hai presente quest'immagine arancione che da quasi 20 anni vedi su moltissimi siti web? È l'icona dei feed RSS (`Really Simple Syndication`), una delle **modalità** più diffuse e **_standard_** di **pubblicazione** di **contenuti** sul web (puoi approfondire su [Wikipedia](https://it.wikipedia.org/wiki/RSS)).
 
 Abbiamo scelto questa modalità di pubblicazione proprio perché esiste da tanto tempo, perché è molto diffusa e _standard_ e di conseguenza esistono decine e decine di modi per usufruirne; per tutti i tipi di utenti e per ogni dispositivo di lettura.
-
-## Come posso usare un feed RSS per seguire l'AlboPOP della mia pubblica amministrazione?
-
-## Cosa è un Albo Pretorio?
-
-Gli [Albi Pretori](https://it.wikipedia.org/wiki/Albo_pretorio) sono delle **pagine web** in cui le **pubbliche amministrazioni** italiane **devono pubblicare**, a norma di legge, una determinata serie di informazioni e documenti. All'interno, ad esempio, si trovano: **avvisi pubblici**, **bandi di concorso**, **determine dirigenziali**, **avvisi ed esiti di gare**, notifiche, **ordinanze del sindaco**, **pubblicazioni di matrimonio**. Si tratta di elementi molto utili a chi vuole vivere il proprio territorio in modo consapevole e attivo. 
-
-## Cosa è un Albo Pretorio POP?
-
-È un **Albo Pretorio** che ti **consente di essere informato** su quanto pubblicato **attraverso molte modalità, anche automatiche**. Ad esempio i dati forniti da un **AlboPOP** possono essere pubblicati su di una **pagina Facebook**, su un **canale Telegram** o puoi ricevere un'**email** che ti informa che è stato pubblicato in Albo un documento che contiene nel titolo una determinata **parola chiave**, come ad esempio "matrimonio".
-
-## Cosa è un feed RSS?
-
-Un [feed rss](https://it.wikipedia.org/wiki/RSS) è uno speciale **formato di pubblicazione di informazioni** pensato per essere "letto" da un software. È un formato standard, cioè supportato da moltissime applicazioni e che **può alimentare in maniera automatica** la ridistribuzione di informazioni verso **pagine Facebook**, **canali Telegram** e **servizi di notifica automatica via email**.
 
 ## Come posso usare un feed RSS per seguire l'AlboPOP della mia pubblica amministrazione?
 
