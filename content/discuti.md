@@ -7,7 +7,7 @@ menu:
         weight: -141
 ---
 
-La _community_ di AlboPOP è fatta da chi **crea** un **albo** pretorio POP, **scrive** **_tutorial_** sul come crearne uno, ne **pubblica** uno **ufficiale** nella propria Pubblica Amministrazione, **fa passaparola** sul progetto, ecc..
+La _community_ di AlboPOP è fatta da chi **crea** un **albo** pretorio POP, **scrive** **_tutorial_** sul come crearne uno, ne **pubblica** uno **ufficiale** per la propria Pubblica Amministrazione, **fa passaparola** sul progetto, ecc..
 
 È una comunità che nasce del 2015 che ha lasciato tracce in vari spazi. Con la versione 2.0 del progetto i **punti di discussione** principali sono:
 
