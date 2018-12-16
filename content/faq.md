@@ -37,7 +37,7 @@ Ad esempio i dati forniti da un **AlboPOP** possono essere pubblicati su una **p
 
 <img src="/images/FeedRSS.svg" width="32" height="32"> Hai presente quest'immagine arancione che da quasi 20 anni vedi su moltissimi siti web? È l'icona dei feed RSS (`Really Simple Syndication`), una delle **modalità** più diffuse e **_standard_** di **pubblicazione** di **contenuti** sul web (puoi approfondire su [Wikipedia](https://it.wikipedia.org/wiki/RSS)).
 
-Abbiamo scelto questa modalità di pubblicazione proprio perché esiste da tanto tempo, perché è molto diffusa e _standard_ e di conseguenza esistono decine e decine di modi per usufruirne; per tutti i tipi di utenti e per ogni dispositivo di lettura.
+Abbiamo scelto questa modalità di pubblicazione proprio perché esiste da tanto tempo, perché è molto diffusa e _standard_ e di conseguenza esistono **decine di modi per usufruirne**; per tutti i tipi di utenti e per ogni dispositivo di lettura.
 
 ## Come posso usare un feed RSS per seguire l'AlboPOP della mia pubblica amministrazione?
 
@@ -46,11 +46,27 @@ Puoi cercare sul web una delle numerose guide che permettono di [**alimentare un
 
 ## Come creo un AlboPOP?
 
-Per creare un AlboPOP devi **scrivere un software** che **legga le pagine web dell'Albo Pretorio** che ti interessa e le **traduca** in un **feed rss**. Devi avere alcune nozioni base di programmazione ma puoi chiedere un supporto alla comunità **INSERIRE UN RIFERIMENTO**. Se sei già capace di programmare qui **INSERIRE UN RIFERIMENTO** trovi le **specifiche** che deve avere un **feed rss** per essere **conforme allo schema dati di AlboPOP**.
+Per creare un AlboPOP devi **scrivere un software** che **legga le pagine web dell'Albo Pretorio** che ti interessa e le **traduca** in un **feed RSS**. Devi avere alcune nozioni base di programmazione e puoi chiedere un supporto alla comunità tramite [uno di questi spazi](/discuti). 
+
+Per AlboPOP [Alessio Cimarelli](https://twitter.com/jenkin27) e [Giovanni Pirrotta](https://twitter.com/gpirrotta) hanno creato delle **specifiche** RSS **dedicate**: se quando crei il feed, le rispetti, fai il massimo, perché non soltanto hai creato la base per una modalità di fruizione più semplice, ma soprattutto hai arricchito di informazioni e dato struttura a informazioni che ne erano prive.
+
+Guarda ad esempio le informazioni - previste dallo schema - del feed del comune di Accumoli:
+
+```XML
+<category domain="http://albopop.it/specs/#channel-category-region">Lazio</category>
+<category domain="http://albopop.it/specs/#channel-category-municipality">Accumoli</category>
+<category domain="http://albopop.it/specs/#channel-category-name">Accumoli</category>
+<category domain="http://albopop.it/specs/#channel-category-uid">istat:057001</category>
+<category domain="http://albopop.it/specs/#channel-category-province">Rieti</category>
+<category domain="http://albopop.it/specs/#channel-category-longitude">13.247683</category>
+<category domain="http://albopop.it/specs/#channel-category-type">Comune</category>
+<category domain="http://albopop.it/specs/#channel-category-country">Italia</category>
+<category domain="http://albopop.it/specs/#channel-category-latitude">42.694141</category>
+```
 
 ## Come aggiungo un AlboPOP sul sito?
 
-Lo puoi fare in uno dei **modi seguenti** 
+Lo puoi fare in uno dei **modi seguenti**
 
 ### Compilando questo form
 
