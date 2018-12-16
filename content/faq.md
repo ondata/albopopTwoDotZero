@@ -74,11 +74,11 @@ Compila questo **form** [http://bit.ly/nuovoalbopop](http://bit.ly/nuovoalbopop)
 
 ### Facendo una Pull Request su GitHub
 
-Se sai usare GitHub, la cosa più semplice è partire ad esempio da [uno dei comuni esistenti](https://github.com/ondata/albopopTwoDotZero/tree/develop/content/comune) nel repository, usarlo come modello, e fare un PR con la creazione di un nuovo file con i dati del nuovo albo.
+Se sai usare **GitHub**, la cosa più semplice è partire ad esempio da [uno dei comuni esistenti](https://github.com/ondata/albopopTwoDotZero/tree/develop/content/comune) nel repository, usarlo come modello, e fare una **_pull request_** con la creazione di un nuovo file con i dati del nuovo albo.
 
 ## Cosa è un AlboPOP "ufficiale"?
 
 È l'albo di una Pubblica Amministrazione che ha prodotto al suo interno una delibera, un atto pubblico, ecc. in cui da notizia dell'adozione di questa modalità di pubblicazione. <br>Sono [ufficialmente POP](/ufficiale) ad esempio i Comuni di **Messina**, **Patti** (Messina), **San Giuseppe Jato** (Palermo) e **Cori** (Latina).
 
-Se lavori dentro la PA e vuoi farlo anche tu puoi prendere spunto da una delle delibere che trovi nelle pagine di questi comuni.
-Se sai usare **GitHub**, la cosa più semplice è partire ad esempio da [uno dei comuni esistenti](https://github.com/ondata/albopopTwoDotZero/tree/develop/content/comune) nel repository, usarlo come modello, e fare una **pull request** con la creazione di un nuovo file con i dati del nuovo albo.
+Se lavori dentro la PA e vuoi farlo anche tu, puoi prendere spunto da una delle delibere che trovi nelle pagine di questi comuni.
+
