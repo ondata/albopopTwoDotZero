@@ -46,9 +46,9 @@ Puoi cercare sul web una delle numerose guide che permettono di [**alimentare un
 
 ## Come creo un AlboPOP?
 
-Per creare un AlboPOP devi **scrivere un software** che **legga le pagine web dell'Albo Pretorio** che ti interessa e le **traduca** in un **feed RSS**. Devi avere alcune nozioni base di programmazione e puoi chiedere un supporto alla comunità tramite [uno di questi spazi](/discuti). 
+Per creare un AlboPOP devi **scrivere un software** che **legga le pagine web dell'Albo Pretorio** che ti interessa e le **traduca** in un **feed RSS**. Devi avere alcune nozioni base di programmazione o potresti avere supporto dalla comunità tramite [in uno di questi spazi di progetto](/discuti). 
 
-Per AlboPOP [Alessio Cimarelli](https://twitter.com/jenkin27) e [Giovanni Pirrotta](https://twitter.com/gpirrotta) hanno creato delle **specifiche** RSS **dedicate**: se quando crei il feed, le rispetti, fai il massimo, perché non soltanto hai creato la base per una modalità di fruizione più semplice, ma soprattutto hai arricchito di informazioni e dato struttura a informazioni che ne erano prive.
+Per AlboPOP [Alessio Cimarelli](https://twitter.com/jenkin27) e [Giovanni Pirrotta](https://twitter.com/gpirrotta) hanno creato delle **specifiche** RSS **dedicate**: se quando crei il feed, le rispetti, fai il massimo, perché non soltanto hai creato la base per una modalità di fruizione più semplice, ma soprattutto hai **arricchito** di **informazioni** e dato **struttura** a informazioni che ne erano prive.
 
 Guarda ad esempio le informazioni - previste dallo schema - del feed del comune di Accumoli:
 
