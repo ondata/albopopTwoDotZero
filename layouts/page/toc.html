@@ -16,7 +16,7 @@
             </div>
 
             <div class="row">
-                <div class="col-sm-6 sticker-box">
+                <div class="col-12 col-md-6 sticker-box">
                     <a href="{{ .Site.BaseURL }}ufficiale/">
                         <div class="card d-flex flex-row align-items-center">
                             <div class="card-img text-blue">{{ len (where .Site.RegularPages "Params.official" true) }}</div>
@@ -29,22 +29,22 @@
             </div>
 
             <div class="row">
-                <div class="col-sm-6 sticker-box">
+                <div class="col-12 col-md-6 sticker-box">
                     <a href="{{ .Site.BaseURL }}comune/">
                         <div class="card d-flex flex-row align-items-center">
                             <div class="card-img text-green">{{ len ( where (where .Site.RegularPages "Section" "comune") "Params.official" "!=" true ) }}</div>
                             <div class="card-body">
-                                <h2 class="card-title">I comuni inseriti dalla community</h2>
+                                <h2 class="card-title">Comuni inseriti dalla community</h2>
                             </div>
                         </div>
                     </a>
                 </div>
-                <div class="col-sm-6 sticker-box">
+                <div class="col-12 col-md-6 sticker-box">
                     <a href="{{ .Site.BaseURL }}altrepa/">
                         <div class="card d-flex flex-row align-items-center">
                             <div class="card-img text-red">{{ len ( where (where .Site.RegularPages "Section" "altrepa") "Params.official" "!=" true ) }}</div>
                             <div class="card-body">
-                                <h2 class="card-title">Le altre Pubbliche Amministrazioni POP</h2>
+                                <h2 class="card-title">Le altre PA POP</h2>
                             </div>
                         </div>
                     </a>
@@ -58,7 +58,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 text-box">
-                    <p><button type="button" class="btn btn-info call-to-action">Scopri come si aderisce ufficialmente ad AlboPOP</button></p>
+                    <p><button type="button" class="btn btn-info call-to-action">Scopri come si aderisce ufficialmente</button></p>
                     <h2>Le PA Ufficialmente POP</h2>
                     <p class="sh-text w-md-50">
                         Qualche comune ha deciso di aderire in maniera ufficiale ad AlboPOP dando un forte segnale di

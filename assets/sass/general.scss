@@ -17,6 +17,7 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
+
 h1 {
     font-size: 3.2rem;
     letter-spacing: -1px;
@@ -26,18 +27,25 @@ h1 {
 
     &.lettering {
 
-        font-size: 5.2rem;
+        font-size: 3.8rem;
         /*white-space: nowrap;*/
+        @media (min-width:1000px) {
+          font-size: 5.2rem;
+        }
 
         img, svg {
             position: relative;
-            top: -.75em;
-            left: -.5em;
+            top: -2.4rem;
+            left: -1rem;
+            width: 2rem;
+            @media (min-width:1000px) {
+              width: 4rem;
+            }
         }
-
     }
-
 }
+
+
 
 h2 {
 
@@ -54,7 +62,6 @@ h3, h4, h5, h6 {
     font-size: 1.8rem;
     letter-spacing: -0.5px;
     line-height: 2.6rem;
-
 
 }
 
@@ -88,6 +95,7 @@ p, li {
 
 }
 
+
 h1, h2, h3, h4, h5, h6 {
 
     a,
@@ -96,7 +104,7 @@ h1, h2, h3, h4, h5, h6 {
     a:focus,
     a:visited {
         color: $red;
-        text-decoration: none;
+        text-decoration: underline;
     }
 
 }

@@ -120,5 +120,12 @@ article ul,
 }
 
 article ul {
+
+  @media (min-width:768px) {
+
     padding-left: 40px !important;
+
+  }
+
+
 }

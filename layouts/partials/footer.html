@@ -5,7 +5,8 @@
                 <div class="col-12 col-md-6 align-self-center">
                     {{ partial "lettering" .Site }}
                 </div>
-                <div class="col-6 col-md-3">
+
+                <div class="col-12 col-md-3">
                     <nav class="navbar">
                         <div class="justify-content-between">
                             <ul class="ml-auto navbar-nav">
@@ -41,6 +42,13 @@
                         </div>
                     </nav>
                 </div>
+            </div>
+            <div class="row">
+              <nav class="navbar">
+                  <a href="mailto:info@albopo.it" class="nav-link">{{ readFile "static/images/icon-mail.svg" | safeHTML }}</a>
+                  <a href="https://github.com/ondata/albopopTwoDotZero" class="nav-link">{{ readFile "static/images/icon-github.svg" | safeHTML }}</a>
+                  <a href="https://www.facebook.com/groups/albopop" class="nav-link">{{ readFile "static/images/icon-facebook.svg" | safeHTML }}</a>
+              </nav>
             </div>
         </div>
     </section>

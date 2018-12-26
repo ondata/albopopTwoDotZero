@@ -36,7 +36,16 @@ section {
     }
 
     .ab-content {
-      padding-bottom: 40px;
+      padding: 0 1.4em 3em 1.4em;
+
+      @media (min-width: 768px) {
+        padding: 0 0 3em 10vw;
+      }
+        img {
+          margin-top: 1em;
+          width: 12em;
+        }
+
     }
 
 }
