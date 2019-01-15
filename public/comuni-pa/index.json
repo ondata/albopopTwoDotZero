@@ -838,10 +838,6 @@
     },
     
     {
-        "title": "Treviso","type": "comune","permalink": "http://dev.albopop.it/comune/treviso/","accessible":true,"author":["Carlo Felice Dalla Pasqua (https://twitter.com/carlofelice)","Andrea Borruso (https://twitter.com/aborruso)"],"draft":false,"facebook":null,"image":"c_l407.svg","ipa":"c_l407","iscjklanguage":false,"istat":26086,"lat":45.672222,"lng":12.242222,"official":false,"original":"http://albo.comune.treviso.it/publishing/AP/index.do?org=treviso","pdf":null,"provincia":"Treviso","regione":"Veneto","repo":null,"rss":"http://feeds.feedburner.com/AlboPretorioTreviso","standard":false,"tags":[],"telegram":"https://t.me/albopoptreviso","title":"Treviso","twitter":null
-    },
-    
-    {
         "title": "Tricase","type": "comune","permalink": "http://dev.albopop.it/comune/tricase/","accessible":true,"author":"Francesco Piero Paolicelli alias Piersoft (https://twitter.com/Piersoft)","draft":false,"facebook":null,"image":"c_l419.png","ipa":"c_l419","iscjklanguage":false,"istat":75088,"lat":39.933333,"lng":18.366667,"official":false,"original":"http://www.comune.tricase.le.it/item/albo-pretorio?opz=pubblicati","pdf":null,"provincia":"Lecce","regione":"Puglia","repo":null,"rss":"http://feeds.feedburner.com/Alpopoptricase","standard":false,"tags":[],"telegram":"https://telegram.me/comunetricase","title":"Tricase","twitter":"https://twitter.com/comtricasenews"
     },
     
