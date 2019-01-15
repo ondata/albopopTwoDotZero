@@ -1,5 +1,6 @@
 ---
 title: Albo POP va online e si inizia con il comune di Bagheria
+date: 2015-11-09
 ---
 
 Ho da tempo il pallino di rendere più popolari e visibili gli Albi Pretori comunali, perché si tratta di una preziosa raccolta di dati che purtroppo non godono di tutta la luce che meriterebbero. Un anno fa provai a dedicarmi a [quello](http://albopretorio.comune.palermo.it/albopretorio/jsp/home.jsp?modo=info&info=servizi.jsp&ARECOD=70&SERCOD=-1&sportello=albopretorio) del **comune di Palermo**, ma le relative pagine web di questo comune **non erano** (e non sono) **adeguate** ad un'operazione di questo tipo: basti pensare che non è possibile tramite un URL univoco aprire ad esempio la pagina di un avviso di gara. Per questo riposi le mie idee nel cassetto.

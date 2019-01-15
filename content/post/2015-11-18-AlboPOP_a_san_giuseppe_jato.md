@@ -1,5 +1,6 @@
 ---
 title: Albo POP a San Giuseppe Jato? Non ci posso credere!
+date: 2015-11-18
 ---
 
 > Questo post di **[Giuseppe Ragusa](https://twitter.com/giuragu)** è pubblicato originariamente su [Open Data Sicilia](http://opendatasicilia.it/?p=1081).

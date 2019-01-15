@@ -1,5 +1,6 @@
 ---
 title: A San Giuseppe Jato il I° Albo POP Happy hour
+date: 2015-12-15
 ---
 
 *di [@giuragu](https://twitter.com/giuragu)*

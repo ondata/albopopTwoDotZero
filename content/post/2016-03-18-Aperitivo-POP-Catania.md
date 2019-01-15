@@ -1,5 +1,6 @@
 ---
 title: Primo Aperitivo POP a Catania
+date: 2016-03-18
 ---
 
 *di Cristiano Longo*

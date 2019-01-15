@@ -21,6 +21,7 @@ image: c_l407.svg
 accessible: true
 standard: false
 official: false
+draft: true
 ---
 
 La pagina dell'albo pretorio del **Comune di Treviso** è questa: [http://albo.comune.treviso.it/publishing/AP/index.do?org=treviso](http://albo.comune.treviso.it/publishing/AP/index.do?org=treviso)

@@ -1,5 +1,6 @@
 ---
 title: Albo POP a Barletta, "apri e condividi le tue conoscenze"
+date: 2016-03-24
 ---
 
 _di **[Rinex83](https://github.com/Rinux83)**_

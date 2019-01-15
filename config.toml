@@ -4,6 +4,14 @@ theme = "albopop"
 copyright = "CC-BY 4.0 Ondata"
 languageCode = "it"
 defaultContentLanguage = "it"
+
+[menu]
+  [[menu.main]]
+    identifier = "github"
+    name = "Github"
+    url = "https://github.com/ondata/albopopTwoDotZero"
+    weight = -100
+
 [params]
     mainSections = ["post"]
     [params.colors]
@@ -26,8 +34,20 @@ defaultContentLanguage = "it"
     [params.fonts]
         title = "'Montserrat', sans-serif"
         paragraph = "'Georgia', serif"
+    [params.labels]
+        [params.labels.accessible]
+            name = "accessible"
+            title = "Accessibile"
+            description = "Per classificare chi pubblica scansioni di PDF"
+        [params.labels.standard]
+            name = "standard"
+            title = "Standard"
+            description = "Per chi è compliant specifiche alboPOP"
+        [params.labels.official]
+            name = "official"
+            title = "Ufficiale"
+            description = "Per chi ha emesso una delibera ufficiale"
 
 [permalinks]
   altrepa = "/altrepa/:filename"
   comune = "/comune/:filename"
-        

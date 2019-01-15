@@ -1,5 +1,6 @@
 ---
 title: Un post per spiegare come si pubblica sul blog di Albo POP
+date: 2016-01-06
 ---
 
 *di [@aborruso](https://twitter.com/aborruso)*

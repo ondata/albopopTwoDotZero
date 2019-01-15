@@ -1,18 +1,29 @@
-<div class="list-item mb-4 mt-4 pb-4 border-bottom">
+<div class="
+    list-item mb-4 mt-4 pb-4 border-bottom
+    provincia-{{ md5 (or (.Param "provincia") "Altro") }}
+    regione-{{ md5 (or (.Param "regione") "Altro") }}
+    {{ range .Param "Tags" }} tag-{{ md5 . }} {{ end }}
+    {{ if .Param "accessible" }} status-accessible {{ end }}
+    {{ if .Param "standard" }} status-standard {{ end }}
+    {{ if .Param "official" }} status-official {{ end }}
+">
     <a href="{{ .RelPermalink }}">
-        <div class="d-flex flex-column flex-sm-row align-items-center text-center text-sm-left">
+        <div class="d-flex flex-column {{ if ne .Type "post" }}flex-sm-row align-items-center{{ end }} text-center text-sm-left">
             {{ partial "item-image" . }}
             <div class="item-title">
-                <p class="item-type">{{ or (.Param "institution") .Type }}</p>
+                <p class="item-type">{{ or (.Param "institution") .Type }} {{ if isset .Params "date" }} del {{ .Date.Day }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Year }} {{ end }}</p>
                 <h3 class="item-name">{{ .Title }}</h3>
+                {{ if eq .Type "post" }}<p>{{ .Summary }}</p>{{ end }}
             </div>
             {{ if and (isset .Params "provincia") (isset .Params "regione") }}
             <div class="item-location flex-shrink-1 align-self-sm-end mr-sm-auto"><nobr>{{ .Param "provincia" }}</nobr>, <nobr>{{ .Param "regione" }}</nobr></div>
             {{ end }}
+            {{ if ne .Type "post" }}
             <div class="item-icon d-none d-sm-block">
                 <!--<img src="{{ .Site.BaseURL }}images/icon-tag.svg">-->
                 {{ readFile "static/images/icon-tag.svg" | safeHTML }}
             </div>
+            {{ end }}
             {{ partial "item-labels" . }}
         </div>
     </a>

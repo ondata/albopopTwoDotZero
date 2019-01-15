@@ -1,5 +1,6 @@
 ---
 title: Albo POP entra nei Piani Triennali per la Trasparenza
+date: 2016-01-14
 ---
 
 di [@giuragu](https://twitter.com/giuragu) e [@aborruso](https://twitter.com/aborruso)

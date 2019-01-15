@@ -1,5 +1,6 @@
 ---
 title: Un albo pretorio abbandonato, quello di Castellammare del Golfo
+date: 2016-02-12
 ---
 
 di [@aborruso](https://twitter.com/aborruso)

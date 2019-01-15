@@ -1,12 +1,12 @@
 <div class="item-labels">
     {{ if or (isset .Params "accessibile") (isset .Params "standard") }}
     <p class="item-features">
-        <span class="badge badge-light item-accessible {{ if not (.Params.accessible) }}invisible{{ end }}">
+        <span class="badge badge-light item-accessible {{ if not (.Params.accessible) }}invisible{{ end }}" title="{{ .Site.Params.Labels.accessible.description }}">
             <!--<img src="{{ .Site.BaseURL }}images/tag-accessibile.svg">-->
             {{ readFile "static/images/tag-accessibile.svg" | safeHTML }}
             Accessibile
         </span>
-        <span class="badge badge-light item-standard {{ if not (.Params.standard) }}invisible{{ end }}">
+        <span class="badge badge-light item-standard {{ if not (.Params.standard) }}invisible{{ end }}" title="{{ .Site.Params.Labels.standard.description }}">
             <!--<img src="{{ .Site.BaseURL }}images/tag-standard.svg">-->
             {{ readFile "static/images/tag-standard.svg" | safeHTML }}
             AlboPOP standard
