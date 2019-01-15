@@ -4,7 +4,8 @@
         <h4>{{ i18n $taxonomyname }}</h4>
         <p class="item-tags">
             {{ range $name, $value := $taxonomy }}
-            <a class="badge badge-primary" href="{{ printf "/%s/" $taxonomyname | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>
+            <!--<a class="badge badge-primary" href="{{ printf "/%s/" $taxonomyname | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>-->
+            <span class="badge badge-primary">{{ $name }}</span>
             {{ end }}
         </p>
         {{ end }}

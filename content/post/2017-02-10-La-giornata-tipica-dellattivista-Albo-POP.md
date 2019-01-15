@@ -1,5 +1,6 @@
 ---
 title: La giornata tipica dell'attivista Albo POP
+date: 2017-02-10
 ---
 
 *di Cristiano Longo*

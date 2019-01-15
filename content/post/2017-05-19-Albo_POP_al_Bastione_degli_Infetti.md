@@ -1,5 +1,6 @@
 ---
 title: Banchetto Albo POP al Bastione degli Infetti
+date: 2017-05-19
 ---
 
 *di Cristiano Longo*

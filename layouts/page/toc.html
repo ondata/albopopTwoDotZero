@@ -62,7 +62,7 @@
                     <h2>Le PA Ufficialmente POP</h2>
                     <p class="sh-text w-md-50">
                         Qualche comune ha deciso di aderire in maniera ufficiale ad AlboPOP dando un forte segnale di
-                        trasparenza e innovazione ai cittadini. Ecco chi sono.
+                        trasparenza e innovazione ai cittadini. Ecco quali sono.
                     </p>
                     {{ range where .Site.RegularPages "Params.official" true }}
                     {{ partial "list-item" . }}
@@ -78,8 +78,8 @@
                 <div class="col-12 text-box">
                     <h2>I Comuni inseriti dalla Community</h2>
                     <p class="sh-text w-md-50">
-                        Qualche comune ha deciso di aderire in maniera ufficiale ad AlboPOP dando un forte segnale di
-                        trasparenza e innovazione ai cittadini. Ecco chi sono
+                        Molti comuni sono stati resi Pop grazie al lavoro di attivisti che hanno scritto e mantengono piccoli software
+                        in grado di produrre un feed RSS dalla pagina statica del sito del commune. Ecco quali sono.
                     </p>
                     {{ range where (where .Site.RegularPages "Section" "comune") "Params.official" "!=" true }}
                     {{ partial "list-item" . }}
@@ -96,7 +96,7 @@
                     <h2>Altre Pubbliche Amministrazioni POP</h2>
                     <p class="sh-text w-md-50">
                         Non soltanto i comuni hanno l'obbligo di pubblicare l'Albo Pretorio, ma tutti gli Enti
-                        Pubblici! Le informazioni di questi enti possono essere davvero preziose da conoscere.
+                        Pubblici! Anche le informazioni di questi enti possono essere davvero preziose da conoscere.
                     </p>
                     {{ range where (where .Site.RegularPages "Section" "altrepa") "Params.official" "!=" true }}
                     {{ partial "list-item" . }}

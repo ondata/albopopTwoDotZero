@@ -1,5 +1,6 @@
 ---
 title: La Sicilia pubblica un articolo sull'AlboPOP di Pietraperzia
+date: 2015-12-16
 ---
 
 *di [@aborruso](https://twitter.com/aborruso)*

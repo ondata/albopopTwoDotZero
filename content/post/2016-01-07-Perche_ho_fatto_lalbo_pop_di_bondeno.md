@@ -1,5 +1,6 @@
 ---
 title: Perché ho fatto l'AlboPOP di Bondeno
+date: 2016-01-07
 coverImage: covers/bondeno.jpg
 coverColor: blue
 ---

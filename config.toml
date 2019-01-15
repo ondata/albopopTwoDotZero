@@ -4,6 +4,12 @@ theme = "albopop"
 copyright = "CC-BY 4.0 Ondata"
 languageCode = "it"
 defaultContentLanguage = "it"
+[menu]
+  [[menu.main]]
+    identifier = "github"
+    name = "Github"
+    url = "https://github.com/ondata/albopopTwoDotZero"
+    weight = -100
 [params]
     mainSections = ["post"]
     [params.colors]

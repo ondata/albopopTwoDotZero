@@ -1,5 +1,6 @@
 ---
 title: La mappa dei comuni con @AlboPOP
+date: 2016-01-26
 ---
 
 di [@aborruso](https://twitter.com/aborruso)

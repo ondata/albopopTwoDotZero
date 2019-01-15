@@ -1,5 +1,6 @@
 ---
 title: Il secondo Albo POP è quello di Cento
+date: 2015-11-10
 ---
 
 La cosa bella della rete sono gli effetti domino inaspettati.

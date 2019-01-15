@@ -1,5 +1,6 @@
 ---
 title: Pedara2015, la presentazione dell'albo POP di Pedara
+date: 2015-12-30
 ---
 
 *di [@aborruso](https://twitter.com/aborruso)*

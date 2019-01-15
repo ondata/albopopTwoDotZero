@@ -1,5 +1,6 @@
 ---
 title: Il primo albo pop per una città metropolitana, Catania
+date: 2016-11-02
 ---
 
 *di Cristiano Longo*

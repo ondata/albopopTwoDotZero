@@ -27,7 +27,7 @@ Gli [Albi Pretori](https://it.wikipedia.org/wiki/Albo_pretorio) sono delle **pag
 
 ## Cosa è un Albo Pretorio POP?
 
-È un Albo Pretorio che puoi seguire in modalità semplice e diversa: non sarai tu a leggerlo, ma **sarà lui a scriverti** 😉
+È un Albo Pretorio che puoi seguire in modalità semplice e diversa: non sarai tu a leggerlo, ma **sarà lui a scriverti** 😉.
 
 Per farlo basta che gli atti siano pubblicati anche come **Feed RSS**: a quel punto potrai iscriverti in uno dei tanti modi possibili.
 
@@ -41,14 +41,14 @@ Abbiamo scelto questa modalità di pubblicazione proprio perché esiste da tanto
 
 ## Come posso usare un feed RSS per seguire un AlboPOP?
 
-Puoi cercare sul web una delle numerose guide che permettono di [**alimentare un canale Telegram con un feed rss**](https://www.google.it/search?q=alimentare+un+canale+Telegram+con+un+feed+rss&source=lnt&tbs=qdr:y&sa=X&ved=0ahUKEwi--JflmKTfAhXF2aQKHS9bBZsQpwUIJQ&biw=1920&bih=1120), oppure [**come alimentare una pagina Facebook con un feed rss**](https://www.google.it/search?biw=1920&bih=1120&tbs=qdr%3Ay&ei=SDAWXLOlK5D4kwW1qbOIDw&q=pagina+Facebook+da+un+feed+rss&oq=pagina+Facebook+da+un+feed+rss&gs_l=psy-ab.12...5235.8157..10085...0.0..0.145.407.0j3......0....1..gws-wiz.urp9zsEKu1c) o anche come ricevere via email [**un riepilogo giornaliero delle notizie pubblicate**](https://www.google.it/search?biw=1920&bih=1120&tbs=qdr%3Ay&ei=fjAWXIf0CM6SsAeTy6WwAQ&q=ifttt+rss+to+email+digest&oq=ifttt+rss+email&gs_l=psy-ab.1.2.0i203j0i22i30l3.63727.71497..74036...0.0..0.158.2030.0j15....2..0....1..gws-wiz.......0j35i39j0i131j0i67j0i20i263.nHHlT9TaaZA). Naturalmente [**la cosa più semplice è usare un lettore di feed rss**](https://www.google.it/search?biw=1920&bih=1120&tbs=qdr%3Ay&ei=yDAWXP7ONobhkgXT1bC4CA&q=lettore+feed+rss&oq=lettore+feed+rss&gs_l=psy-ab.3..0l3j0i22i30l3.103170.107036..107420...0.0..0.157.2154.0j16....2..0....1..gws-wiz.......35i39j0i131j0i67j0i131i67j0i20i263.NRS7xIFc3vs) :)
+Puoi cercare sul web una delle numerose guide che permettono di [**alimentare un canale Telegram con un feed rss**](https://www.google.it/search?q=alimentare+un+canale+Telegram+con+un+feed+rss&source=lnt&tbs=qdr:y&sa=X&ved=0ahUKEwi--JflmKTfAhXF2aQKHS9bBZsQpwUIJQ&biw=1920&bih=1120), oppure [**come alimentare una pagina Facebook con un feed rss**](https://www.google.it/search?biw=1920&bih=1120&tbs=qdr%3Ay&ei=SDAWXLOlK5D4kwW1qbOIDw&q=pagina+Facebook+da+un+feed+rss&oq=pagina+Facebook+da+un+feed+rss&gs_l=psy-ab.12...5235.8157..10085...0.0..0.145.407.0j3......0....1..gws-wiz.urp9zsEKu1c) o anche come ricevere via email [**un riepilogo giornaliero delle notizie pubblicate**](https://www.google.it/search?biw=1920&bih=1120&tbs=qdr%3Ay&ei=fjAWXIf0CM6SsAeTy6WwAQ&q=ifttt+rss+to+email+digest&oq=ifttt+rss+email&gs_l=psy-ab.1.2.0i203j0i22i30l3.63727.71497..74036...0.0..0.158.2030.0j15....2..0....1..gws-wiz.......0j35i39j0i131j0i67j0i20i263.nHHlT9TaaZA). Naturalmente [**la cosa più semplice è usare un lettore di feed rss**](https://www.google.it/search?biw=1920&bih=1120&tbs=qdr%3Ay&ei=yDAWXP7ONobhkgXT1bC4CA&q=lettore+feed+rss&oq=lettore+feed+rss&gs_l=psy-ab.3..0l3j0i22i30l3.103170.107036..107420...0.0..0.157.2154.0j16....2..0....1..gws-wiz.......35i39j0i131j0i67j0i131i67j0i20i263.NRS7xIFc3vs) :).
 
 
 ## Come creo un AlboPOP?
 
-Per creare un AlboPOP devi **scrivere un software** che **legga le pagine web dell'Albo Pretorio** che ti interessa e le **traduca** in un **feed RSS**. Devi avere alcune nozioni base di programmazione o potresti avere supporto dalla comunità tramite [in uno di questi spazi di progetto](/discuti). 
+Per creare un AlboPOP devi **scrivere un software** che **legga le pagine web dell'Albo Pretorio** che ti interessa e le **traduca** in un **feed RSS**. Devi avere alcune nozioni base di programmazione o potresti avere supporto dalla comunità tramite [uno di questi spazi di progetto](/discuti). 
 
-Per AlboPOP [Alessio Cimarelli](https://twitter.com/jenkin27) e [Giovanni Pirrotta](https://twitter.com/gpirrotta) hanno creato delle **specifiche** RSS **dedicate**: se quando crei il feed, le rispetti, fai il massimo, perché non soltanto hai creato la base per una modalità di fruizione più semplice, ma soprattutto hai **arricchito** di **informazioni** e dato **struttura** a informazioni che ne erano prive.
+Per AlboPOP [Alessio Cimarelli](https://twitter.com/jenkin27) e [Giovanni Pirrotta](https://twitter.com/gpirrotta) hanno creato delle [**specifiche** RSS **dedicate**](/specs/): se quando crei il feed, le rispetti, fai il massimo, perché non soltanto hai creato la base per una modalità di fruizione più semplice, ma soprattutto hai **arricchito** di **informazioni** e dato **struttura** a informazioni che ne erano prive.
 
 Guarda ad esempio le informazioni - previste dallo schema - del feed del comune di Accumoli:
 
@@ -66,11 +66,11 @@ Guarda ad esempio le informazioni - previste dallo schema - del feed del comune 
 
 ## Come aggiungo un AlboPOP sul sito?
 
-Lo puoi fare in uno dei **modi seguenti**
+Lo puoi fare in uno dei **modi seguenti**.
 
-### Compilando questo form
+### Compilando un form
 
-Compila questo **form** [http://bit.ly/nuovoalbopop](http://bit.ly/nuovoalbopop), inserendo il maggior numero di informazioni possibili. Una volta fatto, faremo una verifica e l'inseriremo online.
+Compila questo **form**: [http://bit.ly/nuovoalbopop](http://bit.ly/nuovoalbopop). Inserisci il maggior numero di informazioni possibili e, una volta fatto, faremo una verifica e l'inseriremo online.
 
 ### Facendo una Pull Request su GitHub
 
@@ -78,7 +78,7 @@ Se sai usare **GitHub**, la cosa più semplice è partire ad esempio da [uno dei
 
 ## Cosa è un AlboPOP "ufficiale"?
 
-È l'albo di una Pubblica Amministrazione che ha prodotto al suo interno una delibera, un atto pubblico, ecc. in cui da notizia dell'adozione di questa modalità di pubblicazione. <br>Sono [ufficialmente POP](/ufficiale) ad esempio i Comuni di **Messina**, **Patti** (Messina), **San Giuseppe Jato** (Palermo) e **Cori** (Latina).
+È l'albo di una Pubblica Amministrazione che ha prodotto al suo interno una delibera, un atto pubblico, ecc. in cui da notizia dell'adozione di questa modalità di pubblicazione. Sono [ufficialmente POP](/ufficiale) ad esempio i Comuni di **Messina**, **Patti** (Messina), **San Giuseppe Jato** (Palermo) e **Cori** (Latina).
 
 Se lavori dentro la PA e vuoi farlo anche tu, puoi prendere spunto da una delle delibere che trovi nelle pagine di questi comuni.
 

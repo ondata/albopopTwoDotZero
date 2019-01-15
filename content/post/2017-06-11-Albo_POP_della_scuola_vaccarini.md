@@ -1,5 +1,6 @@
 ---
 title: Albo POP dell'Istituto d'Istruzione Superiore G.B. Vaccarini Catania
+date: 2017-06-11
 ---
 
 *di Cristiano Longo*
