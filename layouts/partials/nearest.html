@@ -1,0 +1,31 @@
+{{ $num_recent_posts := default 5 .Site.Params.sidebar.num_recent_posts }}
+
+{{ $posts := where (where .Site.RegularPages "Section" "in" "comune") "Title" "not in" .Title }}
+{{ $near_posts := first $num_recent_posts ( shuffle ( where $posts "Params.regione" "in" .Params.regione ) )}}
+{{ if gt (len $near_posts) 0 }}
+<section>
+    <h4>Nella stessa regione</h4>
+    <ol class="list-unstyled">
+        {{ range $near_posts }}
+        <li>
+            <a href="{{.RelPermalink}}">{{.Title | markdownify }}</a>
+        </li>
+        {{ end }}
+    </ol>
+</section>
+{{ end }}
+
+{{ $posts := where (where .Site.RegularPages "Section" "in" "comune") "Title" "not in" .Title }}
+{{ $near_posts := first $num_recent_posts ( shuffle ( where $posts "Params.tags" "intersect" .Params.tags ) )}}
+{{ if gt (len $near_posts) 0 }}
+<section>
+    <h4>Con gli stessi tag</h4>
+    <ol class="list-unstyled">
+        {{ range $near_posts }}
+        <li>
+            <a href="{{.RelPermalink}}">{{.Title | markdownify }}</a>
+        </li>
+        {{ end }}
+    </ol>
+</section>
+{{ end }}

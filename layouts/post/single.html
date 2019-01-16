@@ -7,11 +7,9 @@
                     <header>
                         <h1>{{ .Title | markdownify }}</h1>
                         <hr>
-                        {{ partial "post-date" . }}
-                        {{ partial "post-tags" . }}
-                        {{ partial "post-categories" . }}
                     </header>
                     {{ .Content }}
+                    {{ if isset .Params "date" }} {{ .Date.Day }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Year }} {{ end }}
 
                     {{ if .IsTranslated }}
                     <h4>{{ i18n "translations" }}</h4>
