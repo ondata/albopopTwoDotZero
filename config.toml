@@ -51,3 +51,6 @@ defaultContentLanguage = "it"
 [permalinks]
   altrepa = "/altrepa/:filename"
   comune = "/comune/:filename"
+
+[outputs]
+    page = ["HTML","JSON"]
