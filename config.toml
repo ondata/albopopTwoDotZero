@@ -14,6 +14,7 @@ defaultContentLanguage = "it"
 
 [params]
     mainSections = ["post"]
+    images = ["/images/share.png"]
     [params.colors]
         red = "#ff0000"
         lred = "#ffb8b8"
