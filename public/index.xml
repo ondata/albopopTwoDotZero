@@ -856,9 +856,11 @@ Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://dev.albopop.it/chi-siamo/</guid>
-      <description>Ciao, sono Andrea Borruso e ho il pallino per gli Albi Pretori AlboPOP nasce da una mia idea, grazie a degli stimoli indiretti dalla comunità di Open Data Sicilia. Grazie all&amp;rsquo;Associazione Ondata è cresciuto e l&amp;rsquo;obiettivo è quello di farlo diventare adulto.
-Ora siamo molti di più: semplici cittadini o dipendenti pubblici e speriamo ti unirai anche tu.
-Ringraziamenti È un progetto per la cui storia ci sono tanti grazie da dire e ne dimenticherò probabilmente alcuni.</description>
+      <description>Ciao, sono Andrea Borruso e ho il pallino per gli Albi Pretori Il progetto AlboPOP nasce da una mia idea di alcuni anni fa, nata per rispondere a un richiesta fatta nel gruppo Open Data Sicilia.
+Grazie all&amp;rsquo;Associazione Ondata è cresciuto e l&amp;rsquo;obiettivo è quello di farlo diventare adulto.
+Ad animare questo spazio siamo semplici cittadini o dipendenti pubblici e speriamo ti unirai anche tu.
+
+Chi c&amp;rsquo;è in &amp;ldquo;cucina&amp;rdquo; Nel nuovo AlboPOP diverse persone, con le mani ancora sporche di farina e con la voglia di mangiare e cucinare ancora insieme (grazie ragazzi):</description>
     </item>
     
     <item>
@@ -2071,6 +2073,19 @@ Autore: Marco Acorte</description>
       <description>La pagina dell&amp;rsquo;albo pretorio del Comune di Rignano Flaminio è questa: http://albo.studiok.it/rignanoflaminio/albo/index.php
 Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
  su un canale Telegram https://telegram.me/RignanoFL; su un feed FeedBurner http://feeds.feedburner.com/RignanoFL.  Autore: Vincy85</description>
+    </item>
+    
+    <item>
+      <title>Ringraziamenti</title>
+      <link>http://dev.albopop.it/ringraziamenti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.albopop.it/ringraziamenti/</guid>
+      <description>AlboPOP ha tanti &amp;ldquo;grazie&amp;rdquo; che è doveroso palesare (e ne dimenticheremo sicuramente qualcuno).
+Grazie a Cristiano Longo e Francesco Paolicelli per la creazione di diversi albi e per la spinta e il sostegno dato.
+Grazie a Matteo Fortini per aver realizzato uno script, che ha consentito di creare i feed RSS di molti albi pretori.
+Grazie ad Alessio Cimarelli e Giovanni Pirrotta per il lavoro di definizione delle specifiche.
+E infine grazie a tutti quelli che si sono spesi in modo diretto e indiretto per creare un albo pretorio POP.</description>
     </item>
     
     <item>
