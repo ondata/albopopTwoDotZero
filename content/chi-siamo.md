@@ -30,4 +30,4 @@ Con noi anche **Roberto Battistelli** di [SemplicePA](http://www.semplicepa.it/)
 
 ---
 
-Anche il vecchio progetto hai i suoi [doverosi grazie](./ringraziamenti).
+Anche il vecchio progetto hai i suoi [doverosi grazie](/ringraziamenti).
