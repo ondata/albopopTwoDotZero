@@ -26,7 +26,7 @@ Nel **nuovo AlboPOP** diverse persone, con le mani ancora sporche di farina e co
 - [**Alessio Cimarelli**](https://twitter.com/jenkin27), che tiene la "cazzuola" in mano e fa stare in piedi la struttura;
 - [**Lorenzo Perone**](https://twitter.com/lorenzo_perone), che è un altro che vuole "fare durare e dare spazio" ad AlboPOP.
 
-Con noi anche **Roberto Battistelli** di [SemplicePA](http://www.semplicepa.it/), che ha generato il feed RSS di diversi albi.
+Con noi anche **Roberto Battistelli** di [SemplicePA](http://www.semplicepa.it/), a cui si deve la creazione dei feed RSS di diversi albi.
 
 ---
 
