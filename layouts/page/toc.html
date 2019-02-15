@@ -67,6 +67,7 @@
                             $(document).ready(function() {
                                 $('#datiAlbi').DataTable( {
                                     "lengthChange": false,
+                                    "deferRender": true,
                                     "pagingType": "simple",
                                     "ajax": "/data.txt",
                                     "columnDefs": [ {
