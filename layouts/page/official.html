@@ -11,7 +11,11 @@
                             <h1 class="blog-post-title">{{ .Title }}</h1>
                             <hr>
                         </header>    
-        
+                        <p class="sh-text w-md-100">
+                            Qualche comune ha deciso di aderire in maniera ufficiale ad AlboPOP dando un forte segnale di
+                            trasparenza e innovazione ai cittadini. Ecco quali sono.
+                        </p>
+                        <p><button type="button" class="btn btn-info call-to-action">Scopri come si aderisce ufficialmente</button></p>
                         {{ $paginator := .Paginate (where .Site.RegularPages "Params.official" true) }}
                         {{ range $paginator.Pages }}
 
