@@ -5,6 +5,8 @@ type: "page"
 menu:
     secondary:
         weight: -141
+images:
+- /images/share.png
 ---
 
 La _community_ di AlboPOP è fatta da chi **crea** un **albo** pretorio POP, **scrive** **_tutorial_** sul come crearne uno, ne **pubblica** uno **ufficiale** per la propria Pubblica Amministrazione, **fa passaparola** sul progetto, ecc.

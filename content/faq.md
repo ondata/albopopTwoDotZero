@@ -5,6 +5,8 @@ type: "page"
 menu:
     secondary:
         weight: -140
+images:
+- /images/share.png
 ---
 
 <!-- TOC -->

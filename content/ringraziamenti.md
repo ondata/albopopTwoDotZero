@@ -2,6 +2,8 @@
 title: "Ringraziamenti"
 draft: false
 type: "page"
+images:
+- /images/share.png
 ---
 
 AlboPOP ha tanti "**grazie**" che è doveroso palesare (e ne dimenticheremo sicuramente qualcuno).

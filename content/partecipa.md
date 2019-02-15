@@ -6,4 +6,6 @@ layout: "community"
 menu:
     main:
         weight: -120
+images:
+- /images/share.png
 ---

@@ -13,6 +13,8 @@ menu:
     secondary:
         name: "Mappa"
         weight: -120
+images:
+- /images/share.png
 ---
 
 Tutte le istituzioni con Albi Pop attivi: in verde i comuni, in rosso le altre Pubbliche Amministrazione, la stella indica gli albi ufficiali.

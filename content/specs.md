@@ -6,6 +6,8 @@ menu:
     secondary:
         name: "Specifiche"
         weight: -130
+images:
+- /images/share.png
 ---
 
 Gli scraper di AlboPOP producono un [feed RSS](/feedrss/) il cui formato standard segue delle

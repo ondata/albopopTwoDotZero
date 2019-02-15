@@ -6,6 +6,8 @@ layout: "about"
 menu:
     main:
         weight: -130
+images:
+- /images/share.png
 ---
 
 ## Ciao, sono [Andrea Borruso](https://twitter.com/aborruso) e ho il pallino per gli Albi Pretori

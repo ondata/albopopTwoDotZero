@@ -10,4 +10,6 @@ menu:
     main:
         identifier: "comuni-pa"
         weight: -140
+images:
+- /images/share.png
 ---
