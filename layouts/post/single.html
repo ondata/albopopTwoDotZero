@@ -8,9 +8,10 @@
                         <h1>{{ .Title | markdownify }}</h1>
                         <hr>
                     </header>
+                    <div class="metapost">{{ if isset .Params "date" }} {{ .Date.Day }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Year }} {{ end }} | {{ if isset .Params "author" }}
+                        {{ index .Params "author" }}
+                        {{ end }}</div>
                     {{ .Content }}
-                    {{ if isset .Params "date" }} {{ .Date.Day }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Year }} {{ end }}
-
                     {{ if .IsTranslated }}
                     <h4>{{ i18n "translations" }}</h4>
                     <ul>
@@ -31,3 +32,4 @@
     </section>
 </article>
 {{ end }}
+
