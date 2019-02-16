@@ -1112,4 +1112,8 @@
     <loc>http://dev.albopop.it/comune/visso/</loc>
   </url>
   
+  <url>
+    <loc>http://dev.albopop.it/data/index.json</loc>
+  </url>
+  
 </urlset>
