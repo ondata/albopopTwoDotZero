@@ -1,0 +1,8 @@
+{"data":[
+    {{ $pages := union ( where .Site.RegularPages "Section" "comune") (where .Site.RegularPages "Section" "altrepa")  }}
+    {{ range $index, $page := $pages }}
+    [
+        "{{ $page.Title }}","{{ $page.Permalink }}"
+        ]{{ if ne $index (sub (len $pages) 1) }},{{ end }}
+    {{ end }}
+]}
