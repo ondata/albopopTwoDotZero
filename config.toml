@@ -1,4 +1,4 @@
-baseURL = "http://dev.albopop.it/"
+baseURL = "/"
 title = "AlboPOP"
 theme = "albopop"
 copyright = "CC-BY 4.0 Ondata"
