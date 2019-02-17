@@ -54,7 +54,7 @@
         </div>
     </section>
 
-    <section class="row top-section" id="searchData">
+<!--    <section class="row top-section" id="searchData">
         <div class="container">
 
             <div class="row">
@@ -66,6 +66,7 @@
                         <script>
                             $(document).ready(function() {
                                 $('#datiAlbi').DataTable( {
+                                    "dom": '<"wrapper"ftlip>',
                                     "lengthChange": false,
                                     "deferRender": true,
                                     responsive: {
@@ -126,7 +127,7 @@
             </div>
         </div>
     </section>
-<!--
+-->
     <section class="row em-section">
         <div class="container">
             <div class="row">
@@ -178,7 +179,7 @@
             </div>
         </div>
     </section>
--->
+
     <section class="row em-section">
         <div class="container">
             {{ partial "bottom" . }}
