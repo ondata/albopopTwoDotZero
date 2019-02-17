@@ -30,10 +30,38 @@ Ma per fortuna attorno al progetto c'è sempre stata un'attenzione e una spinta 
 
 ### Ve lo presento
 
-Il nuovo AlboPOP nasce per farlo diventare adulto, per essere un progetto e un'idea che possa per l'appunto andare oltre "la voglia di essere utile e sperimentare". Per immaginarlo e avere la forza e la voglia di farlo è stata fondamentale l'esistenza dell'[**associazione onData**](http://ondata.it/) (di cui sono orgogliosamente tra i fondatori). 
-In questo contesto quella vecchia idea è diventata la base di progetti 
+Il nuovo AlboPOP nasce perché possa **diventare "adulto"**, per essere un progetto e un'idea che riesca per l'appunto ad andare oltre "la voglia di essere utile e sperimentare". Per immaginarlo e avere la forza e la voglia di farlo è stata fondamentale l'[**associazione onData**](http://ondata.it/) (di cui sono orgogliosamente tra i fondatori).<br>In questa la "vecchia idea" di AlboPOP è stata uno stimolo propedeutico alla realizzazione del progetto [Ricostruzione Trasparente](http://ricostruzionetrasparente.it/), in cui gli albi dei Comuni del Centro Italia colpiti dal terremoto sono la fonte informativa principale.<br> Ma sono le persone di onData le artefici principali del cambio di passo; un mio grazie a Andrea Nelson, Alessio, Lorenzo ed Enrico.
 
-- sono tutti diversi
-- alle volte gli atti sono associati a descrizioni troppo sintetiche e scritte in un gergo "albopretoriese"
+La novità che salta subito all'occhio è proprio il **nuovo sito**, in termini di **grafica**, **testi** e soprattutto in termini di "**senso**". L'artefice di questo bel lavoro è il bravo [**Jacopo Solpi**](https://jacoposolmi.github.io/)
 
-PDF immagine
+<img class="img-fluid" src="/images/AlboPOPnuovo.png" /> 
+
+Jacopo ci ha fatto molte domande sul progetto, ha raccolto informazioni anche in modo indipendente e dopo averci lavorato ci ha fatto una proposta, che a me ha lasciato secco: il suo lavoro non soltanto mostrava l'ottima comprensione del progetto, ma soprattutto ne valorizzava gli obiettivi di fondo, le modalità di sviluppo e i possibili risultati futuri. È stata una bella sensazione, che ci ha dato il "Pronti, Partenza, Via!" ed è stata la base per farci costruire il nuovo progetto.
+
+Il nuovo sito si rivolge in modo evidente a chi vuole essere parte attiva, alle persone, ai dipendenti della Pubblica Amministrazione che vogliono dare spazio al valore informativo degli albi. Di questo si ha evidenza in home e nella sezione dedicata **[Partecipa](/partecipa)**
+
+<img class="img-fluid" src="/images/partecipa.png" /> 
+
+Molto diversa la modalità di presentare la **lista degli albi**. Per ogni PA è stato inserito il simbolo, il nome, la Provincia e la Regione di riferimento, i possibili **tag** associati e una categorizzazione. <br>Quest'ultima si evidenzia nell'immagine di sotto con `Accessibile` e `AlboPOP Standard`:
+
+- la prima è per quelle PA che pubblicano PDF preferenzialmente in formato testo, quindi **accessibile**;
+- la seconda per gli AlbiPOP il cui feed RSS è conforme alle [**specifiche**](/specs).
+
+<img class="img-fluid" src="/images/lista.png" /> 
+
+Di questo si ha evidenza anche nella **pagina singola**, che è stata ridisegnata. Ci sono gli elementi presenti nella prima versione del sito, più appunto la "categorizzazione" e un elenco di Comuni della stessa regione.
+
+<img class="img-fluid" src="/images/singleComune.png" />   
+
+Infine in termini visuali voglio sottolineare alcuni elementi presenti nel "**piede**" del sito: la [**mappa** degli AlbiPOP](/mappa) e soprattutto le [**FAQ** del progetto](/faq).
+
+<img class="img-fluid" src="/images/piede.png" />   
+
+Un'altra novità di rilievo è il motore del nuovo AlboPOP: adesso è [**hugo**](https://gohugo.io/), uno dei migliori e più diffusi generatori _open-source_ di siti web statici. Alessio ci ha messo testa e tempo e non solo lo ha adattato al lavoro di Jacopo, ma ne ha predisposto i processi automatici per la generazione dei contenuti e lo **schema dati**.<br>
+Infatti adesso nella descrizione `YAML` di ogni albo è presente il ricco schema dati di sotto:
+
+{{< gist aborruso 499584a0bde2e0dcf19e8daf92f0368b >}}
+
+Queste informazioni vengono utilizzate per generare in modo automatico i contenuti del sito, come le pagine singole, così come l'**indice in formato `JSON`** degli albi ([/comuni-pa/index.json](/comuni-pa/index.json)) o le informazioni sempre in formato `JSON` sul singolo comune (ad esempio [/comune/acquasantaterme/index.json](/comune/acquasantaterme/index.json)).<br>
+Questa fase verrà documentata e probabilmente anche leggermente modificata per esporre delle API "statiche" sui dati di base di AlboPOP.
+
