@@ -23,7 +23,7 @@ Ad animare questo spazio siamo semplici cittadini o dipendenti pubblici e speria
 
 Nel **nuovo AlboPOP** diverse persone, con le mani ancora sporche di farina e con la voglia di mangiare e cucinare ancora insieme (grazie ragazzi):
 
-- [**Jacopo Solmi**](https://www.linkedin.com/in/jacoposolmi), che ha cercato il senso del progetto e lo ha descritto in termini visivi e testuali (il nuovo AlboPOP gli deve molto);
+- [**Jacopo Solmi**](https://jacoposolmi.github.io), che ha cercato il senso del progetto e lo ha descritto in termini visivi e testuali (il nuovo AlboPOP gli deve molto);
 - [**Andrea Nelson Mauro**](https://twitter.com/nelsonmau), che spesso più di me spinge e lavora affinché AlboPOP stia bene;
 - [**Alessio Cimarelli**](https://twitter.com/jenkin27), che tiene la "cazzuola" in mano e fa stare in piedi la struttura;
 - [**Lorenzo Perone**](https://twitter.com/lorenzo_perone), che è un altro che vuole "fare durare e dare spazio" ad AlboPOP;
