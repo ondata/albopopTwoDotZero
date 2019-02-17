@@ -29,7 +29,7 @@ Nel **nuovo AlboPOP** diverse persone, con le mani ancora sporche di farina e co
 - [**Lorenzo Perone**](https://twitter.com/lorenzo_perone), che è un altro che vuole "fare durare e dare spazio" ad AlboPOP;
 - [**Enrico Bergamini**](https://twitter.com/BergaminiEnrico), perché mi regala cioccolattini e scrive __scraper__.
 
-Con noi anche **Roberto Battistelli** di [SemplicePA](http://www.semplicepa.it/), a cui si deve la creazione dei feed RSS di diversi albi.
+Con noi anche il **team ETI3** di [SemplicePA](http://www.semplicepa.it/), a cui si deve la creazione dei feed RSS di diversi albi.
 
 ---
 
