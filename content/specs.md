@@ -11,7 +11,7 @@ images:
 ---
 
 Gli scraper di AlboPOP producono un [feed RSS](/feedrss/) il cui formato standard segue delle
-[specifiche precise](https://cyber.harvard.edu/rss/rss.html).
+[specifiche precise](https://cyber.harvard.edu/rss/rss.html), scritte da [Alessio Cimarelli](https://twitter.com/jenkin27) in collaborazione con [Giovanni Pirrotta](https://twitter.com/gpirrotta).
 Quelle che seguono sono le regole condivise per produrre feed dal formato omogeneo, valido per tutti gli albi pretori di origine.
 
 I tag e gli attributi elencati qui sono sono suddivisi in tre tipologie:
