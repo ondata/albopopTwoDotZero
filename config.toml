@@ -4,6 +4,8 @@ theme = "albopop"
 copyright = "CC-BY 4.0 Ondata"
 languageCode = "it"
 defaultContentLanguage = "it"
+disableRSS = true
+disableKinds = ["RSS"]  # kick out RSS
 
 [menu]
   [[menu.main]]
