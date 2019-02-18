@@ -1,9 +1,9 @@
 ---
 title: Il nuovo AlboPOP
-date: 2019-02-14T17:26:20+01:00
+date: 2017-02-14T17:26:20+01:00
 tags: 
 coverImage: share.png
-draft: true
+draft: false
 coverColor: blue
 author: Andrea Borruso
 authorURL: https://twitter.com/aborruso
@@ -57,11 +57,23 @@ Infine in termini visuali voglio sottolineare alcuni elementi presenti nel "**pi
 
 <img class="img-fluid" src="/images/piede.png" />   
 
-Un'altra novità di rilievo è il motore del nuovo AlboPOP: adesso è [**hugo**](https://gohugo.io/), uno dei migliori e più diffusi generatori _open-source_ di siti web statici. Alessio ci ha messo testa e tempo e non solo lo ha adattato al lavoro di Jacopo, ma ne ha predisposto i processi automatici per la generazione dei contenuti e lo **schema dati**.<br>
-Infatti adesso nella descrizione `YAML` di ogni albo è presente il ricco schema dati di sotto:
+Un'altra novità di rilievo è il motore del nuovo AlboPOP: adesso è [**hugo**](https://gohugo.io/), uno dei migliori e più diffusi generatori _open-source_ di siti web statici. Alessio ci ha messo testa e tempo, lo ha adattato al lavoro di Jacopo, ne ha predisposto i processi automatici per la generazione dei contenuti e a definito lo **schema dati** degli albi.<br>
+Di questa si ha evidenza nella sezione `YAML` di ogni albo, in cui è presente la ricca sezione informativa di sotto:
 
 {{< gist aborruso 499584a0bde2e0dcf19e8daf92f0368b >}}
 
-Queste informazioni vengono utilizzate per generare in modo automatico i contenuti del sito, come le pagine singole, così come l'**indice in formato `JSON`** degli albi ([/comuni-pa/index.json](/comuni-pa/index.json)) o le informazioni sempre in formato `JSON` sul singolo comune (ad esempio [/comune/acquasantaterme/index.json](/comune/acquasantaterme/index.json)).<br>
-Questa fase verrà documentata e probabilmente anche leggermente modificata per esporre delle API "statiche" sui dati di base di AlboPOP.
+Queste informazioni vengono utilizzate per generare in modo automatico i contenuti del sito, sia le pagine singole, che l'**indice in formato `JSON`** degli albi ([/comuni-pa/index.json](/comuni-pa/index.json)) o le informazioni sempre in formato `JSON` sul singolo comune (ad esempio [/comune/acquasantaterme/index.json](/comune/acquasantaterme/index.json)).<br>
+Tutto questo verrà documentato e probabilmente anche leggermente modificato, per esporre delle API "statiche" sui dati di base di AlboPOP.
 
+### Cosa vorremmo fare con il nuovo AlboPOP
+
+Gli albi pretori troppo spesso sono la realizzazione della cosìdetta "**burocrazia digitale**", soltanto un luogo informativo conseguente a un obbligo di legge, poco vissuto dagli utenti, poco utilizzabile e poco utile.<br>
+Riteniamo che **a livello governativo centrale**, chi si occupa di come deve essere utilizzata l'informatica nella Pubblica Amministrazione, debba definire delle **nuove modalità di realizzazione e uso** di questo importantissimo spazio informativo.<br>
+
+L'obbligo di pubblicazione che porta alla creazione degli albi, così come quello di rimozione degli atti dopo un certo periodo di tempo, richiederebbero la messa online e la cancellazione tramite un sistema di **pubblicazione** come quello degli **RSS**. È un sistema che per maturità, semplicità, modalità di accesso, sarebbe ideale da **associare a ogni albo pretorio di Italia**.
+
+E a questa modalità uniforme di pubblicazione, bisognerebbe accoppiare un **unico schema dati standard**, delle specifiche. Così qualsiasi albo, di qualsiasi PA di Italia, di qualsiasi dimensione, sarebbe accessibile nello stesso modo, con gli stessi strumenti. E creare servizi informativi derivati, da questa rete informativa nazionale - che dovrà essere interoperabile, basata su ontologie e quindi nativamente _linked_ - frutto della creazione di prodotti che oggi nemmeno possiamo immaginare, sarà una conseguenza inevitabile.
+
+In ultimo questa occasione potrebbe essere quella per iniziare a **superare** dall'interno i **problemi di accessibilità** di base di cui ancora oggi troppo spesso soffrono gli spazi web della pubblica amministrazione. Atti con obblighi di pubblicità, senza URL univoci e associati a PDF immagine, sono qualcosa che non si dovrebbe da anni più vedere.
+
+Faremo _advocacy_ e dialogheremo con la PA centrale e periferica su questo tema, perché crediamo che sia **un piccolo grande tesoro da valorizzare**.
