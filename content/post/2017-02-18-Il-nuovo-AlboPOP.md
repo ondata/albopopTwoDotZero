@@ -1,6 +1,6 @@
 ---
 title: Il nuovo AlboPOP
-date: 2017-02-14T17:26:20+01:00
+date: 2019-02-14T17:26:20+01:00
 tags: 
 coverImage: share.png
 draft: false
@@ -32,7 +32,7 @@ Ma per fortuna attorno al progetto c'è sempre stata un'attenzione e una spinta 
 
 Il nuovo AlboPOP nasce perché possa **diventare "adulto"**, per essere un progetto e un'idea che riesca per l'appunto ad andare oltre "la voglia di essere utile e sperimentare". Per immaginarlo e avere la forza e la voglia di farlo è stata fondamentale l'[**associazione onData**](http://ondata.it/) (di cui sono orgogliosamente tra i fondatori).<br>In questa la "vecchia idea" di AlboPOP è stata uno stimolo propedeutico alla realizzazione del progetto [Ricostruzione Trasparente](http://ricostruzionetrasparente.it/), in cui gli albi dei Comuni del Centro Italia colpiti dal terremoto sono la fonte informativa principale.<br> Ma sono le persone di onData le artefici principali del cambio di passo; un mio grazie a Andrea Nelson, Alessio, Lorenzo ed Enrico.
 
-La novità che salta subito all'occhio è proprio il **nuovo sito**, in termini di **grafica**, **testi** e soprattutto in termini di "**senso**". L'artefice di questo bel lavoro è il bravo [**Jacopo Solpi**](https://jacoposolmi.github.io/)
+La novità che salta subito all'occhio è proprio il **nuovo sito**, in termini di **grafica**, **testi** e soprattutto in termini di "**senso**". L'artefice di questo bel lavoro è il bravo [**Jacopo Solmi**](https://jacoposolmi.github.io/)
 
 <img class="img-fluid" src="/images/AlboPOPnuovo.png" /> 
 
