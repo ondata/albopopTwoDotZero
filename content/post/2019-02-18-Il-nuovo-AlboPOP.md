@@ -11,7 +11,7 @@ authorURL: https://twitter.com/aborruso
 
 <img class="img-fluid" src="/images/share.png" /> 
 
-È con una certa emozione e piacere che scrivo questo annuncio: **oggi va online il nuovo alboPOP**!
+È con una certa emozione e piacere che scrivo questo annuncio: **è online il nuovo alboPOP**!
 
 È un progetto che nasce per rendere più "**popolari**" gli **Albi Pretori** delle **Pubbliche Amministrazioni** o, come abbiamo detto in altre occasioni, “per farli entrare nelle tasche delle persone”.
 Si tratta di pagine web e/o di siti dedicati, in cui spesso sono presenti le tracce più evidenti del lavoro di una PA (specie per un Comune) e soprattutto molte informazioni utili per la cittadinanza. Ma nonostante questo sono **spazi poco vissuti** e **conosciuti**.
