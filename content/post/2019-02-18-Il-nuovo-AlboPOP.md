@@ -76,4 +76,4 @@ E a questa modalità uniforme di pubblicazione, bisognerebbe accoppiare un **uni
 
 In ultimo questa occasione potrebbe essere quella per iniziare a **superare** dall'interno i **problemi di accessibilità** di base di cui ancora oggi troppo spesso soffrono gli spazi web della pubblica amministrazione. Atti con obblighi di pubblicità, senza URL univoci e associati a PDF immagine, sono qualcosa che non si dovrebbe da anni più vedere.
 
-Faremo _advocacy_ e dialogheremo con la PA centrale e periferica su questo tema, perché crediamo che sia **un piccolo grande tesoro da valorizzare**.
+Faremo _advocacy_ e dialogheremo con la PA centrale e periferica su questo tema, perché crediamo che sia **un piccolo grande tesoro da valorizzare**, con il sogno che nel tempo **sempre più albi** siano **nativamente POP**.
