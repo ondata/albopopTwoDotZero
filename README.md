@@ -1,6 +1,6 @@
 # AlboPOP 2.0 (develop)
 
-Sito statico basato sul generatore [Hugo](https://gohugo.io/). Anteprima: http://dev.albopop.it/. Vecchia versione on-line: http://albopop.it/.
+Sito statico basato sul generatore [Hugo](https://gohugo.io/). URL: https://albopop.it.
 
 ## Contribuisci
 
