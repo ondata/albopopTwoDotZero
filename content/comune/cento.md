@@ -1,12 +1,12 @@
 ---
 title: Cento
 tags: []
-original: http://ulisse.comune.cento.fe.it/ULISS-e/Bacheca/coatti02.aspx?bac_codice=50&SORT=DDPUB&men_id=00.02
+original: https://servizi.comune.cento.fe.it/web/trasparenza/albo-pretorio/
 rss: https://script.google.com/macros/s/AKfycbw3LNg9c0HTRGqZSi7ovtifFUM5xsCDUSeoI_5su93A5HVwQEQQ/exec
 twitter: 
 facebook: 
 telegram: https://telegram.me/AlboPret100FE
-pdf: 
+pdf: Nuovo regolamento Albo Pretorio on line- C.C. 95 del 30.11.2016.pdf
 author:
  - Matteo Fortini (https://twitter.com/matt_fortini)
  - Servizio Sistemi Informativi (http://www.comune.cento.fe.it/ilcomune/ufficicomunali/-llpp-territorio/pagina22.html)
@@ -19,8 +19,8 @@ lat: 44.733333
 lng: 11.283333
 image: c_c469.png
 accessible: true
-standard: false
-official: false
+standard: true
+official: true
 ---
 
 La pagina ufficiale dell'albo pretorio del **Comune di Cento** è questa: [http://goo.gl/4o3lvG](http://goo.gl/4o3lvG)
