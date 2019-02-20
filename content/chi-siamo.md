@@ -12,8 +12,8 @@ images:
 
 ## Ciao, sono [Andrea Borruso](https://twitter.com/aborruso) e ho il pallino per gli Albi Pretori
 
-Il progetto **AlboPOP** nasce da una mia idea di alcuni anni fa, nata per rispondere a un richiesta fatta nel gruppo [Open Data Sicilia](http://opendatasicilia.it/).<br>
-Grazie all'[Associazione Ondata](http://ondata.it/) è cresciuto e l'obiettivo è quello di farlo diventare adulto.
+**AlboPOP** è un progetto dell'[Associazione onData](http://ondata.it/). È una mia idea di alcuni anni fa, nata per rispondere a un richiesta fatta nel gruppo [Open Data Sicilia](http://opendatasicilia.it/).<br>
+Grazie a onData è cresciuto e l'obiettivo è quello di farlo diventare adulto.
 
 Ad animare questo spazio siamo semplici cittadini o dipendenti pubblici e speriamo [ti unirai anche tu](/partecipa/).
 
