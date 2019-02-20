@@ -7,7 +7,7 @@ twitter:
 facebook: 
 telegram: https://t.me/albopoppisticci
 pdf: 
-author: [Piersoft](https://t.me/piersoft)
+author: "[Piersoft](https://t.me/piersoft)"
 repo: 
 regione: Basilicata
 provincia: Matera
