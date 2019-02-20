@@ -12,3 +12,5 @@ authorURL: https://twitter.com/aborruso
 - Cento ufficiale e standard
 - Pisticci, nuovo
 - mappe e grafo di Piersoft
+- torre santa susanna https://albopop.it/comune/torresantasusanna/
+- Genova
