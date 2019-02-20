@@ -1,5 +1,5 @@
 ---
-title: Genova
+title: Città Metropolitana di Genova
 tags: []
 original: https://albopretorio.cittametropolitana.genova.it/albopretorio/Main.do?MVPG=AmvRicercaAlbo 
 rss: http://feeds.feedburner.com/AlboPretorioDiGenova
