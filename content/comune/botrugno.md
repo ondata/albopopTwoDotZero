@@ -14,7 +14,7 @@ facebook:
 telegram: https://t.me/ComuneBotrugno
 pdf: 
 # Inserisci i dati dell'autore dell'AlboPOP
-author: [Fabrizio Puce] (https://www.linkedin.com/in/fabriziopuce/)
+author: "[Fabrizio Puce] (https://www.linkedin.com/in/fabriziopuce/)"
 # Inserisci il nome della Regione in cui ricade la Pubblica Amministrazione
 regione: Puglia
 # Inserisci il nome della Provincia in cui ricade la Pubblica Amministrazione
