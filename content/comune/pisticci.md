@@ -1,6 +1,6 @@
 ---
 title: Pisticci
-tags: 
+tags: []
 original: http://www.comune.pisticci.mt.it/cms/atti-albo.html
 rss: http://feeds.feedburner.com/albopop_pisticci
 twitter: 
