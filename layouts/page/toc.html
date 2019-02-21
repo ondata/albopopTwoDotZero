@@ -153,7 +153,7 @@
                     <h2>I Comuni inseriti dalla Community</h2>
                     <p class="sh-text w-md-50">
                         Molti comuni sono stati resi Pop grazie al lavoro di attivisti che hanno scritto e mantengono piccoli software
-                        in grado di produrre un feed RSS dalla pagina statica del sito del commune. Ecco quali sono.
+                        in grado di produrre un feed RSS dalla pagina statica del sito del comune. Ecco quali sono.
                     </p>
                     {{ range where (where .Site.RegularPages "Section" "comune") "Params.official" "!=" true }}
                     {{ partial "list-item" . }}
