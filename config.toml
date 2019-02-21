@@ -6,6 +6,7 @@ languageCode = "it"
 defaultContentLanguage = "it"
 # disableRSS = true
 # disableKinds = ["RSS"]
+preserveTaxonomyNames = true
 
 [menu]
   [[menu.main]]
@@ -57,3 +58,7 @@ defaultContentLanguage = "it"
 
 [outputs]
     page = ["HTML","JSON"]
+
+[taxonomies]
+  regione = "regione"
+  provincia = "provincia"

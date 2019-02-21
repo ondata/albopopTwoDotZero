@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<main aria-role="main">
+    <section class="row top-section">
+        <div class="container">
+            <div class="row">
+                <!--<div class="col-12 col-lg-9">-->
+                    <div class="col-12">
+                        
+                        <header>
+                            <h1 class="blog-post-title">Regione: {{ .Title }}</h1>
+                            <hr>
+                        </header>
+                        <h3 class="blog-post-title">Province</h3>
+                        {{ range .Pages.GroupByParam "provincia" }}
+                        <ul>
+                            <li><a href="{{ $.Site.BaseURL }}provincia/{{ .Key | urlize | lower  }}">{{ .Key }}</a></li>
+                        </ul>
+                        {{ end }}
+                    </div>
+                    <!--{{ partial "sidebar" . }}-->
+                </div>
+            </div>
+        </section>
+    </main>
+    
+{{ end }}

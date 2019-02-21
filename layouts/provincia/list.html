@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<main aria-role="main">
+    <section class="row top-section">
+        <div class="container">
+            <div class="row">
+                <!--<div class="col-12 col-lg-9">-->
+                    <div class="col-12">
+                        
+                        <header>
+                            <h1 class="blog-post-title">Provincia: {{ .Title }}</h1>
+                            <hr>
+                        </header>    
+                        {{ range .Data.Pages }}
+                            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                        {{ end }}
+                    </div>
+                    <!--{{ partial "sidebar" . }}-->
+                </div>
+            </div>
+        </section>
+    </main>
+    
+{{ end }}

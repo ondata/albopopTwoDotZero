@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<main aria-role="main">
+    <section class="row top-section">
+        <div class="container">
+            <div class="row">
+                <!--<div class="col-12 col-lg-9">-->
+                    <div class="col-12">
+                        
+                        <header>
+                            <h1 class="blog-post-title">Province</h1>
+                            <hr>
+                        </header>    
+                        {{ range $name, $taxonomy := .Site.Taxonomies.provincia }}
+                        <li><a href="{{ $.Site.BaseURL }}provincia/{{ $name | urlize | lower  }}">{{$name}}</a> (numero albi: {{ $taxonomy.Count }})</li>
+                        {{ end  }}
+                    </div>
+                    <!--{{ partial "sidebar" . }}-->
+                </div>
+            </div>
+        </section>
+    </main>
+    
+{{ end }}
