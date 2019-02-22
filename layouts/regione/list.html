@@ -12,11 +12,11 @@
                             <hr>
                         </header>
                         <h3 class="blog-post-title">Province</h3>
-                        {{ range .Pages.GroupByParam "provincia" }}
                         <ul>
+                        {{ range .Pages.GroupByParam "provincia" }}
                             <li><a href="{{ $.Site.BaseURL }}provincia/{{ .Key | urlize | lower  }}">{{ .Key }}</a></li>
-                        </ul>
                         {{ end }}
+                        </ul>
                     </div>
                     <!--{{ partial "sidebar" . }}-->
                 </div>

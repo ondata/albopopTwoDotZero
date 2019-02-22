@@ -11,9 +11,11 @@
                             <h1 class="blog-post-title">Province</h1>
                             <hr>
                         </header>    
+                        <ul>
                         {{ range $name, $taxonomy := .Site.Taxonomies.provincia }}
                         <li><a href="{{ $.Site.BaseURL }}provincia/{{ $name | urlize | lower  }}">{{$name}}</a> (numero albi: {{ $taxonomy.Count }})</li>
                         {{ end  }}
+                        </ul>
                     </div>
                     <!--{{ partial "sidebar" . }}-->
                 </div>

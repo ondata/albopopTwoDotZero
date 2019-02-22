@@ -10,10 +10,12 @@
                         <header>
                             <h1 class="blog-post-title">Regioni</h1>
                             <hr>
-                        </header>    
-                        {{ range $name, $taxonomy := .Site.Taxonomies.regione }}
-                        <li><a href="{{ $.Site.BaseURL }}regione/{{ $name | urlize | lower  }}">{{$name}}</a> (numero albi: {{ $taxonomy.Count }})</li>
-                        {{ end  }}
+                        </header>
+                        <ul>
+                            {{ range $name, $taxonomy := .Site.Taxonomies.regione }}
+                            <li><a href="{{ $.Site.BaseURL }}regione/{{ $name | urlize | lower  }}">{{$name}}</a> (numero albi: {{ $taxonomy.Count }})</li>
+                            {{ end  }}
+                        </ul>
                     </div>
                     <!--{{ partial "sidebar" . }}-->
                 </div>

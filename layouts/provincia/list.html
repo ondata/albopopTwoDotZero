@@ -10,10 +10,12 @@
                         <header>
                             <h1 class="blog-post-title">Provincia: {{ .Title }}</h1>
                             <hr>
-                        </header>    
+                        </header>
+                        <ul>
                         {{ range .Data.Pages }}
                             <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
                         {{ end }}
+                        </ul>
                     </div>
                     <!--{{ partial "sidebar" . }}-->
                 </div>
