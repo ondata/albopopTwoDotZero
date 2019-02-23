@@ -13,7 +13,7 @@ repo:
 regione: Sicilia
 provincia: Palermo
 istat: 082063
-ipa: 
+ipa: c_h797
 lat: 37.960526
 lng: 13.181605
 image:
