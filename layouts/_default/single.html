@@ -9,7 +9,7 @@
                         <p class="st-text">{{ or (.Param "institution") .Type }}</p>
                         {{ partial "lettering" . }}
                         {{ if and (isset .Params "provincia") (isset .Params "regione") }}
-                        <p class="st-text">{{ .Param "provincia" }}, {{ .Param "regione" }}</p>
+                        <p class="st-text"><a href="{{ $.Site.BaseURL }}provincia/{{ .Param "provincia" | urlize | lower }}">{{ .Param "provincia" }}</a>, <a href="{{ $.Site.BaseURL }}regione/{{ .Param "regione" | urlize | lower }}">{{ .Param "regione" }}</a></p>
                         {{ end }}
                     </header>
                 </div>

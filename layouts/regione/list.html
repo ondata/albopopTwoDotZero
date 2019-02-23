@@ -11,6 +11,7 @@
                             <h1 class="blog-post-title">Regione: {{ .Title }}</h1>
                             <hr>
                         </header>
+                        <a href="{{ $.Site.BaseURL }}regione">< Regioni</a>
                         <h3 class="blog-post-title">Province</h3>
                         <ul>
                         {{ range .Pages.GroupByParam "provincia" }}
