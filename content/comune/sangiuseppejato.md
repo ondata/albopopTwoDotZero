@@ -15,7 +15,7 @@ ipa: c_h933
 lat: 37.966667
 lng: 13.183333
 image: c_h933.png
-accessible: true
+accessible: false
 standard: false
 official: true
 ---
