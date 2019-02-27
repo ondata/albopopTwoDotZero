@@ -2,7 +2,7 @@
 title: San Cipirello
 tags: []
 original: http://156.54.128.69/sancipirello/mc/mc_p_ricerca.php
-rss: https://script.google.com/macros/s/AKfycbyOyK9BlwUW_fHelHBjv6HVQcbBvIUbpa-8l1HyEnnkaG3E4kyq/exec
+rss: http://feeds.feedburner.com/AlbopopSanCipirello
 twitter: 
 facebook: 
 telegram: https://telegram.me/albopretoriosancipirello
