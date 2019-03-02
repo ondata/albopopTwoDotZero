@@ -28,7 +28,6 @@ Adesso puoi seguire le nuove pubblicazioni in albo:
 * su un canale **Telegram** [https://telegram.me/alboPOPValdiBisenzio](https://telegram.me/alboPOPValdiBisenzio);
 * iscrivendoti a un **feed RSS**: [https://script.google.com/macros/s/AKfycbzVBjCoUwIldnHOfAUKii3u6HBTcZardoRre1T77w/exec](https://script.google.com/macros/s/AKfycbzVBjCoUwIldnHOfAUKii3u6HBTcZardoRre1T77w/exec).
 
-**VECCHIA VERSIONE**
-Codice rilasciato in formato opensource in **questo repository** [https://github.com/iltempe/AlboPOP](https://github.com/iltempe/AlboPOP)
+**VECCHIA VERSIONE**: Codice rilasciato in formato opensource in **questo repository** [https://github.com/iltempe/AlboPOP](https://github.com/iltempe/AlboPOP)
 
-**Autore**: [Matteo Tempestini](https://twitter.com/il_tempe)
+**Autore**: [Matteo Tempestini](https://twitter.com/il_tempe) / [Simone Versienti](https://www.facebook.com/simone.versienti)
