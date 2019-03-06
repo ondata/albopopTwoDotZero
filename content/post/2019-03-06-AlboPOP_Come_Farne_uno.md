@@ -13,4 +13,4 @@ Nel [gruppo facebook di AlboPOP](https://www.facebook.com/groups/albopop/permali
 
 Per iniziare a rispondere **oggi 6 Marzo alle 18:30** un _webinar_ in diretta, che verrà registrato, in cui farò una mini introduzione al progetto e mostrerò una modalità semplice sul come crearne uno, basata sullo _script_ di [Matteo Fortini](https://twitter.com/matt_fortini) (grazie), sulle _query_ ` XPATH` e su Google Sheet.
 
-L'indirizzo è https://goo.gl/AhJwW7
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/opB7X9eZHTU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
