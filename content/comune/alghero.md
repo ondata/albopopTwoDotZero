@@ -14,7 +14,7 @@ istat: 090003
 ipa: c_a192
 lat: 40.557778
 lng: 8.321944
-image: c_a192.svg
+image: c_a192.png
 accessible: true
 standard: false
 official: false

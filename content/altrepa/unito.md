@@ -14,7 +14,7 @@ provincia: Torino
 ipa: UNITO
 lat: 45.069444
 lng: 7.688889
-image: UNITO.svg
+image: UNITO.png
 accessible: true
 standard: false
 official: false
