@@ -16,7 +16,7 @@ istat: 082063
 ipa: c_h797
 lat: 37.960526
 lng: 13.181605
-image:
+image: c_h797.gif
 accessible: true
 standard: true
 official:
