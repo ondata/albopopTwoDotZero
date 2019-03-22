@@ -50,6 +50,8 @@ nella configurazione del sito (il file `config.toml` presente nella cartella pri
 È compito di Hugo compilare opportunamente i file scss in un regolare file css concatenato e minificato:
 a ogni modifica nel caso del server di sviluppo, staticamente quando si compila il tutto nella cartella `public/`.
 
+---
+
 ## Note aggiuntive
 
 Per aggiornare la versione pubblica (sulla branch `gh-pages`): `git subtree push --prefix public/ origin gh-pages`.
