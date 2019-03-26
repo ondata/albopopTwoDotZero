@@ -2,7 +2,7 @@
 title: Agliano Terme
 tags: []
 original: https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?Ce=aglntrm101
-rss: https://script.googleusercontent.com/macros/echo?user_content_key=vwKxuItPTohTBk9qSRh9bbsc5wZ-ooHGd0UopPh8gdndpoy96XXPohZEFFltjfW7njMfldXQluvfqBYKvOPEbsA7Zw6P8OwfOJmA1Yb3SEsKFZqtv3DaNYcMrmhZHmUMWojr9NvTBuBLhyHCd5hHa0-r-B8oce1gbx4GJ8iFO8nYa2HEjAekmmp1i-quHaZMuMon2t3TrpGU2IFIjcURIhsB1HCBoqTIrlfspxeMwATXRNTZAoBXJj0Moto6HNFUC9mLkG7KTmF9zJ6-2DggXox_6Ks-QR7bsrWBYjk5QJ_IEB_jcADA_w&lib=My1XUvqHPaNNStEfnnZnVnlAa2PiayXsG
+rss: https://script.google.com/macros/s/AKfycbyJ9bY6uFVX1pccFp-3B9-_B27DPpss4nQPmVRh/exec
 twitter: 
 facebook: 
 telegram:
