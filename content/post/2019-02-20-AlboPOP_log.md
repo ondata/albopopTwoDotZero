@@ -27,3 +27,4 @@ La sua richiesta non andava bene, perché abbiamo introdotto un **nuovo schema d
 - san cipirello
 - la video lezione
 - il lavoro di versienti e tempestini
+- il canale youtube
