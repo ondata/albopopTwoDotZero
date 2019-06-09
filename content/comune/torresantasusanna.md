@@ -3,12 +3,12 @@ title: Torre Santa Susanna
 tags: []
 original: http://dgegovpa.it/TorreSantaSusanna/Albo/Albo.aspx
 rss: http://feeds.feedburner.com/albotorre
-twitter: 
-facebook: 
+twitter:
+facebook:
 telegram: https://t.me/albotorresantasusanna
-pdf: 
+pdf: DeliberaTorreSantaSusanna.pdf
 author: "[Simone Versienti](https://www.facebook.com/simone.versienti)"
-repo: 
+repo:
 regione: Puglia
 provincia: Brindisi
 istat: 074019
@@ -18,5 +18,5 @@ lng: 17.733333
 image: c_l280.jpg
 accessible: true
 standard: false
-official: false
+official: true
 ---
