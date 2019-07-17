@@ -19,6 +19,7 @@ image: c_g942.png
 accessible: false
 standard: false
 official: false
+draft: true
 ---
 
 Potenza (Basilicata)
