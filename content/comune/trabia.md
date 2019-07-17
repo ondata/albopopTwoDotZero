@@ -21,6 +21,7 @@ image: c_l317.png
 accessible: false
 standard: false
 official: false
+draft: true
 ---
 
 La pagina dell'albo pretorio del **Comune di Trabia** è questa: [http://www.comunetrabia.gov.it/index.php?p=consulta_albo_pretorio_tutti](http://www.comunetrabia.gov.it/index.php?p=consulta_albo_pretorio_tutti)
