@@ -2,7 +2,7 @@
 title: Surbo
 tags: []
 original: http://albo.parsec326.it/AlboPretorio/Default.aspx?cod=l011
-rss: 
+rss: http://feeds.feedburner.com/Newspopsurbo
 twitter: https://twitter.com/albopopsurbo
 facebook: 
 telegram: https://telegram.me/albopopsurbo
