@@ -3,10 +3,10 @@ title: Università degli Studi di Catania
 tags: []
 institution: università
 original: http://ws1.unict.it/albo/
-rss: http://dev.opendatasicilia.it/albopop/unict/unict2RSS.php
+rss: http://www.opendatahacklab.org/albopop/unict/unict2RSS.php
 twitter: 
 facebook: 
-telegram: https://telegram.me/albounict
+telegram: 
 author: Cristiano Longo (https://github.com/cristianolongo)
 repo: 
 regione: Sicilia
