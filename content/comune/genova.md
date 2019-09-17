@@ -8,8 +8,8 @@ facebook:
 telegram: https://t.me/albopopgenova
 pdf:
 author:
- - @Dario_JonixLUG
- - @vic39 (http://vincentforty.weebly.com/)
+ - "@Dario_JonixLUG"
+ - "@vic39 (http://vincentforty.weebly.com/)"
  - JonixLUG (https://www.jonixlug.altervista.org/)
  - Cooperativa Sociale Lacanosa (http://www.cooperativasociale.org)
 regione: Liguria
