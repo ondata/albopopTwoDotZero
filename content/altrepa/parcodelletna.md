@@ -1,5 +1,5 @@
 ---
-title: Città Metropolitana di Torino
+title: Parco dell'Etna
 tags: []
 institution: parco
 original: http://albopretorio.parcoetna.it/
