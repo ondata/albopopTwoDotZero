@@ -1,22 +1,20 @@
 ---
 title: Città Metropolitana di Torino
 tags: []
-institution: città metropolitana
-original: http://www.provincia.torino.gov.it/cgi-bin/attiweb/albo_pretorio.pl
-rss: https://www.opendatahacklab.org/albopop/cittametropolitanatorino/feed.php
+institution: parco
+original: http://albopretorio.parcoetna.it/
+rss: https://www.opendatahacklab.org/albopop/parcodelletna/feed.php
 twitter: 
 facebook:
 telegram: 
-author:
- - Michele Maresca
- - Cristiano Longo (https://www.opendatahacklab.org)
+author: Cristiano Longo (https://www.opendatahacklab.org)
 repo: https://github.com/opendatahacklab/albopop
-regione: Piemonte
-provincia: Torino
-ipa: cmto
-lat: 45.066667
-lng: 7.7
-image: cmto.png
+regione: Sicilia
+provincia: Catania
+ipa: epe_ct
+lat:
+lng:
+image:
 accessible: true
 standard: false
 official: false

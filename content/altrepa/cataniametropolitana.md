@@ -3,12 +3,12 @@ title: Città Metropolitana di Catania
 tags: []
 institution: città metropolitana
 original: http://trasparenza.cittametropolitana.ct.it/web/citta-metropolitana-di-catania/albo-pretorio
-rss: http://dev.opendatasicilia.it/albopop/cittametropolitanacatania/albofeed.php
+rss: https://www.opendatahacklab.org/albopop/cittametropolitanacatania/feed.php
 twitter: 
 facebook: 
 telegram: 
-author: Cristiano Longo
-repo: 
+author: Cristiano Longo (https://www.opendatahacklab.org)
+repo: https://github.com/opendatahacklab/albopop
 regione: Sicilia
 provincia: Catania
 ipa: cmct

@@ -2,13 +2,13 @@
 title: Catania
 tags: []
 original: http://www.comune.catania.gov.it/EtnaInWeb/AlboPretorio.nsf/HomePage?Open&buffer=A20110301121017437GH
-rss: http://dev.opendatasicilia.it/albopop/catania/alboct2RSS.php
+rss: https://www.opendatahacklab.org/albopop/catania/feed.php
 twitter: 
 facebook: 
 telegram: 
 pdf: 
-author: Cristiano Longo
-repo: 
+author: Cristiano Longo (https://www.opendatahacklab.org)
+repo: https://github.com/opendatahacklab/albopop
 regione: Sicilia
 provincia: Catania
 istat: 087015

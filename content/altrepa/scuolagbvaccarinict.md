@@ -3,12 +3,12 @@ title: G.B. Vaccarini
 tags: []
 institution: istituto d'istruzione superiore statale
 original: https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=CTII0016&referer=http://www.vaccarinict.gov.it/wp/
-rss: http://dev.opendatasicilia.it/albopop/scuolagbvaccarinict/albofeed.php
+rss: https://www.opendatahacklab.org/albopop/scuolagbvaccarinict/feed.php
 twitter: 
 facebook: 
 telegram: 
 author: Cristiano Longo
-repo: 
+repo: https://github.com/opendatahacklab/albopop
 regione: Sicilia
 provincia: Catania
 ipa: istsc_ctis01700v
