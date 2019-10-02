@@ -9,6 +9,7 @@ facebook:
 telegram:
 author: Cristiano Longo (https://www.opendatahacklab.org)
 repo: https://github.com/opendatahacklab/albopop
+author: Cristiano Longo (https://github.com/cristianolongo)
 regione: Sicilia
 provincia: Catania
 ipa: uni_ct
