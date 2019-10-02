@@ -2,13 +2,13 @@
 title: Torino
 tags: []
 original: http://www.comune.torino.it/albopretorio/
-rss: http://dev.opendatasicilia.it/albopop/torino/albofeed.php
+rss: https://www.opendatahacklab.org/albopop/torino/feed.php
 twitter: 
-facebook: https://www.facebook.com/groups/510252012501879/
+facebook:
 telegram: 
 pdf: 
-author: Cristiano Longo
-repo: 
+author: Cristiano Longo (https://www.opendatahacklab.org)
+repo: https://github.com/opendatahacklab/albopop
 regione: Piemonte
 provincia: Torino
 istat: 001272

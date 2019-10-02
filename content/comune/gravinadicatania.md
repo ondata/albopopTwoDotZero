@@ -2,13 +2,13 @@
 title: Gravina di Catania
 tags: []
 original: http://trasparenza.comune.gravina-di-catania.ct-egov.it/
-rss: http://dev.opendatasicilia.it/albopop/gravinadicatania/albofeed.php
+rss: https://www.opendatahacklab.org/albopop/gravinadicatania/feed.php
 twitter: 
 facebook: 
 telegram: 
 pdf: 
-author: Cristiano Longo (https://cristianolongo.wordpress.com/)
-repo: 
+author: Cristiano Longo (https://www.opendatahacklab.org)
+repo: https://github.com/opendatahacklab/albopop
 regione: Sicilia
 provincia: Catania
 istat: 087019

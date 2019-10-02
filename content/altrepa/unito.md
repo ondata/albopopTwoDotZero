@@ -3,11 +3,11 @@ title: Università degli Studi di Torino
 tags: []
 institution: università
 original: https://www.serviziweb.unito.it/albo_ateneo/
-rss: http://dev.opendatasicilia.it/albopop/unito/albofeed.php
+rss: https://www.opendatahacklab.org/albopop/unito/feed.php
 twitter: 
-facebook: https://www.facebook.com/groups/510252012501879/
+facebook: 
 telegram: 
-author: Cristiano Longo (https://github.com/cristianolongo)
+author: Cristiano Longo (https://www.opendatahacklab.org)
 repo: 
 regione: Piemonte
 provincia: Torino
