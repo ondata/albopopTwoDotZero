@@ -5,7 +5,7 @@ tags: []
 # Inserisci l'URL dell'albo pretorio ufficiale
 original: http://albo.studiok.it/botrugno/albo/index.php
 # Inserisci l'URL del feed RSS dell'AlboPOP
-rss: http://feed43.com/albopopbotrugno.xml
+rss: https://script.google.com/macros/s/AKfycby2hXOou4YXFmnOjLqKOnoglJ0Gq6p4NY9Goibx_n-HOA-9zY8/exec
 # Inserisci, se esiste, l'URL dell'account twitter dell'albo
 twitter: 
 # Inserisci, se esiste, l'URL della pagina Facebook dell'albo
@@ -26,11 +26,12 @@ ipa: c_b086
 # Inserisci latitudine e longitudine di un punto nell'area in cui ricade la PA
 lat: 40.066667
 lng: 18.316667
+# Inserisci il nome del file immagine presente su Wikipedia relativo al logo del Comune
 image: c_b086.png
 # Se i documenti pubblicati nell'albo sono scansioni, inserire qui sotto "false" (senza virgolette)
 accessible: true
 # Se il feed RSS dell'AlboPOP è standard (vedi http://albopop.it/specs/), inserire qui sotto "true" (senza virgolette)
-standard: false
+standard: true
 # Se l'AlboPOP è "ufficiale", ovvero frutto di una comunicazione/delibera della PA, inserire qui sotto "true" (senza virgolette)
 official: false
 ---
