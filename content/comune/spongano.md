@@ -5,7 +5,7 @@ tags: []
 # Inserisci l'URL dell'albo pretorio ufficiale
 original: http://www.svichosting.com/spongano/mc/mc_p_ricerca.php?noHeaderFooter=1&multiente=spongano
 # Inserisci l'URL del feed RSS dell'AlboPOP
-rss: https://script.google.com/macros/s/AKfycbx9kceX7YA5Et3ZM56jLLqYUNt1yZUix1BXeWab6Q/exec
+rss: http://feeds.feedburner.com/AlbopopSpongano
 # Inserisci, se esiste, l'URL dell'account twitter dell'albo
 twitter: 
 # Inserisci, se esiste, l'URL della pagina Facebook dell'albo
