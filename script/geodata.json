@@ -159,6 +159,14 @@
   "tipo": "comune"
 }
 {
+  "latitude": 40.816667,
+  "longitude": 16.55,
+  "title": "Altamura",
+  "ipa": "c_e155",
+  "nome": "altamura",
+  "tipo": "comune"
+}
+{
   "latitude": 38.042222,
   "longitude": 13.550278,
   "title": "Altavilla Milicia",
@@ -951,6 +959,22 @@
   "tipo": "comune"
 }
 {
+  "latitude": 40.072843,
+  "longitude": 18.162467,
+  "title": "Collepasso",
+  "ipa": "c_c865",
+  "nome": "collepasso",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "collepasso",
+  "tipo": "comune"
+}
+{
   "latitude": 42.87805,
   "longitude": 13.7482,
   "title": "Colli del Tronto",
@@ -1020,6 +1044,22 @@
   "title": null,
   "ipa": null,
   "nome": "corridonia",
+  "tipo": "comune"
+}
+{
+  "latitude": 39.889212,
+  "longitude": 18.369422,
+  "title": "Corsano",
+  "ipa": "c_d044",
+  "nome": "corsano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "corsano",
   "tipo": "comune"
 }
 {
@@ -2732,6 +2772,22 @@
   "title": null,
   "ipa": null,
   "nome": "spongano",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.02862,
+  "longitude": 18.341878,
+  "title": "Surano",
+  "ipa": "c_l010",
+  "nome": "surano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "surano",
   "tipo": "comune"
 }
 {

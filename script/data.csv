@@ -19,6 +19,7 @@ latitude,longitude,title,ipa,nome,tipo
 44.79125,8.25073,Agliano Terme,c_a072,aglianoterme,comune
 ,,,,aglianoterme,comune
 40.557778,8.321944,Alghero,c_a192,alghero,comune
+40.816667,16.55,Altamura,c_e155,altamura,comune
 38.042222,13.550278,Altavilla Milicia,c_a229,altavillamilicia,comune
 43.816667,10.674722,Altopascio,c_a241,altopascio,comune
 42.9801,13.3575,Amandola,c_a252,amandola,comune
@@ -118,6 +119,8 @@ latitude,longitude,title,ipa,nome,tipo
 ,,,,civitella-del-tronto,comune
 42.533333,13.683333,Colledara,c_c311,colledara,comune
 ,,,,colledara,comune
+40.072843,18.162467,Collepasso,c_c865,collepasso,comune
+,,,,collepasso,comune
 42.87805,13.7482,Colli del Tronto,c_c877,colli-del-tronto,comune
 ,,,,colli-del-tronto,comune
 43.164,13.357,Colmurano,c_c886,colmurano,comune
@@ -127,6 +130,8 @@ latitude,longitude,title,ipa,nome,tipo
 41.65,12.91666,Cori,c_d003,cori,comune
 43.248219,13.507531,Corridonia,c_d042,corridonia,comune
 ,,,,corridonia,comune
+39.889212,18.369422,Corsano,c_d044,corsano,comune
+,,,,corsano,comune
 42.62186,13.50774,Cortino,c_d076,cortino,comune
 ,,,,cortino,comune
 42.983989,13.688081,Cossignano,c_d096,cossignano,comune
@@ -341,6 +346,8 @@ latitude,longitude,title,ipa,nome,tipo
 ,,,,spoleto,comune
 40.016481,18.365562,Spongano,c_i923,spongano,comune
 ,,,,spongano,comune
+40.02862,18.341878,Surano,c_l010,surano,comune
+,,,,surano,comune
 40.4,18.133333,Surbo,c_l011,surbo,comune
 40.418056,17.240833,Taranto,c_l049,taranto,comune
 ,,,,taranto,comune
