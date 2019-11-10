@@ -25,7 +25,6 @@ istat: 075024
 ipa: c_d044
 # Inserisci latitudine e longitudine di un punto nell'area in cui ricade la PA
 lat: 39.889212
-18.369422
 lng: 18.369422
 # Inserisci il nome del file del logo del Comune (in genere codice_IPA.png)
 image: c_d044.png
