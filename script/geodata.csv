@@ -1,5 +1,6 @@
 latitude,longitude,title,ipa,nome,tipo
 37.516667,15.066667,Città Metropolitana di Catania,cmct,cataniametropolitana,altrepa
+44.413651,8.936053,Città Metropolitana di Genova,c_d969,genovametropolitana,altrepa
 38.115556,13.361389,Città Metropolitana di Palermo,p_pa,palermometropolitana,altrepa
 37.5146225,15.0768163,G.B. Vaccarini,istsc_ctis01700v,scuolagbvaccarinict,altrepa
 45.066667,7.7,Città Metropolitana di Torino,cmto,torinometropolitana,altrepa
@@ -10,6 +11,7 @@ latitude,longitude,title,ipa,nome,tipo
 42.694444,13.2475,Accumoli,c_a019,accumoli,comune
 42.7692,13.40945,Acquasanta Terme,c_a044,acquasantaterme,comune
 37.65,14.516667,Agira,c_a070,agira,comune
+44.79125,8.25073,Agliano Terme,c_a072,aglianoterme,comune
 40.557778,8.321944,Alghero,c_a192,alghero,comune
 38.042222,13.550278,Altavilla Milicia,c_a229,altavillamilicia,comune
 43.816667,10.674722,Altopascio,c_a241,altopascio,comune
@@ -19,6 +21,7 @@ latitude,longitude,title,ipa,nome,tipo
 42.416667,13.083333,Antrodoco,c_a315,antrodoco,comune
 43.393064,13.130269,Apiro,c_a329,apiro,comune
 42.899058,13.665989,Appignano Del Tronto,c_a335,appignano-del-tronto,comune
+45.6648,8.0396,Aramengo,c_a352,aramengo,comune
 42.772565,13.296643,Arquata del Tronto,c_a437,arquata_del_tronto,comune
 42.583683,12.768,Arrone,c_a439,arrone,comune
 42.854722,13.575278,Ascoli Piceno,c_a462,ascoli-piceno,comune
@@ -63,6 +66,7 @@ latitude,longitude,title,ipa,nome,tipo
 42.938139,13.621944,Castignano,c_c321,castignano,comune
 42.898347,13.727569,Castorano,c_c331,castorano,comune
 37.502669,15.087269,Catania,c_c351,catania,comune
+44.856998,8.123143,Celle Enomondo,c_c440,celleenomondo,comune
 44.733333,11.283333,Cento,c_c469,cento,comune
 43.319739,12.984769,Cerreto d'Esi,c_c524,cerreto-desi,comune
 42.816667,12.916667,Cerreto di Spoleto,c_c527,cerreto-di-spoleto,comune
@@ -79,6 +83,7 @@ latitude,longitude,title,ipa,nome,tipo
 43.248219,13.507531,Corridonia,c_d042,corridonia,comune
 42.62186,13.50774,Cortino,c_d076,cortino,comune
 42.983989,13.688081,Cossignano,c_d096,cossignano,comune
+45.36079,9.682166,Crema,c_d142,crema,comune
 40.6,17.233333,Crispiano,c_d171,crispiano,comune
 42.583333,13.483333,Crognaleto,c_d179,crognaleto,comune
 43.25135,12.945889,Esanatoglia,c_d429,esanatoglia,comune
@@ -91,15 +96,18 @@ latitude,longitude,title,ipa,nome,tipo
 43.771389,11.254167,Firenze,c_d612,firenze,comune
 43.188489,12.931689,Fiuminata,c_d628,fiuminata,comune
 42.821,13.63295,Folignano,c_d652,folignano,comune
+42.95644,12.703809,Foligno,c_a072,foligno,comune
 42.963331,13.491031,Force,c_d691,force,comune
 40.433333,17.466667,Fragagnano,c_d754,fragagnano,comune
 40.531389,17.585833,Francavilla Fontana,c_d761,francavillafontana,comune
 37.716667,14.533333,Gagliano Castelferrato,c_d849,gaglianocastelferrato,comune
 43.239081,13.0678,Gagliole,c_d853,gagliole,comune
 40.166667,18.166667,Galatina,c_d862,galatina,comune
+44.406972,8.934059,Genova,c_d969,genova,comune
 40.5,16.75,Ginosa,c_e036,ginosa,comune
 41.183333,16.666667,Giovinazzo,c_e047,giovinazzo,comune
 37.566667,15.066667,Gravina di Catania,c_e156,gravinadicatania,comune
+40.820556,16.42333,Gravina in Puglia,c_e155,gravinainpuglia,comune
 43.066919,13.338,Gualdo,c_e228,gualdo,comune
 40.75,16.233333,Irsina,c_e326,irsina,comune
 42.5075,13.657778,Isola del Gran Sasso d'Italia,c_e343,isola-del-gran-sasso-ditalia,comune
@@ -165,6 +173,7 @@ latitude,longitude,title,ipa,nome,tipo
 44.883333,7.333333,Pinerolo,c_g674,pinerolo,comune
 43.178936,12.984931,Pioraco,c_g690,pioraco,comune
 43.716667,10.4,Pisa,c_g702,pisa,comune
+40.383333,16.55,Pisticci,c_g712,pisticci,comune
 42.43603,13.29886,Pizzoli,c_g726,pizzoli,comune
 39,16.316667,Platania,c_g734,platania,comune
 42.5,12.883333,Poggio Bustone,c_g756,poggio-bustone,comune
@@ -176,6 +185,7 @@ latitude,longitude,title,ipa,nome,tipo
 40.633333,15.8,Potenza,c_g942,potenza,comune
 43.880814,11.096561,Prato,c_g999,prato,comune
 42.883333,13.033333,Preci,c_h015,preci,comune
+44.858814,8.158253,Revigliasco d'Asti,c_h250,revigliascodasti,comune
 42.40443,12.856702,Rieti,c_h282,rieti,comune
 42.2,12.483333,Rignano Flaminio,c_h288,rignano_flaminio,comune
 43.142731,13.36715,Ripe San Ginesio,c_h323,ripe-san-ginesio,comune
@@ -185,6 +195,7 @@ latitude,longitude,title,ipa,nome,tipo
 45.6246,12.3766,Roncade,c_h523,roncade,comune
 42.954569,13.56095,Rotella,c_h588,rotella,comune
 45.683333,12.383333,San Biagio di Callalta,c_h781,sanbiagiodicallalta,comune
+37.960526,13.181605,San Cipirello,c_h797,sancipirello,comune
 43.107844,13.316667,San Ginesio,c_h876,san-ginesio,comune
 37.966667,13.183333,San Giuseppe Jato,c_h933,sangiuseppejato,comune
 40.45,17.5,San Marzano di San Giuseppe,c_i018,sanmarzanodisangiuseppe,comune
@@ -204,6 +215,7 @@ latitude,longitude,title,ipa,nome,tipo
 43.080869,13.492028,Servigliano,c_c070,servigliano,comune
 43.004361,13.445619,Smerillo,c_i774,smerillo,comune
 42.733333,12.733333,Spoleto,c_i921,spoleto,comune
+40.016481,18.365562,Spongano,c_i923,spongano,comune
 40.4,18.133333,Surbo,c_l011,surbo,comune
 40.418056,17.240833,Taranto,c_l049,taranto,comune
 39.616667,16.266667,Tarsia,c_l055,tarsia,comune
@@ -212,6 +224,7 @@ latitude,longitude,title,ipa,nome,tipo
 39.65,16.333333,Terranova da Sibari,c_l124,terranovadasibari,comune
 43.208611,13.2841,Tolentino,c_l191,tolentino,comune
 45.066667,7.7,Torino,c_l219,torino,comune
+40.466667,17.733333,Torre Santa Susanna,c_l280,torresantasusanna,comune
 42.66,13.658056,Torricella Sicura,c_l295,torricella-sicura,comune
 42.55,13.65,Tossicia,c_l314,tossicia,comune
 38,13.65,Trabia,c_l317,trabia,comune

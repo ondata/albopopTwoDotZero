@@ -17,7 +17,7 @@ lat: 41.183333
 lng: 16.666667
 image: c_e047.png
 accessible: true
-standard: false
+standard: true
 official: false
 ---
 

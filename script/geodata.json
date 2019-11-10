@@ -7,11 +7,51 @@
   "tipo": "altrepa"
 }
 {
+  "latitude": null,
+  "longitude": null,
+  "title": "Città della Salute e della Scienza di Torino",
+  "ipa": null,
+  "nome": "cittadellasalutetorino",
+  "tipo": "altrepa"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "cittadellasalutetorino",
+  "tipo": "altrepa"
+}
+{
+  "latitude": 44.413651,
+  "longitude": 8.936053,
+  "title": "Città Metropolitana di Genova",
+  "ipa": "c_d969",
+  "nome": "genovametropolitana",
+  "tipo": "altrepa"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "genovametropolitana",
+  "tipo": "altrepa"
+}
+{
   "latitude": 38.115556,
   "longitude": 13.361389,
   "title": "Città Metropolitana di Palermo",
   "ipa": "p_pa",
   "nome": "palermometropolitana",
+  "tipo": "altrepa"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": "Parco dell'Etna",
+  "ipa": "epe_ct",
+  "nome": "parcodelletna",
   "tipo": "altrepa"
 }
 {
@@ -71,6 +111,14 @@
   "tipo": "comune"
 }
 {
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "accumoli",
+  "tipo": "comune"
+}
+{
   "latitude": 42.7692,
   "longitude": 13.40945,
   "title": "Acquasanta Terme",
@@ -84,6 +132,22 @@
   "title": "Agira",
   "ipa": "c_a070",
   "nome": "agira",
+  "tipo": "comune"
+}
+{
+  "latitude": 44.79125,
+  "longitude": 8.25073,
+  "title": "Agliano Terme",
+  "ipa": "c_a072",
+  "nome": "aglianoterme",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "aglianoterme",
   "tipo": "comune"
 }
 {
@@ -188,6 +252,22 @@
   "title": null,
   "ipa": null,
   "nome": "appignano-del-tronto",
+  "tipo": "comune"
+}
+{
+  "latitude": 45.6648,
+  "longitude": 8.0396,
+  "title": "Aramengo",
+  "ipa": "c_a352",
+  "nome": "aramengo",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "aramengo",
   "tipo": "comune"
 }
 {
@@ -403,6 +483,14 @@
   "longitude": 18.316667,
   "title": "Botrugno",
   "ipa": "c_b086",
+  "nome": "botrugno",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
   "nome": "botrugno",
   "tipo": "comune"
 }
@@ -719,6 +807,22 @@
   "tipo": "comune"
 }
 {
+  "latitude": 44.856998,
+  "longitude": 8.123143,
+  "title": "Celle Enomondo",
+  "ipa": "c_c440",
+  "nome": "celleenomondo",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "celleenomondo",
+  "tipo": "comune"
+}
+{
   "latitude": 44.733333,
   "longitude": 11.283333,
   "title": "Cento",
@@ -951,6 +1055,22 @@
   "tipo": "comune"
 }
 {
+  "latitude": 45.36079,
+  "longitude": 9.682166,
+  "title": "Crema",
+  "ipa": "c_d142",
+  "nome": "crema",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "crema",
+  "tipo": "comune"
+}
+{
   "latitude": 40.6,
   "longitude": 17.233333,
   "title": "Crispiano",
@@ -1127,6 +1247,22 @@
   "tipo": "comune"
 }
 {
+  "latitude": 42.95644,
+  "longitude": 12.703809,
+  "title": "Foligno",
+  "ipa": "c_a072",
+  "nome": "foligno",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "foligno",
+  "tipo": "comune"
+}
+{
   "latitude": 42.963331,
   "longitude": 13.491031,
   "title": "Force",
@@ -1191,10 +1327,34 @@
   "tipo": "comune"
 }
 {
+  "latitude": 44.406972,
+  "longitude": 8.934059,
+  "title": "Genova",
+  "ipa": "c_d969",
+  "nome": "genova",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "genova",
+  "tipo": "comune"
+}
+{
   "latitude": 40.5,
   "longitude": 16.75,
   "title": "Ginosa",
   "ipa": "c_e036",
+  "nome": "ginosa",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
   "nome": "ginosa",
   "tipo": "comune"
 }
@@ -1212,6 +1372,14 @@
   "title": "Gravina di Catania",
   "ipa": "c_e156",
   "nome": "gravinadicatania",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.820556,
+  "longitude": 16.42333,
+  "title": "Gravina in Puglia",
+  "ipa": "c_e155",
+  "nome": "gravinainpuglia",
   "tipo": "comune"
 }
 {
@@ -1999,6 +2167,22 @@
   "tipo": "comune"
 }
 {
+  "latitude": 40.383333,
+  "longitude": 16.55,
+  "title": "Pisticci",
+  "ipa": "c_g712",
+  "nome": "pisticci",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "pisticci",
+  "tipo": "comune"
+}
+{
   "latitude": 42.43603,
   "longitude": 13.29886,
   "title": "Pizzoli",
@@ -2135,6 +2319,22 @@
   "tipo": "comune"
 }
 {
+  "latitude": 44.858814,
+  "longitude": 8.158253,
+  "title": "Revigliasco d'Asti",
+  "ipa": "c_h250",
+  "nome": "revigliascodasti",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "revigliascodasti",
+  "tipo": "comune"
+}
+{
   "latitude": 42.40443,
   "longitude": 12.856702,
   "title": "Rieti",
@@ -2236,6 +2436,22 @@
   "title": "San Biagio di Callalta",
   "ipa": "c_h781",
   "nome": "sanbiagiodicallalta",
+  "tipo": "comune"
+}
+{
+  "latitude": 37.960526,
+  "longitude": 13.181605,
+  "title": "San Cipirello",
+  "ipa": "c_h797",
+  "nome": "sancipirello",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "sancipirello",
   "tipo": "comune"
 }
 {
@@ -2503,6 +2719,22 @@
   "tipo": "comune"
 }
 {
+  "latitude": 40.016481,
+  "longitude": 18.365562,
+  "title": "Spongano",
+  "ipa": "c_i923",
+  "nome": "spongano",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "spongano",
+  "tipo": "comune"
+}
+{
   "latitude": 40.4,
   "longitude": 18.133333,
   "title": "Surbo",
@@ -2515,6 +2747,14 @@
   "longitude": 17.240833,
   "title": "Taranto",
   "ipa": "c_l049",
+  "nome": "taranto",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
   "nome": "taranto",
   "tipo": "comune"
 }
@@ -2580,6 +2820,22 @@
   "title": "Torino",
   "ipa": "c_l219",
   "nome": "torino",
+  "tipo": "comune"
+}
+{
+  "latitude": 40.466667,
+  "longitude": 17.733333,
+  "title": "Torre Santa Susanna",
+  "ipa": "c_l280",
+  "nome": "torresantasusanna",
+  "tipo": "comune"
+}
+{
+  "latitude": null,
+  "longitude": null,
+  "title": null,
+  "ipa": null,
+  "nome": "torresantasusanna",
   "tipo": "comune"
 }
 {
