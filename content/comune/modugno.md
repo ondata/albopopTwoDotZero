@@ -17,7 +17,7 @@ lat: 41.083333
 lng: 16.783333
 image: c_f262.png
 accessible: true
-standard: false
+standard: true
 official: false
 ---
 

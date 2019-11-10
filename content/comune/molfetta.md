@@ -17,7 +17,7 @@ lat: 41.2
 lng: 16.6
 image: c_f284.png
 accessible: true
-standard: false
+standard: true
 official: false
 ---
 
