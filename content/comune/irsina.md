@@ -17,7 +17,7 @@ lat: 40.75
 lng: 16.233333
 image: c_e326.png
 accessible: true
-standard: false
+standard: true
 official: false
 ---
 

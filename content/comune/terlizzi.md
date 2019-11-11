@@ -17,7 +17,7 @@ lat: 41.133333
 lng: 16.55
 image: c_l109.png
 accessible: true
-standard: false
+standard: true
 official: false
 ---
 

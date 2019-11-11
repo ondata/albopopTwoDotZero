@@ -16,7 +16,7 @@ lat: 41.108333
 lng: 16.691667
 image: c_a893.png
 accessible: true
-standard: false
+standard: true
 official: true
 ---
 
