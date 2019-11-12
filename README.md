@@ -19,7 +19,7 @@ con il supporto per [Hugo Pipes](https://gohugo.io/hugo-pipes/).
 
 * Una volta finito di lavorare, chiudi il server di sviluppo e genera i file statici del sito (nella cartella `public/`) con il comando `hugo`.
 
-* Salva le tue modifiche al progetto con `git add .` e `git commit -m '[descrizione modifiche]'` (assicurati di committare anche i file della cartella `public/`).
+* ~~Salva le tue modifiche al progetto con `git add .` e `git commit -m '[descrizione modifiche]'` (assicurati di committare anche i file della cartella `public/`)~~ (questo non è più necessario, perché viene fatto automaticamente, sul sito pubblico, dopo l'approvazione della pull request).
 
 * Pubblica le tue modifiche sul repository condiviso con `git push` (direttamente la branch develop oppure una tua branch derivata da questa).
 
