@@ -16,7 +16,7 @@ lat: 40.088545
 lng: 16.010401
 image: c_e474.png
 accessible: false
-standard: false
+standard: true
 official: true
 ---
 
