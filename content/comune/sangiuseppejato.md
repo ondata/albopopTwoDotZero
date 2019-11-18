@@ -4,7 +4,7 @@ tags: []
 original: http://156.54.128.62/sgjato
 rss: http://feeds.feedburner.com/AlbopretorioSanGiuseppeJato
 twitter: https://twitter.com/albosgjato
-facebook: 
+facebook:
 telegram: https://telegram.me/albopretoriosangiuseppejato
 pdf: Delibera 30 del 20160219 di Giunta SGJ_Condivisione e promozione ALBO POP san giuseppe jato.pdf
 author: Giuseppe Ragusa (https://github.com/giuragu)
@@ -20,10 +20,3 @@ standard: false
 official: true
 ---
 
-La pagina dell'albo pretorio del **Comune di San Giuseppe Jato** è questa: [http://156.54.128.62/sgjato](http://156.54.128.62/sgjato)
-
-Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
-
-* su un account **Twitter** [https://twitter.com/albosgjato](https://twitter.com/albosgjato);
-* su un canale **Telegram** [https://telegram.me/albopretoriosangiuseppejato](https://telegram.me/albopretoriosangiuseppejato);
-* iscrivendoti a un **feed RSS** [http://feeds.feedburner.com/AlbopretorioSanGiuseppeJato](http://feeds.feedburner.com/AlbopretorioSanGiuseppeJato).
