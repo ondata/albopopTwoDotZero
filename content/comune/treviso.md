@@ -3,21 +3,21 @@ title: Treviso
 tags: []
 original: http://albo.comune.treviso.it/publishing/AP/index.do?org=treviso
 rss: http://feeds.feedburner.com/AlboPretorioTreviso
-twitter: 
-facebook: 
+twitter:
+facebook:
 telegram: https://t.me/albopoptreviso
-pdf: 
+pdf:
 author:
  - Carlo Felice Dalla Pasqua (https://twitter.com/carlofelice)
  - Andrea Borruso (https://twitter.com/aborruso)
-repo: 
+repo:
 regione: Veneto
 provincia: Treviso
 istat: 026086
 ipa: c_l407
 lat: 45.672222
 lng: 12.242222
-image: c_l407.svg
+image: c_l407.png
 accessible: true
 standard: false
 official: false

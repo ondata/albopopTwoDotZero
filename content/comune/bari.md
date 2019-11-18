@@ -4,9 +4,9 @@ tags: []
 original: http://albo.comune.bari.it/
 rss: http://feeds.feedburner.com/Albopopbari
 twitter: https://twitter.com/albopopbari
-facebook: 
+facebook:
 telegram: https://telegram.me/albopopbari
-pdf: 
+pdf:
 author: Francesco Piero Paolicelli alias Piersoft (https://twitter.com/Piersoft)
 regione: Puglia
 provincia: Bari
@@ -14,7 +14,7 @@ istat: 072006
 ipa: c_a662
 lat: 41.125278
 lng: 16.866667
-image: c_a662.svg
+image: c_a662.png
 accessible: true
 standard: false
 official: false

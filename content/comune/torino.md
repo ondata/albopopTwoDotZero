@@ -3,10 +3,10 @@ title: Torino
 tags: []
 original: http://www.comune.torino.it/albopretorio/
 rss: https://www.opendatahacklab.org/albopop/torino/feed.php
-twitter: 
+twitter:
 facebook:
-telegram: 
-pdf: 
+telegram:
+pdf:
 author: Cristiano Longo (https://www.opendatahacklab.org)
 repo: https://github.com/opendatahacklab/albopop
 regione: Piemonte
@@ -15,7 +15,7 @@ istat: 001272
 ipa: c_l219
 lat: 45.066667
 lng: 7.7
-image: c_l219.svg
+image: c_l219.png
 accessible: true
 standard: false
 official: false
@@ -31,6 +31,6 @@ Vedi anche il [Gruppo Facebook AlboPop Torino - Comune e Universita'](https://ww
 **Autore**: Cristiano Longo
 
 **Note**: Questo Albo POP è stato realizzato nell'ambito del progetto
-[opendatahacklab](http://opendatahacklab.org) grazie al sostegno di Riccardo Grosso. 
+[opendatahacklab](http://opendatahacklab.org) grazie al sostegno di Riccardo Grosso.
 
 ![Foto di Riccardo](http://dev.opendatasicilia.it/albopop/torino/grosso.png)
