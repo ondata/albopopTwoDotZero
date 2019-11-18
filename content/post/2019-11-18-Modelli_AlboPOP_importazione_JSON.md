@@ -2,8 +2,8 @@
 title: "Realizzare un AlboPOP: quando la sorgente è un file JSON"
 date: 2019-11-18T12:30:20+01:00
 tags: scraping, json, import
-coverImage: 
-draft: true
+coverImage:
+draft: false
 coverColor: blue
 author: Fabrizio Puce
 authorURL: https://www.linkedin.com/in/fabriziopuce/
@@ -18,7 +18,7 @@ Rispetto ad altri albi pretori, quando viene cliccato su una delle voci relative
 Tramite gli strumenti per sviluppatori di Google Chrome ho iniziato l'analisi della pagina. Nella scheda Network -> XHR viene mostrato un richiamo al file
 [https://portale.comune.venezia.it/sites/all/modules/yui_venis/albo.php?tipo=JSON](https://portale.comune.venezia.it/sites/all/modules/yui_venis/albo.php?tipo=JSON)
 
-Da notare la variabile presente nell'url dopo il punto interrogativo: "tipo=JSON". Da ciò ho dedotto che fosse possibile richiedere al file albo.php un'altra versione del file che non fosse JSON. Sempre tramite gli strumenti per sviluppatori di Google Chrome ho rintracciato un file JS che eseguiva una query trasformando una sorgente XML in JSON. Allora ho provato a sostituire nell'url ottenuto in precedenza la variabile "tipo" scrivendo direttamente XML, ottenendo questo file:
+Da notare la variabile presente nell'url dopo il punto interrogativo: `tipo=JSON`. Da ciò ho dedotto che fosse possibile richiedere al file albo.php un'altra versione del file che non fosse JSON. Sempre tramite gli strumenti per sviluppatori di Google Chrome ho rintracciato un file JS che eseguiva una query trasformando una sorgente XML in JSON. Allora ho provato a sostituire nell'url ottenuto in precedenza la variabile "tipo" scrivendo direttamente XML, ottenendo questo file:
 [https://portale.comune.venezia.it/sites/all/modules/yui_venis/albo.php?tipo=XML](https://portale.comune.venezia.it/sites/all/modules/yui_venis/albo.php?tipo=XML)
 
 Ho cercato quindi di importare il file XML ottenuto nel Google Sheet di base fornito da Andrea Borruso, ma il risultato non è stato dei migliori.
