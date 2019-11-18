@@ -1,7 +1,7 @@
 ---
 title: "Realizzare un AlboPOP: quando la sorgente è un file JSON"
 date: 2019-11-18T12:30:20+01:00
-tags: scraping, json, import
+tags: ["scraping","json","import"]
 coverImage:
 draft: false
 coverColor: blue
