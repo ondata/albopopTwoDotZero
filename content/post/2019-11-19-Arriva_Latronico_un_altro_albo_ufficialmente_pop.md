@@ -18,6 +18,6 @@ Ne è stata data [notizia](http://www.latronico.eu/progetto-albopop-e-canale-tel
 - tramite il canale Telegram comunale <https://t.me/comunelatronico>;
 - tremite feed RSS <https://script.google.com/macros/s/AKfycbyrzQSUOUdAeAQL6biI3xbdcIfpQHgoVgdbgMNsd6dplGI-l7I/exec>.
 
-Latriano si aggiunge a [Bitonto, Cento, Cori, Messina, Patti, San Giuseppe Jato e Torre Santa Susanna](https://albopop.it/ufficiale/).
+Latriano si aggiunge a [Bitonto, Cento, Cori, Messina, Patti, San Giuseppe Jato e Torre Santa Susanna](https://albopop.it/ufficiale/). Se vuoi che avvenga **anche per il tuo comune**, [qui](https://albopop.it/partecipa/#pa) la **guida**.
 
 Un grazie e un benvenuto a Vincenzo!
