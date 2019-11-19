@@ -13,10 +13,10 @@ Vincenzo è il **vicesindaco di Latronico** e ci ha fatto proprio una bella sorp
 La delibera è la [N° 131 del 15-11-2019](https://albopop.it/pdf/delibera_albopop_latronico.pdf) e può essere presa come riferimento per altri comuni che lo volessero [emulare](https://albopop.it/pdf/delibera_albopop_latronico.pdf).
 
 
-Ne è stata data [notizia](http://www.latronico.eu/progetto-albopop-e-canale-telegram-il-comune-di-latronico-attiva-altri-due-strumenti-di-comunicazione-e-trasparenza) sul sito del Comune e sono stati abilitate due classiche modalità di consultazione:
+Ne è stata data [notizia](http://www.latronico.eu/progetto-albopop-e-canale-telegram-il-comune-di-latronico-attiva-altri-due-strumenti-di-comunicazione-e-trasparenza) sul sito del Comune e sono state abilitate due classiche modalità di consultazione:
 
-- tramite il canale Telegram comunale <https://t.me/comunelatronico>;
-- tremite feed RSS <https://script.google.com/macros/s/AKfycbyrzQSUOUdAeAQL6biI3xbdcIfpQHgoVgdbgMNsd6dplGI-l7I/exec>.
+- il canale Telegram comunale <https://t.me/comunelatronico>;
+- il feed RSS <https://script.google.com/macros/s/AKfycbyrzQSUOUdAeAQL6biI3xbdcIfpQHgoVgdbgMNsd6dplGI-l7I/exec>.
 
 Latriano si aggiunge a [Bitonto, Cento, Cori, Messina, Patti, San Giuseppe Jato e Torre Santa Susanna](https://albopop.it/ufficiale/). Se vuoi che avvenga **anche per il tuo comune**, [qui](https://albopop.it/partecipa/#pa) la **guida**.
 
