@@ -17,15 +17,15 @@ images:
 - [Come posso usare un feed RSS per seguire un AlboPOP?](#come-posso-usare-un-feed-rss-per-seguire-un-albopop)
 - [Come creo un AlboPOP?](#come-creo-un-albopop)
 - [Come aggiungo un AlboPOP sul sito?](#come-aggiungo-un-albopop-sul-sito)
-    - [Compilando questo form](#compilando-questo-form)
-    - [Facendo una Pull Request su GitHub](#facendo-una-pull-request-su-github)
+  - [Compilando un form](#compilando-un-form)
+  - [Facendo una Pull Request su GitHub](#facendo-una-pull-request-su-github)
 - [Cosa è un AlboPOP "ufficiale"?](#cosa-è-un-albopop-ufficiale)
 
 <!-- /TOC -->
 
 ## Cosa è un Albo Pretorio?
 
-Gli [Albi Pretori](https://it.wikipedia.org/wiki/Albo_pretorio) sono delle **pagine web** in cui le **pubbliche amministrazioni** italiane **devono pubblicare**, a norma di legge, una determinata serie di informazioni e documenti. All'interno, ad esempio, si trovano: **avvisi pubblici**, **bandi di concorso**, **determine dirigenziali**, **avvisi ed esiti di gare**, notifiche, **ordinanze del sindaco**, **pubblicazioni di matrimonio**. Si tratta di elementi molto utili a chi vuole vivere il proprio territorio in modo consapevole e attivo. 
+Gli [Albi Pretori](https://it.wikipedia.org/wiki/Albo_pretorio) sono delle **pagine web** in cui le **pubbliche amministrazioni** italiane **devono pubblicare**, a norma di legge, una determinata serie di informazioni e documenti. All'interno, ad esempio, si trovano: **avvisi pubblici**, **bandi di concorso**, **determine dirigenziali**, **avvisi ed esiti di gare**, notifiche, **ordinanze del sindaco**, **pubblicazioni di matrimonio**. Si tratta di elementi molto utili a chi vuole vivere il proprio territorio in modo consapevole e attivo.
 
 ## Cosa è un Albo Pretorio POP?
 
@@ -48,7 +48,7 @@ Puoi cercare sul web una delle numerose guide che permettono di [**alimentare un
 
 ## Come creo un AlboPOP?
 
-Per creare un AlboPOP devi **scrivere un software** che **legga le pagine web dell'Albo Pretorio** che ti interessa e le **traduca** in un **feed RSS**. Devi avere alcune nozioni base di programmazione o potresti avere supporto dalla comunità tramite [uno di questi spazi di progetto](/discuti). 
+Per creare un AlboPOP devi **scrivere un software** che **legga le pagine web dell'Albo Pretorio** che ti interessa e le **traduca** in un **feed RSS**. Devi avere alcune nozioni base di programmazione o potresti avere supporto dalla comunità tramite [uno di questi spazi di progetto](/discuti).
 
 Per AlboPOP [Alessio Cimarelli](https://twitter.com/jenkin27) e [Giovanni Pirrotta](https://twitter.com/gpirrotta) hanno creato delle [**specifiche** RSS **dedicate**](/specs/): se quando crei il feed, le rispetti, fai il massimo, perché non soltanto hai creato la base per una modalità di fruizione più semplice, ma soprattutto hai **arricchito** di **informazioni** e dato **struttura** a informazioni che ne erano prive.
 
@@ -80,7 +80,7 @@ Se sai usare **GitHub**, la cosa più semplice è partire ad esempio da [uno dei
 
 ## Cosa è un AlboPOP "ufficiale"?
 
-È l'albo di una Pubblica Amministrazione che ha prodotto al suo interno una delibera, un atto pubblico, ecc. in cui da notizia dell'adozione di questa modalità di pubblicazione. Sono [ufficialmente POP](/ufficiale) ad esempio i Comuni di **Messina**, **Patti** (Messina), **San Giuseppe Jato** (Palermo) e **Cori** (Latina).
+È l'albo di una Pubblica Amministrazione che ha prodotto al suo interno una delibera, un atto pubblico, ecc. in cui si dà notizia dell'adozione di questa modalità di pubblicazione. Sono [ufficialmente POP](/ufficiale) ad esempio i Comuni di **Messina**, **Patti** (Messina), **San Giuseppe Jato** (Palermo) e **Cori** (Latina).
 
 Se lavori dentro la PA e vuoi farlo anche tu, puoi prendere spunto da una delle delibere che trovi nelle pagine di questi comuni.
 
