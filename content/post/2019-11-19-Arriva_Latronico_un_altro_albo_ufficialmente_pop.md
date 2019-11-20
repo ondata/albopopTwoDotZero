@@ -6,7 +6,7 @@ coverImage: cover/albopopLatronico.jpg
 coverColor: blue
 ---
 
-Qualche giorno fa ci ha contattato [Vincenzo Castellano](https://www.facebook.com/castellanovincenzo) per darci una bella notizia: il comune di **Latronico** stava per approvare formalmente e sostanzialmente l'utiltizzo di alboPOP per gli atti del **Comune di Latriano**, in provincia di Potenza (Basilicata).
+Qualche giorno fa ci ha contattato [Vincenzo Castellano](https://www.facebook.com/castellanovincenzo) per darci una bella notizia: il comune di **Latronico** stava per approvare formalmente e sostanzialmente l'utiltizzo di alboPOP per gli atti del **Comune di Latronico**, in provincia di Potenza (Basilicata).
 
 Vincenzo è il **vicesindaco di Latronico** e ci ha fatto proprio una bella sorpresa: <https://albopop.it/comune/latronico/>
 
@@ -18,6 +18,6 @@ Ne è stata data [notizia](http://www.latronico.eu/progetto-albopop-e-canale-tel
 - il canale Telegram comunale <https://t.me/comunelatronico>;
 - il feed RSS <https://script.google.com/macros/s/AKfycbyrzQSUOUdAeAQL6biI3xbdcIfpQHgoVgdbgMNsd6dplGI-l7I/exec>.
 
-Latriano si aggiunge a [Bitonto, Cento, Cori, Messina, Patti, San Giuseppe Jato e Torre Santa Susanna](https://albopop.it/ufficiale/). Se vuoi che avvenga **anche per il tuo comune**, [qui](https://albopop.it/partecipa/#pa) la **guida**.
+Latronico si aggiunge a [Bitonto, Cento, Cori, Messina, Patti, San Giuseppe Jato e Torre Santa Susanna](https://albopop.it/ufficiale/). Se vuoi che avvenga **anche per il tuo comune**, [qui](https://albopop.it/partecipa/#pa) la **guida**.
 
 Un grazie e un benvenuto a Vincenzo!
