@@ -6,7 +6,7 @@ coverImage: cover/albopopLatronico.jpg
 coverColor: blue
 ---
 
-Qualche giorno fa ci ha contattato [Vincenzo Castellano](https://www.facebook.com/castellanovincenzo) per darci una bella notizia: il comune di **Latronico** stava per approvare formalmente e sostanzialmente l'utiltizzo di alboPOP per gli atti del **Comune di Latronico**, in provincia di Potenza (Basilicata).
+Qualche giorno fa ci ha contattato [Vincenzo Castellano](https://www.facebook.com/castellanovincenzo) per darci una bella notizia: il comune di **Latronico** - in provincia di Potenza (Basilicata) - stava per approvare formalmente e sostanzialmente l'utiltizzo di alboPOP per i propri atti pubblicati in albo.
 
 Vincenzo è il **vicesindaco di Latronico** e ci ha fatto proprio una bella sorpresa: <https://albopop.it/comune/latronico/>
 
