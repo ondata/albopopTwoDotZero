@@ -1,7 +1,7 @@
 ---
 title: Pedara
 tags: []
-original: http://pubblicazioni.saga.it/publishing/AP/index.do?org=pedara
+original: https://pedara.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio
 rss: http://feeds.feedburner.com/AlboPretorioPedara
 twitter: https://twitter.com/albopedara
 facebook: 
@@ -23,7 +23,7 @@ standard: false
 official: false
 ---
 
-La pagina dell'albo pretorio del **Comune di Pedara** è questa: [http://pubblicazioni.saga.it/publishing/AP/index.do?org=pedara](http://pubblicazioni.saga.it/publishing/AP/index.do?org=pedara)
+La pagina dell'albo pretorio del **Comune di Pedara** è questa: [https://pedara.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio](https://pedara.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio)
 
 Adesso puoi seguire le nuove pubblicazioni in albo in tre modi dedicati:
 
