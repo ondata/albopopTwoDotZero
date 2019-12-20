@@ -2,7 +2,7 @@
 
 Scrivi qui la risposta
 
-## Qual'è l'URL dell'albo ufficiale?
+## Qual è l'URL dell'albo ufficiale?
 
 Scrivi qui la risposta
 
