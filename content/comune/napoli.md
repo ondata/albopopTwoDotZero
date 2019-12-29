@@ -5,7 +5,7 @@ original: http://www.comune.napoli.it/flex/FixedPages/IT/PubblicazioneAtti.php/L
 rss: http://feeds.feedburner.com/Albopopnapoli
 twitter:
 facebook:
-telegram: https://telegram.me/albopopnapoli
+telegram: https://t.me/AlboPopNapoliInterno
 pdf:
 author: Francesco Piero Paolicelli alias Piersoft (https://twitter.com/Piersoft)
 repo:
@@ -25,7 +25,7 @@ La pagina dell'albo pretorio del **Comune di Napoli** è questa: [http://www.com
 
 Adesso puoi seguire le nuove pubblicazioni in albo in due modalità:
 
-* su un canale **Telegram** [https://telegram.me/albopopnapoli](https://telegram.me/albopopnapoli); (gestito da Gianluca De Martino)
+* su un canale **Telegram** [https://t.me/AlboPopNapoliInterno](https://t.me/AlboPopNapoliInterno);
 * tramite un **feed RSS** [http://feeds.feedburner.com/Albopopnapoli](http://feeds.feedburner.com/Albopopnapoli).
 
 **Autore**: [Francesco Paolicelli](https://twitter.com/piersoft).
