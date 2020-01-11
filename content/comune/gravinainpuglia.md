@@ -2,13 +2,13 @@
 title: Gravina in Puglia
 tags: []
 original: https://albopretorio.comune.gravina.ba.it/fo/index.jsp?ente=GravinaInPuglia&tipoSubmit=ricerca
-rss: http://feeds.feedburner.com/AlboPopGravina
-twitter: 
-facebook: 
+rss: http://feeds.feedburner.com/AlboPopGravinaInPuglia
+twitter:
+facebook:
 telegram: https://telegram.me/albopretoriogravinainpuglia
-pdf: 
+pdf:
 author: sputnik63 (https://github.com/sputnik63)
-repo: 
+repo:
 regione: Puglia
 provincia: Bari
 istat: 072023
