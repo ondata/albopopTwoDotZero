@@ -1,14 +1,14 @@
 ---
 title: Modugno
 tags: []
-original: https://www.hypersic.net/cmsmodugno/portale/albopretorio/albopretorioconsultazione.aspx?IDNODE=1230
+original: https://servizionline.hypersic.net/cmsmodugno/portale/albopretorio/albopretorioconsultazione.aspx?IDNODE=1934
 rss: http://feeds.feedburner.com/AlboPopModugno
-twitter: 
-facebook: 
+twitter:
+facebook:
 telegram: https://telegram.me/albopretoriomodugno
-pdf: 
+pdf:
 author: sputnik63 (https://github.com/sputnik63)
-repo: 
+repo:
 regione: Puglia
 provincia: Bari
 istat: 072027
