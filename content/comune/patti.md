@@ -1,8 +1,8 @@
 ---
 title: Patti
 tags: []
-original: http://www.comune.patti.me.it/index.php?option=com_jumi&fileid=75&Itemid=0
-rss: http://feeds.feedburner.com/albopopcomunepatti
+original: http://www.comune.patti.me.it/index.php?option=com_albopretorio&view=albopretorio&Itemid=205
+rss: http://feeds.feedburner.com/albopopcomunedipatti
 twitter: https://twitter.com/AlboPopPatti
 facebook: https://www.facebook.com/AlboPopPatti
 telegram: https://t.me/albopopcomunepatti
