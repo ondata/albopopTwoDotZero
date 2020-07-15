@@ -24,8 +24,8 @@ istat: 080088
 # Inserisci il codice IPA della PA (lo puoi cercare qui https://www.indicepa.gov.it/documentale/index.php)
 ipa: c_i725
 # Inserisci latitudine e longitudine di un punto nell'area in cui ricade la PA
-lat: 39.897433
-lng: 15.779678
+lat: 38.267814
+lng: 16.296818
 # Inserisci il nome del file del logo del Comune (in genere codice_IPA.png)
 image: c_i725.png
 # Se i documenti pubblicati nell'albo sono scansioni, inserire qui sotto "false" (senza virgolette)
