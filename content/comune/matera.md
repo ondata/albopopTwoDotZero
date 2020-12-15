@@ -2,13 +2,13 @@
 title: Matera
 tags: []
 original: http://www.comune.matera.it/albo-pretorio
-rss: http://feeds.feedburner.com/albopopcomunematera
-twitter: 
-facebook: 
-telegram: https://telegram.me/comunedimateranews
-pdf: 
-author: Francesco Piero Paolicelli alias Piersoft (https://twitter.com/Piersoft)
-repo: 
+rss: http://rss.comune.mt.it/rss.xml
+twitter:
+facebook:
+telegram:
+pdf:
+author: Comune di Matera
+repo:
 regione: Basilicata
 provincia: Matera
 istat: 077014
