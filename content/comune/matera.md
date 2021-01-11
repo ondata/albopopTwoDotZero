@@ -5,7 +5,7 @@ original: http://www.comune.matera.it/albo-pretorio
 rss: http://rss.comune.mt.it/rss.xml
 twitter:
 facebook:
-telegram:
+telegram: https://t.me/ComuneMatera
 pdf:
 author: Comune di Matera
 repo:
