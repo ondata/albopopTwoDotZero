@@ -1,12 +1,12 @@
 ---
 title: Barcellona Pozzo di Gotto
 tags: []
-original: http://88.41.51.242/gesdelidet/dadabik_4.2/program_files/index.php?table_name=atti&function=search&where_clause=&page=0&order=datapu&order_type=DESC
-rss: https://script.google.com/macros/s/AKfycbzDyOP18Jwt0k6VSHskxHsFKdv9V47yYzQT8LWwgicwVeWGerE/exec
-twitter: 
+original: http://web11.immediaspa.com/barcellona/mc/mc_p_ricerca.php?multiente=barcellona&pag=0
+rss: https://aborruso.github.io/albiPOPGitHub/c_a638/feed.xml
+twitter:
 facebook: https://www.facebook.com/AlbopretorioBarcellona/
 telegram: https://telegram.me/albopopbarcellonapg
-pdf: 
+pdf:
 author: salvob84 (https://github.com/salvob84)
 regione: Sicilia
 provincia: Messina
