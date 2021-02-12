@@ -7,7 +7,7 @@ twitter:
 facebook:
 telegram:
 pdf:
-author: [Giuseppe Castorina](https://www.facebook.com/giuseppe.castorina.37)
+author: Giuseppe Castorina (https://www.facebook.com/giuseppe.castorina.37)
 regione: Sicilia
 provincia: Catania
 istat: 087002
