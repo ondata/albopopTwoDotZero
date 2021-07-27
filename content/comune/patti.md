@@ -2,7 +2,7 @@
 title: Patti
 tags: []
 original: http://www.comune.patti.me.it/index.php?option=com_albopretorio&view=albopretorio&Itemid=205
-rss: http://feeds.feedburner.com/albopopcomunedipatti
+rss: https://aborruso.github.io/albiPOPGitHub/c_g377/feed.xml
 twitter: https://twitter.com/AlboPopPatti
 facebook: https://www.facebook.com/AlboPopPatti
 telegram: https://t.me/albopopcomunepatti
@@ -33,3 +33,5 @@ Adesso puoi seguire le nuove pubblicazioni in albo in queste modalità:
 
 
 **Autori**: [**Nino Galante**](https://twitter.com/picomiles) e [**Giovanni Pirrotta**](https://twitter.com/gpirrotta)
+
+
