@@ -1,13 +1,13 @@
 ---
 title: Rieti
 tags: ["tci","rt"]
-original: http://albopretorio.insielmercato.it/AlboRieti/home.html
+original: https://rieti-albo.palgpi.it/AlboRieti/home.html
 rss: http://www.semplicepa.it/rssfeed/057059.xml
 twitter: 
 facebook: 
 telegram: 
 pdf: 
-author: SemplicePA <info@eti3.it> (http://www.semplicepa.it)
+author: Marco Acorte <macorte@acortech.it> (https://www.acortech.it)
 repo: 
 regione: Lazio
 provincia: Rieti
@@ -21,7 +21,7 @@ standard: true
 official: false
 ---
 
-La pagina dell'albo pretorio del **Comune di Rieti** è questa: [http://albopretorio.insielmercato.it/AlboRieti/home.html](http://albopretorio.insielmercato.it/AlboRieti/home.html).
+La pagina dell'albo pretorio del **Comune di Rieti** è questa: [https://rieti-albo.palgpi.it/AlboRieti/home.html](https://rieti-albo.palgpi.it/AlboRieti/home.html).
 
 Adesso puoi seguire le nuove pubblicazioni in albo tramite **feed RSS**: [http://feeds.feedburner.com/AlboPretorioComuneRietiV3](http://feeds.feedburner.com/AlboPretorioComuneRietiV3).
 
