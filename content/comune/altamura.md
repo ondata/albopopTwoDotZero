@@ -1,7 +1,7 @@
 ---
 title: Altamura
 tags: []
-original: http://85.35.120.58:9090/hypersicportal/(S(nvxinb45nivd0r45ujw5xb2z))/portale/albopretorio/albopretorioconsultazione.aspx?CATEGORIA_ID=7&EVENTO_ID=5
+original: https://servizionline.hspromilaprod.hypersicapp.net/cmsaltamura/portale/albopretorio/albopretorioconsultazione.aspx?P=6500
 rss: http://feeds.feedburner.com/AlboPopAltamura
 twitter: 
 facebook: 
@@ -21,7 +21,7 @@ standard: true
 official: false
 ---
 
-La pagina dell'albo pretorio del **Comune di Altamura** è questa: [http://85.35.120.58:9090/hypersicportal/(S(nvxinb45nivd0r45ujw5xb2z))/portale/albopretorio/albopretorioconsultazione.aspx?CATEGORIA_ID=7&EVENTO_ID=5](http://85.35.120.58:9090/hypersicportal/(S(nvxinb45nivd0r45ujw5xb2z))/portale/albopretorio/albopretorioconsultazione.aspx?CATEGORIA_ID=7&EVENTO_ID=5)
+La pagina dell'albo pretorio del **Comune di Altamura** è questa: [https://servizionline.hspromilaprod.hypersicapp.net/cmsaltamura/portale/albopretorio/albopretorioconsultazione.aspx?P=6500](https://servizionline.hspromilaprod.hypersicapp.net/cmsaltamura/portale/albopretorio/albopretorioconsultazione.aspx?P=6500)
 
 Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
 
