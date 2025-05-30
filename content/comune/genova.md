@@ -1,17 +1,13 @@
 ---
 title: Genova
 tags: []
-original: https://albopretorio.cittametropolitana.genova.it/albopretorio/Main.do?MVPG=AmvRicercaAlbo
-rss: http://feeds.feedburner.com/AlboPretorioDiGenova
+original: https://alboonline.comune.genova.it/albopretorio/#/albo/list
 twitter:
 facebook:
-telegram: https://t.me/albopopgenova
+telegram: https://t.me/AlboPOPComuneGenova
 pdf:
 author:
- - "@Dario_JonixLUG"
- - "@vic39 (http://vincentforty.weebly.com/)"
- - JonixLUG (https://www.jonixlug.altervista.org/)
- - Cooperativa Sociale Lacanosa (http://www.cooperativasociale.org)
+ - "Nicola Vallinoto"
 regione: Liguria
 provincia: Genova
 istat: 010025
