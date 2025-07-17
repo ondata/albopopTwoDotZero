@@ -2,7 +2,7 @@
 title: San Giuseppe Jato
 tags: []
 original: http://156.54.128.62/sgjato
-rss: http://feeds.feedburner.com/AlbopretorioSanGiuseppeJato
+rss: https://aborruso.github.io/albiPOPGitHub/c_h933/feed.xml
 twitter: https://twitter.com/albosgjato
 facebook:
 telegram: https://telegram.me/albopretoriosangiuseppejato
