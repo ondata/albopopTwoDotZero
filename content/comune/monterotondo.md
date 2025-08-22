@@ -2,13 +2,13 @@
 title: Monterotondo
 tags: []
 original: https://alboonline.comune.genova.it/albopretorio/
-rss:
+rss: https://raw.githubusercontent.com/Magantgiu/AlboPop_Monterotondo/refs/heads/main/albopop_monterotondo.xml
 twitter:
 facebook:
 telegram:
 pdf:
 author:
- - "Anton Giulio Maglione"
+ - "Anton Giulio Maglione (https://github.com/Magantgiu/AlboPop_Monterotondo)"
 regione: Lazio
 provincia: Roma
 istat: 058065
