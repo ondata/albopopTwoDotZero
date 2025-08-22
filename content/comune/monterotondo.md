@@ -1,7 +1,7 @@
 ---
 title: Monterotondo
 tags: []
-original: https://alboonline.comune.genova.it/albopretorio/
+original: https://servizionline.hspromilaprod.hypersicapp.net/cmsmonterotondo/portale/albopretorio/albopretorioconsultazione.aspx?P=400
 rss: https://raw.githubusercontent.com/Magantgiu/AlboPop_Monterotondo/refs/heads/main/albopop_monterotondo.xml
 twitter:
 facebook:
