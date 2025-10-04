@@ -2,13 +2,13 @@
 title: Terlizzi
 tags: []
 original: http://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_ricerca.php
-rss: http://feeds.feedburner.com/AlboPopTerlizzi
-twitter: 
-facebook: 
-telegram: https://telegram.me/albopretorioterlizzi
-pdf: 
-author: sputnik63 (https://github.com/sputnik63)
-repo: 
+rss: https://aborruso.github.io/albiPOPGitHub/c_l109/feed.xml
+twitter:
+facebook:
+telegram:
+pdf:
+author: aborruso (https://bsky.app/profile/aborruso.bsky.social)
+repo:
 regione: Puglia
 provincia: Bari
 istat: 072043
@@ -25,8 +25,6 @@ La pagina dell'albo pretorio del **Comune di Terlizzi** è questa: [http://www.c
 
 Adesso puoi seguire le nuove pubblicazioni in albo in due modi dedicati:
 
-* su un canale **Telegram** [https://telegram.me/albopretorioterlizzi](https://telegram.me/albopretorioterlizzi);
-* iscrivendoti a un **feed RSS** [http://feeds.feedburner.com/AlboPopTerlizzi](http://feeds.feedburner.com/AlboPopTerlizzi).
+* iscrivendoti a un **feed RSS** [https://aborruso.github.io/albiPOPGitHub/c_l109/feed.xml](https://aborruso.github.io/albiPOPGitHub/c_l109/feed.xml).
 
-**Autore**: [sputnik63](https://github.com/sputnik63)
- 
+**Autore**: [aborruso](https://bsky.app/profile/aborruso.bsky.social)
