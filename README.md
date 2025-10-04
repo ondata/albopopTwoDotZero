@@ -58,3 +58,10 @@ Per aggiornare la versione pubblica (sulla branch `gh-pages`): `git subtree push
 
 Se la cartella del tema `themes/albopop` risulta assente o vuota, assicurati di essere sulla branch *develop* (con `git checkout develop`),
 di avere il repository locale aggiornato (con `git pull`) ed esegui `git submodule update --init --recursive`.
+
+---
+
+## Dettagli Tecnici e Hosting
+
+Il sito è ospitato su Netlify sull'account GitHub `aborruso`.
+È basato su Hugo 0.49.2, ancora funzionante al 2025-10-04.
