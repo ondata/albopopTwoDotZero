@@ -36,6 +36,8 @@ rappresentano i post (in particolare sono previsti *post* del blog, *comune*, *a
 
 I file `_index.md` rappresentano le pagine di elenco dei post corrispondenti.
 
+Se si vuole "spegnere" un comune o altra pagina di un albo, basta spostare il suo file `.md` replicando la struttura in `_archivio`. Ad esempio, da `content/comune/accumoli.md` a `content/_archivio/comune/accumoli.md`.
+
 ### Struttura delle pagine
 
 L'output HTML delle pagine è definito da file di template nella cartella `layouts/`, che a loro volta sostituiscono o si aggiungono
