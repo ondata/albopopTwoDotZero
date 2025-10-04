@@ -5,7 +5,7 @@ original: https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_pretorio.php
 rss: https://aborruso.github.io/albiPOPGitHub/c_e047/feed.xml
 twitter:
 facebook:
-telegram: https://telegram.me/albopretoriogiovinazzo
+telegram:
 pdf:
 author: aborruso (https://bsky.app/profile/aborruso.bsky.social)
 repo:
