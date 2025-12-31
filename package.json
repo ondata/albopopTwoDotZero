@@ -21,9 +21,5 @@
   "bugs": {
     "url": "https://github.com/ondata/albopopTwoDotZero/issues"
   },
-  "homepage": "https://github.com/ondata/albopopTwoDotZero#readme",
-  "devDependencies": {
-    "autoprefixer": "^9.3.1",
-    "postcss-cli": "^6.0.1"
-  }
+  "homepage": "https://github.com/ondata/albopopTwoDotZero#readme"
 }
