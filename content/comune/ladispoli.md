@@ -1,7 +1,7 @@
 ---
 title: Ladispoli
 tags: []
-original: http://89.97.181.229/web/trasparenza/albo-pretorio/-/papca/display/
+original: https://servizionline.comunediladispoli.it/web/trasparenza/albo-pretorio
 rss: https://feeds.feedburner.com/albopopladispoli
 twitter:
 facebook:
