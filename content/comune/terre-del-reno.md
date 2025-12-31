@@ -5,7 +5,7 @@ original: https://servizionline.comune.terredelreno.fe.it/mc/mc_p_ricerca.php
 rss: https://aborruso.github.io/albiPOPGitHub/cdtdr/feed.xml
 twitter:
 facebook:
-telegram:
+telegram: https://t.me/AlboPOPTerreDelReno
 pdf:
 author: andrea.borruso@gmail.com (Andrea Borruso)
 repo:
