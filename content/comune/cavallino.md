@@ -5,7 +5,7 @@ tags: []
 # Inserisci l'URL dell'albo pretorio ufficiale
 original: http://trasparenza.parsec326.it/en/widget/web/cavallino/albo-pretorio/-/pubblicazionionline_WAR_pubblicazionionlineportlet
 # Inserisci l'URL del feed RSS dell'AlboPOP
-rss: http://feeds.feedburner.com/AlbopopCavallino
+rss: https://script.google.com/macros/s/AKfycbwFrJ4j-IlRmWhn8taLys6TfUPE_HFaoRVWUBijYir7pw9b_qYRy9bwj-tqhDAssGXCBg/exec
 # Inserisci, se esiste, l'URL dell'account twitter dell'albo
 twitter: 
 # Inserisci, se esiste, l'URL della pagina Facebook dell'albo
