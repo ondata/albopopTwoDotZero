@@ -5,7 +5,7 @@ tags: []
 # Inserisci l'URL dell'albo pretorio ufficiale
 original: https://trasparenza.parsec326.it/en/widget/web/carmiano/albo-pretorio/-/pubblicazionionline_WAR_pubblicazionionlineportlet
 # Inserisci l'URL del feed RSS dell'AlboPOP
-rss: [http://feeds.feedburner.com/AlbopopCarmiano](https://script.google.com/macros/s/AKfycbzDdJCuPmTn1rtp--hzCI2MaROgQg0clTu0mBlNuLukFxutUA9Z0qc4fj6iZwv7xHLu/exec)
+rss: https://script.google.com/macros/s/AKfycbzDdJCuPmTn1rtp--hzCI2MaROgQg0clTu0mBlNuLukFxutUA9Z0qc4fj6iZwv7xHLu/exec
 # Inserisci, se esiste, l'URL dell'account twitter dell'albo
 twitter: 
 # Inserisci, se esiste, l'URL della pagina Facebook dell'albo
