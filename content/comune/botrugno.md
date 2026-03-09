@@ -3,7 +3,7 @@
 title: Botrugno
 tags: []
 # Inserisci l'URL dell'albo pretorio ufficiale
-original: http://albo.studiok.it/botrugno/albo/index.php
+original: https://servizionline.hspromilaprod.hypersicapp.net/cmsbotrugno/portale/albopretorio/albopretorioconsultazione.aspx
 # Inserisci l'URL del feed RSS dell'AlboPOP
 rss: http://feeds.feedburner.com/AlbopopBotrugno
 # Inserisci, se esiste, l'URL dell'account twitter dell'albo
