@@ -3,7 +3,7 @@
 title: Collepasso
 tags: []
 # Inserisci l'URL dell'albo pretorio ufficiale
-original: http://www.svichosting.com/cpasso/mc/mc_gridev_messi.php?
+original: https://www.halleyweb.com/cpasso/mc/mc_p_ricerca.php
 # Inserisci l'URL del feed RSS dell'AlboPOP
 rss: http://feeds.feedburner.com/AlbopopCollepasso
 # Inserisci, se esiste, l'URL dell'account twitter dell'albo
