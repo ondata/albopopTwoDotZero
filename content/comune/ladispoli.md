@@ -1,8 +1,8 @@
 ---
 title: Ladispoli
 tags: []
-original: https://servizionline.comunediladispoli.it/web/trasparenza/albo-pretorio
-rss: https://feeds.feedburner.com/albopopladispoli
+original: https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio
+rss: https://fiorins.github.io/albopop-ladispoli/feed.xml
 twitter:
 facebook:
 telegram: https://t.me/AlboPopLadispoli
