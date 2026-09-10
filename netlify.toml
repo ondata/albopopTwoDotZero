@@ -1,0 +1,10 @@
+# Hugo 0.49.2 viene installato qui e non tramite HUGO_VERSION: sull'immagine
+# Ubuntu Noble, Netlify usa mise, il cui registry ha un checksum errato per
+# hugo-extended 0.49.2 e fa fallire il deploy in "Install dependencies".
+# Perché questo file abbia effetto, la variabile HUGO_VERSION va rimossa
+# dalle impostazioni del progetto su Netlify.
+
+[build]
+  publish = "public"
+  functions = "netlify/functions"
+  command = "curl -sL https://github.com/gohugoio/hugo/releases/download/v0.49.2/hugo_extended_0.49.2_Linux-64bit.tar.gz | tar xz hugo && ./hugo --gc --cleanDestinationDir"
