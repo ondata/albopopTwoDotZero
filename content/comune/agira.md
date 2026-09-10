@@ -1,11 +1,11 @@
 ---
 title: Agira
 tags: []
-original: http://www.comuneagira.gov.it/it-it/amministrazione/atti-pubblicazioni/albo-pretorio
+original: https://agira.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/589/470
 rss: http://feeds.feedburner.com/AlbopopAgira
-twitter: https://twitter.com/albopop_agira
-facebook: https://www.facebook.com/albopopAgira
-telegram: https://telegram.me/albopopagira
+twitter:
+facebook:
+telegram:
 pdf: 
 author: Giuseppe Ricceri (https://www.facebook.com/etanoox)
 regione: Sicilia
@@ -20,13 +20,8 @@ standard: false
 official: false
 ---
 
-La pagina dell'albo pretorio del **Comune di Agira** è questa: [http://www.comuneagira.gov.it/it-it/amministrazione/atti-pubblicazioni/albo-pretorio](http://www.comuneagira.gov.it/it-it/amministrazione/atti-pubblicazioni/albo-pretorio)
+La pagina dell'albo pretorio del **Comune di Agira** è questa: [https://agira.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/589/470](https://agira.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/589/470)
 
-Adesso puoi seguire le nuove pubblicazioni in albo in quattro modi dedicati:
-
-* su un account **Twitter** [https://twitter.com/albopop_agira](https://twitter.com/albopop_agira);
-* su un canale **Telegram** [https://telegram.me/albopopagira](https://telegram.me/albopopagira);
-* su una **pagina Facebook** [https://www.facebook.com/albopopAgira](https://www.facebook.com/albopopAgira);
-* iscrivendoti a un **feed RSS** [http://feeds.feedburner.com/AlbopopAgira](http://feeds.feedburner.com/AlbopopAgira).
+Adesso puoi seguire le nuove pubblicazioni in albo iscrivendoti a un **feed RSS** [http://feeds.feedburner.com/AlbopopAgira](http://feeds.feedburner.com/AlbopopAgira).
 
 **Autore**: [Giuseppe Ricceri](https://www.facebook.com/etanoox)
