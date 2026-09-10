@@ -1,3 +1,9 @@
+## 2026-09-10
+- Cingoli: aggiornato link albo pretorio su segnalazione del Comune (il precedente rispondeva 404)
+- Cingoli: sostituito stemma con la versione fornita dall'ente (`arms` 250px, `armsBackup` 500px)
+- Corretto `info@albopo.it` in `info@albopop.it` nel footer
+- Il feed RSS di Cingoli (ricostruzionetrasparente.it) è fermo al 19/09/2021: da decidere che farne
+
 ## 2025-12-31
 - Aggiunto comune di Terre del Reno (Ferrara, Emilia-Romagna)
 - Creato `content/comune/terre-del-reno.md` con metadati completi
