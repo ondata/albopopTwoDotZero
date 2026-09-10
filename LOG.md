@@ -1,4 +1,7 @@
 ## 2026-09-10
+- Deploy Netlify fermi dal passaggio all'immagine Ubuntu Noble: `mise` non installa hugo-extended 0.49.2 per un checksum errato nel registry aqua (il tarball scaricato è integro, verificato)
+- Ubuntu Focal non è più selezionabile, quindi Hugo si installa dal build command in `netlify.toml`; richiede la rimozione di `HUGO_VERSION` dalle env var del progetto
+- Da fare: aggiornare Hugo a una versione recente (0.49.2 è del 2018), lavoro a parte
 - Cingoli: aggiornato link albo pretorio su segnalazione del Comune (il precedente rispondeva 404)
 - Cingoli: sostituito stemma con la versione fornita dall'ente (`arms` 250px, `armsBackup` 500px)
 - Corretto `info@albopo.it` in `info@albopop.it` nel footer
