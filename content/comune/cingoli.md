@@ -1,7 +1,7 @@
 ---
 title: "Cingoli"
 tags: ["rt"]
-original: http://www.comune.cingoli.mc.it/albo-pretorio/albo-pretorio-pubblicazioni-in-corso/
+original: https://cingoli.halleyegov.it/redirect.html?F=MC09
 rss: http://feeds.ricostruzionetrasparente.it/albi_pretori/Cingoli_feed.xml
 twitter: 
 facebook: 
