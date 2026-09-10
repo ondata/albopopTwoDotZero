@@ -3,8 +3,11 @@
 # hugo-extended 0.49.2 e fa fallire il deploy in "Install dependencies".
 # Perché questo file abbia effetto, la variabile HUGO_VERSION va rimossa
 # dalle impostazioni del progetto su Netlify.
+#
+# Lo sha256 sotto è quello del tarball pubblicato da gohugoio, verificato
+# scaricandolo: sostituisce il controllo d'integrità che faceva mise.
 
 [build]
   publish = "public"
   functions = "netlify/functions"
-  command = "curl -sL https://github.com/gohugoio/hugo/releases/download/v0.49.2/hugo_extended_0.49.2_Linux-64bit.tar.gz | tar xz hugo && ./hugo --gc --cleanDestinationDir"
+  command = 'curl -sL -o hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/v0.49.2/hugo_extended_0.49.2_Linux-64bit.tar.gz && echo "be6db985d1daf3494d317a3a7f9d30a43094d46c9a90c78724602d2ac0771c0f  hugo.tar.gz" | sha256sum -c - && tar xzf hugo.tar.gz hugo && ./hugo --gc --cleanDestinationDir'
