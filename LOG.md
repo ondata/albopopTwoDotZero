@@ -1,3 +1,7 @@
+## 2026-11-13
+- Crema: sostituito il vecchio RSS non funzionante con https://lucasccrema.github.io/albopop-crema-feed/feed.xml
+- Verificati HTTP 200, XML valido, 98 avvisi senza GUID duplicati e due collegamenti agli atti funzionanti.
+
 ## 2026-09-10
 - Deploy Netlify fermi dal passaggio all'immagine Ubuntu Noble: `mise` non installa hugo-extended 0.49.2 per un checksum errato nel registry aqua (il tarball scaricato è integro, verificato)
 - Ubuntu Focal non è più selezionabile, quindi Hugo si installa dal build command in `netlify.toml`; richiede la rimozione di `HUGO_VERSION` dalle env var del progetto
